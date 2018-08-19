@@ -1,14 +1,23 @@
 # Site settings
-title:          Tale
-description:    "Minimal Jekyll theme for storytellers"
-baseurl:        "/tale"
-url:            "https://chesterhow.github.io"
+title:          "Gregg Bernstein"
+description:    "The personal site of Gregg Bernstein, user researcher, speaker, writer, and editor."
+baseurl:        ""
+url:            "http://gregg.io" # the base hostname & protocol for your site
+twitter:
+  username: greggcorp
+  card: summary
 
-# Author
-author:
-  name:         Chester How
-  url:          https://chester.how
-  email:        chesterhow@gmail.com
+logo: /assets/gregg-logo.png
+
+social:
+  name: Gregg Bernstein
+  links:
+    - https://twitter.com/greggcorp
+    - https://www.linkedin.com/in/greggbernstein
+
+# Google services
+google_analytics: UA-79596449-1
+
 
 # Build settings
 markdown:       kramdown
@@ -20,10 +29,13 @@ sass:
 
 # Gems
 plugins:
+  - jekyll-remote-theme
   - jekyll-feed
   - jekyll-paginate
-  # - jemoji #Uncomment this to allow emoji in your post
+  - jemoji
+  - jekyll-seo-tag
 
 # Permalinks
+paginate_path: "blog/page/:num/"
 permalink:      /:year-:month-:day/:title
 paginate:       5

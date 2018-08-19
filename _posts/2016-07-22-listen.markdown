@@ -1,0 +1,34 @@
+---
+layout: post
+title:  "Listen Hard"
+date:   2016-07-22 14:34:25
+description:
+categories:
+---
+Listening is _hard_. It takes effort, patience, and practice. All at once, you're taking in a narrative, providing cues that you're engaged (nodding, saying "um-hmm"), analyzing what's taking place, mulling over cogent responses, and mentally filing away bits to return to later.
+
+Doing so professionally adds additional tasks: documenting everything, missing nothing, and staying somewhat on course.
+
+In reading about interview techniques, I came across another way to listen: the **voice-relational analysis**. Typically this happens after an interview is completed—when you're reviewing transcripts. But perform this analysis enough and you begin to do so _while listening_, giving you a more accurate perspective on what you're hearing, and directions for new questions.
+
+Here's how the voice-relational analysis works:
+
+**1. Listen for plot**
+
+This is what you're already doing—you're capturing the story.
+
+**2. Listen for voice**
+
+Let's say we're talking about software, and I ask, "What apps do you use?" Here's a typical response:
+
+_I use Gmail and Evernote. Oh, and we also use Microsoft Word._
+
+The shift from "I" to "We" is telling—this person expresses personal preference versus organizational requirements by shifting voice. She likes Gmail and Evernote, but her company has saddled everyone with Word. (Of course, this might not be the entire story, but now we have an opportunity to explore further.)
+
+**3. Listen for roles**
+
+Using the same answer above, we can determine the role of the person we're listening to. The statement, "We use Microsoft Word," seems to imply that selecting Word was _someone else's_ choice. We can begin to form an org chart in our heads, and this person is not at the top. (Again, this might not be entirely true, but it provides us with more questions as we listen further.)
+
+Listening for role tells us who is empowered, versus who is not in a position of authority. If you're trying to sell a product, or determine who might be authorized to make a purchase, this is solid gold.
+
+Listening is hard, but so crucial. Listen hard enough and you'll gain empathy and understanding. You'll hear what you need to build the right experience for the right person.

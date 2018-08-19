@@ -1,0 +1,22 @@
+---
+layout: post
+title:  "An Outlet for Output"
+date:   2016-06-13 09:25:11
+description:
+categories:
+---
+
+As a designer, I used to obsess over the emails I sent to clients about projects. Most contained a clear thesis statement about my design objectives. And an outline of how I planned to approach image and type. Sometimes I included a breakdown of the production schedule. I'd re-read these emails long after hitting 'send' just to see what made sense and where I needed to improve.
+
+In hindsight it's clear that I didn't love design; I loved the writing process. And writing _about_ design and process. And thinking over design problems and potential solutions. I loved getting things out of my head and into a medium where others could clearly understand me.
+
+After a decade of designing for clients, I taught design for college students. I spent an inordinate amount of time writing lecture and project outlines, and providing lengthy replies to emails about design assignments. Then I went to grad school to "master" design with the intention of teaching for a living, and, yep… more writing—long design criticisms, links to interesting articles, feedback for classmates about their projects, and a thesis heavier on words than design.
+
+I didn't plan it, but I miraculously ended up as a design researcher, where my _job_ was to think and write about design. The cherry on top was planning, writing for, and editing the [MailChimp UX Newsletter](http://theuxnewsletter.com). I was writing (or thinking about what to write) nearly every day, and loving every minute of it.
+
+## An Outlet for Output
+With the exception of some tweets here and there, and a whole lot of direct messages on Slack, I've lacked an outlet. As a result, my list of writing topics grew as my output dwindled.
+
+Which brings me here: a new site that serves as an outlet. I tend to write about user experience, research, and the building of/collaboration among teams. Look for more of that, along with the occasional outlier topic.
+
+I'm excited to share my thoughts here. If something resonates, please let me know and please share with others. This is going to be fun.

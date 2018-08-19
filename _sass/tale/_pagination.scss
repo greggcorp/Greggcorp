@@ -1,12 +1,12 @@
 .pagination {
-  border-top: .5px solid $grey-2;
-  font-family: $serif-secondary;
+  border-top: 1px solid #eee;
+  font-family: $sans-serif;
+  color: #aaa;
   padding-top: 2rem;
   position: relative;
   text-align: center;
 
   span {
-    color: $default-shade;
     font-size: 1.1rem;
   }
 
@@ -36,9 +36,15 @@
 
   .left {
     left: 0;
+    border-radius: 4px;
+    padding: 2px 18px 4px;
+    box-shadow: 0 0 0 1px #3366ff;
   }
 
   .right {
     right: 0;
+    border-radius: 4px;
+    padding: 2px 18px 4px;
+    box-shadow: 0 0 0 1px #3366ff;
   }
 }

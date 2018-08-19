@@ -7,11 +7,14 @@
     <nav class="nav">
       <div class="nav-container">
         <a href="{{ site.baseurl }}/">
-          <h2 class="nav-title">{{ site.title }}</h2>
+          <h4 class="nav-title">{{ site.title }}</h4>
         </a>
         <ul>
           <li><a href="{{ '/about' | prepend: site.baseurl }}">About</a></li>
-          <li><a href="{{ site.baseurl }}/">Posts</a></li>
+          <li><a href="{{ '/book' | prepend: site.baseurl }}">Book</a></li>
+              <li><a href="{{ '/speaking' | prepend: site.baseurl }}">Speaking</a></li>
+          <li><a target="_blank" href="https://twitter.com/greggcorp"><span class="fa fa-twitter"></span></a></li>
+          <li><a target="_blank" href="https://www.linkedin.com/in/greggbernstein"><span class="fa fa-linkedin"></span></a></li>
         </ul>
       </div>
     </nav>
@@ -22,7 +25,7 @@
 
     <footer>
       <span>
-        &copy; <time datetime="{{ site.time }}">{{ site.time | date: '%Y' }}</time> {{ site.author.name }}. Made with Jekyll using the <a href="https://github.com/chesterhow/tale/">Tale</a> theme.
+        &copy; <time datetime="{{ site.time }}">{{ site.time | date: '%Y' }}</time>{{ site.author.name }} • Made with <a href="https://jekyllrb.com/" target="blank">Jekyll</a> using a Frankenstein of the <a href="https://github.com/chesterhow/tale/" target="blank">Tale</a> theme • <a href="../contact">Get in touch</a> • <a href="{{ "/feed.xml" | prepend: site.baseurl }}">RSS</a>
       </span>
     </footer>
   </body>

@@ -14,8 +14,20 @@ footer,
 }
 
 .nav {
-  box-shadow: 0 2px 2px -2px $shadow-color;
-  overflow: auto;
+  box-shadow: 0 2px 2px -2px #fff;
+  background: #3366ff;
+      background-image: -moz-linear-gradient(right top, #2E69BF 0%, #26C1CC 100%);
+      background-image: -webkit-gradient(linear, right top, left bottom, color-stop(0, #2E69BF), color-stop(1, #26C1CC));
+      background: -webkit-linear-gradient(right top, #2E69BF 0%, #26C1CC 100%);
+      background: -o-linear-gradient(right top, #2E69BF 0%, #26C1CC 100%);
+      background: -ms-linear-gradient(right top, #2E69BF 0%, #26C1CC 100%);
+      background: linear,right top,#2E69BF 0%,#26C1CC 100%;
+      opacity: 0.95;
+      z-index: 10;
+      -webkit-transition: 0.5s;
+      -moz-transition: 0.5s;
+      transition: 0.5s;
+      overflow: auto;
 
   &-container {
     margin: 1rem auto;
@@ -25,14 +37,17 @@ footer,
 
   &-title {
     @include transition(all .2s ease-out);
-    color: $default-color;
+    color: #fff;
     display: inline-block;
     margin: 0;
     padding-right: .2rem;
+    opacity: .9;
+
 
     &:hover,
     &:focus {
-      opacity: .6;
+      text-decoration: underline;
+      opacity: 1;
     }
   }
 
@@ -45,9 +60,9 @@ footer,
 
   li {
     @include transition(all .2s ease-out);
-    color: $default-color;
+    color: #fff;
     display: inline-block;
-    opacity: .6;
+    opacity: .9;
     padding: 0 2rem 0 0;
 
     &:last-child {
@@ -57,11 +72,12 @@ footer,
     &:hover,
     &:focus {
       opacity: 1;
+      text-decoration: underline;
     }
   }
 
   a {
-    color: $default-color;
+    color: #fff;
     font-family: $sans-serif;
   }
 }
@@ -90,3 +106,69 @@ footer {
     font-size: .8rem;
   }
 }
+
+input, textarea {
+  font-size: 1.1rem;
+  box-shadow: 0 0 0 0px #3366ff;
+  border-radius: 4px;
+  background: #fff;
+  padding: 2px 18px 4px;
+  transition: all 0.3s ease-in-out;
+  width: 100%; }
+  input.code, textarea.code {
+    font-family: $sans-serif; }
+  input:focus, textarea:focus {
+    opacity: .6;
+    }
+
+input[type="checkbox"],
+input[type="radio"] {
+  width: auto;
+  margin-right: 6px; }
+
+form input, form textarea {
+  margin-bottom: 0.5em; }
+
+#formview textarea {
+  height: 10.3em; }
+
+  button, a.button {
+    font-family: $sans-serif;
+    font-size: 1.1rem;
+    border-radius: 4px;
+    padding: 2px 18px 4px;
+    box-shadow: 0 0 0 1px #3366ff;
+    color: $default-color;
+    background: #fff;
+    transition: all 0.3s ease-in-out; }
+
+    button:hover, a.button:hover {
+      opacity: .6;
+      text-decoration: none;}
+
+    button:hover.emphasis, a.button:hover.emphasis {
+        color: white;
+        }
+
+    button[disabled], button[disabled]:hover, a.button[disabled], a.button[disabled]:hover {
+      opacity: .6;
+      text-decoration: none;}
+
+  .animate {
+    -moz-animation-iteration-count: once;
+    -moz-animation-timing-function: cubic-bezier(0.895, 0.03, 0.685, 0.22);
+    -moz-animation-duration: 0.4s;
+    -webkit-animation-iteration-count: once;
+    -webkit-animation-timing-function: cubic-bezier(0.895, 0.03, 0.685, 0.22);
+    -webkit-animation-duration: 0.4s; }
+    .animate.dropIn {
+      -moz-animation-name: dropIn;
+      -webkit-animation-name: dropIn; }
+
+#mc_embed_signup#mc_embed_signup form {
+        padding-left: 0;
+      }
+
+#mc_embed_signup#mc_embed_signup button {
+       display: inline-block;
+     }

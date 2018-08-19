@@ -1,15 +1,13 @@
 ---
-layout: post
-title: "About"
-author: "Chester"
+layout: static
+title: About
 permalink: /about/
 ---
 
-A friend of mine writes short stories. One sunny day, I asked if he wanted a website to showcase his works and he agreed. I decided to use GitHub Pages to host his site. That way he wouldn't have to buy a domain and a server.
+Gregg Bernstein establishes user research practices for growing organizations. As senior director of user research for [Vox Media](http://www.voxmedia.com), he spends his days advocating for and practicing user-centered product development. He speaks around the world about his work at conferences, most recently at UX Scotland 2018 and UX Insight 2018 (Utrecht), and for such companies as Booking.com, CA Technologies, Etsy, EA Games, Fullstory, and more. [See where he's speaking next](../speaking).
 
-While doing some research up on GitHub Pages, I accidentally chanced upon this _simple, blog-aware, static site generator_ called [Jekyll](https://jekyllrb.com/) which works really well with GitHub Pages. I figured it would do just fine for my friend and I set about searching for a pretty theme. I wanted a theme with a _book-ish_ vibe. Unfortunately, most of the themes were too modern. Eventually, I caved and begun working on my own theme. With the help of [Poole](https://github.com/poole/poole), the Jekyll Butler, I was able to build **Tale**.
+He built an innovative and influential research practice over his four years at [MailChimp](http://www.mailchimp.com), and taught design, branding, and typography at Georgia State University. In a previous life, he designed albums for punk and emo bands, and for clients in the music and advertising industries. [Visit the archive](../albums).
 
-## Contribute
-Feel free to create an issue or make a pull request on [GitHub](https://github.com/chesterhow/tale).
+Gregg earned his MFA in Graphic Design from the Savannah College of Art & Design, where he focused on user experience research and design. He resides with his family in Athens, Georgia, and he enjoys long trail runs and cocktails on the rocks (though not at the same time).
 
-Thanks for reading!
+Need more information? [Get in touch](../contact).
