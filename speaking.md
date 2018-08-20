@@ -4,13 +4,13 @@ title: Speaking
 permalink: /speaking/
 ---
 
-# Upcoming conferences
+# Upcoming
 [Webdagene](https://www.webdagene.no/en/), Oslo, Norway, 17-19 October 2018
 <br />
 <br />
 
 ----
-# Previous conferences
+# Previous
 [UX Scotland](https://uxscotland.net/), 13-15 June 2018
 
 [UX Insight](https://uxinsightevent.com/), Utrecht, the Netherlands, 8 March 2018
@@ -25,7 +25,7 @@ permalink: /speaking/
 
 [UX Copenhagen](https://uxcopenhagen.com/), March 2016
 
-[WebExpo](https://www.webexpo.net/), Prague, Czech Republic, September 2016
+[WebExpo](https://www.webexpo.net/), Prague, Czech Republic, September 2015
 
 [Web a Quebec](https://webaquebec.org/), 18-20 March 2015
 
@@ -36,7 +36,7 @@ Giant Conference, Charleston, USA, June 2014
 <br />
 
 ----
-# Company events
+# Company & team events
 Gregg has spoken about UX research with teams from EA Games, Etsy, Fullstory, Booking.com, CA Technologies, and more.
 
 Want to book Gregg for your conference or company event? [Get in touch](../contact).
