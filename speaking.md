@@ -5,6 +5,8 @@ permalink: /speaking/
 ---
 
 # Upcoming
+[InVision DesignTalks: UX Research](https://invs.io/2phpSKG), Webinar, 11 October 2018
+
 [Webdagene](https://www.webdagene.no/en/), Oslo, Norway, 17-19 October 2018
 <br />
 <br />
