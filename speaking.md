@@ -5,14 +5,16 @@ permalink: /speaking/
 ---
 
 # Upcoming
-[InVision DesignTalks: UX Research](https://invs.io/2phpSKG), Webinar, 11 October 2018
-
-[Webdagene](https://www.webdagene.no/en/), Oslo, Norway, 17-19 October 2018
+2019 talks will be posted here—stay tuned.
 <br />
 <br />
 
 ----
 # Previous
+[Webdagene](https://www.webdagene.no/en/talk/you-re-already-a-researcher), Oslo, Norway, 17-19 October 2018
+
+[InVision DesignTalks: UX Research](https://youtu.be/cvgAvXFuJ7k), Webinar, 11 October 2018
+
 [UX Scotland](https://uxscotland.net/), 13-15 June 2018
 
 [UX Insight](https://uxinsightevent.com/), Utrecht, the Netherlands, 8 March 2018
@@ -38,7 +40,15 @@ Giant Conference, Charleston, USA, June 2014
 <br />
 
 ----
+# Interviews
+[Aurelius Podcast](https://blog.aureliuslab.com/gregg-bernstein-user-research-interview), 30 October 2018
+
+[Dollars to Donuts Podcast with Steve Portigal](https://www.portigal.com/podcast/1-gregg-bernstein-of-mailchimp/), 7 January 2015
+<br />
+<br />
+
+----
 # Company & team events
-Gregg has spoken about UX research with teams from EA Games, Etsy, Fullstory, Booking.com, CA Technologies, and more.
+Gregg has spoken about product and UX research with teams from Paylocity, Sprout Social, EA Games, Etsy, Fullstory, Booking.com, CA Technologies, and more.
 
 Want to book Gregg for your conference or company event? [Get in touch](../contact).
