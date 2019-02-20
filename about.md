@@ -8,6 +8,6 @@ Gregg Bernstein establishes user research practices for growing organizations. A
 
 He built an innovative and influential research practice over his four years at [MailChimp](http://www.mailchimp.com), and taught design, branding, and typography at Georgia State University. In a previous life, he designed albums for punk and emo bands, and for clients in the music and advertising industries. [Visit the archive](../albums).
 
-Gregg earned his MFA in Graphic Design from the Savannah College of Art & Design, where he focused on user experience research and design. He resides with his family in Athens, Georgia, and he enjoys long trail runs and cocktails on the rocks (though not at the same time).
+Gregg earned his MFA in Graphic Design from the Savannah College of Art & Design, where he focused on user experience research and design. He resides with his family in Athens, Georgia, where he enjoys long, quiet trail runs around the state botanical gardens.
 
 Need more information? [Get in touch](../contact).

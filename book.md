@@ -13,13 +13,14 @@ Think of this as a personal book with business lessons, and a business book of p
 What this book offers is context around the practice of user research. I'll share stories about how big research operations started with simple acts of curiosity, and I'll walk through some projects and experiences that shaped my approach to building awareness and adoption of research practices.
 
 Here's how the chapters are shaping up:
-* A practical approach to research
-* Build a research coalition
-* Core beliefs and guiding principles
-* The methods that matter
-* Building a team
-* Research service models for organizations
-* Templates and exercises to identify research opportunities in your organization
+* The job of user research
+* You already have data
+* You're already a researcher
+* Form a research coalition
+* Small samples are ok
+* Every org loves a good story
+* Building the team
+* Templates and exercises
 
 ### Who is this for?
 This book assumes you work with colleagues at an organization. My experience is with software teams, but based on my interviews, presentations, and workshops, the advice and practices here apply to a wide range of industries and organizations.
