@@ -5,12 +5,14 @@ permalink: /speaking/
 ---
 
 # Upcoming
-[Strive: The 2019 UX Research Conference](http://uxrconference.com/), Toronto, Canada, 6-7 June 2019
+[User Research Atlanta](https://userresearchatlanta.com), 13 September 2019
 <br />
 <br />
 
 ----
 # Previous
+[Strive: The 2019 UX Research Conference](http://uxrconference.com/), Toronto, Canada, 6-7 June 2019
+
 [Webdagene](https://www.webdagene.no/en/talks/you-re-already-a-researcher), Oslo, Norway, 17-19 October 2018
 
 [InVision DesignTalks: UX Research](https://youtu.be/cvgAvXFuJ7k), Webinar, 11 October 2018

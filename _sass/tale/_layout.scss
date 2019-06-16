@@ -126,34 +126,43 @@ input[type="radio"] {
   width: auto;
   margin-right: 6px; }
 
-form input, form textarea {
-  margin-bottom: 0.5em; }
-
-#formview textarea {
-  font-family: $sans-serif;
-  height: 10.3em; }
-
-  button, a.button {
+  form input, form textarea, form button, #formview {
     font-family: $sans-serif;
-    font-size: 1.1rem;
-    border-radius: 4px;
-    padding: 2px 18px 4px;
-    box-shadow: 0 0 0 1px #3366ff;
-    color: $default-color;
-    background: #fff;
-    transition: all 0.3s ease-in-out; }
+    transition: none;
+  }
 
-    button:hover, a.button:hover {
-      opacity: .6;
-      text-decoration: none;}
+  form input:focus, form textarea:focus {
+   opacity: .8;
+  }
 
-    button:hover.emphasis, a.button:hover.emphasis {
-        color: white;
-        }
+  form input, form textarea {
+    font-size: 16px;
+    margin-bottom: 11px;
+    border-width: 1px;
+    border-color: #777;
+    border-radius: 3px;
+    padding-top: 6px;
+    padding-bottom: 6px;
+  }
 
-    button[disabled], button[disabled]:hover, a.button[disabled], a.button[disabled]:hover {
-      opacity: .6;
-      text-decoration: none;}
+  form textarea {
+    padding-left: 16px;
+  }
+
+  form button {
+    margin-top: 3px;
+    font-size: 16px;
+    border-radius: 3px;
+    border: 2px solid #3971c2;
+    color: #333;
+    font-weight: 500;
+  }
+
+  form button:hover {
+    cursor: pointer;
+    opacity: 1;
+    color: #777;
+  }
 
   .animate {
     -moz-animation-iteration-count: once;
