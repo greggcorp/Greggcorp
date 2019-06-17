@@ -43,6 +43,8 @@ Giant Conference, Charleston, USA, June 2014
 
 ----
 # Interviews
+[InVision Fireside Chat](https://www.invisionapp.com/webinars/uxresearch), 13 June 2019
+
 [Aurelius Podcast](https://blog.aureliuslab.com/gregg-bernstein-user-research-interview), 30 October 2018
 
 [Dollars to Donuts Podcast with Steve Portigal](https://www.portigal.com/podcast/1-gregg-bernstein-of-mailchimp/), 7 January 2015
