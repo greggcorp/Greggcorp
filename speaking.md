@@ -6,6 +6,8 @@ permalink: /speaking/
 
 # Upcoming
 [User Research Atlanta](https://userresearchatlanta.com), 13 September 2019
+
+[UX New Zealand](http://www.uxnewzealand.com), 30 October-1 November 2019
 <br />
 <br />
 
