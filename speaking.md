@@ -45,6 +45,8 @@ Giant Conference, Charleston, USA, June 2014
 
 ----
 # Interviews
+[Rosenfeld Media Advancing Research](https://rosenfeldmedia.com/advancing-research-community/archive/upcoming-videoconference-gregg-bernstein/), 11 July 2019
+
 [InVision Fireside Chat](https://www.invisionapp.com/webinars/uxresearch), 13 June 2019
 
 [Aurelius Podcast](https://blog.aureliuslab.com/gregg-bernstein-user-research-interview), 30 October 2018
