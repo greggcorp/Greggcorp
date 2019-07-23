@@ -39,12 +39,16 @@ permalink: /speaking/
 
 Tiny Giant, Charlotte, USA, 23 January 2015
 
+Atlanta Web Design Group, 12 August 2014
+
 Giant Conference, Charleston, USA, June 2014
 <br />
 <br />
 
 ----
 # Interviews
+[Branded Podcast](https://www.breaker.audio/branded/e/48864834), 11 July 2019
+
 [Rosenfeld Media Advancing Research](https://rosenfeldmedia.com/advancing-research-community/archive/upcoming-videoconference-gregg-bernstein/), 11 July 2019
 
 [InVision Fireside Chat](https://www.invisionapp.com/webinars/uxresearch), 13 June 2019
@@ -57,6 +61,20 @@ Giant Conference, Charleston, USA, June 2014
 
 ----
 # Company & team events
-Gregg has spoken about product and UX research with teams from Paylocity, Sprout Social, EA Games, Etsy, Fullstory, Booking.com, CA Technologies, and more.
+Gregg has spoken about product and UX research with teams from companies like:
+
+[Paylocity](https://www.paylocity.com)
+
+[Sprout Social](https://sproutsocial.com)
+
+[Booking.com](https://www.booking.com)
+
+[CA Technologies](https://www.ca.com)
+
+[Electronic Arts](https://www.ea.com)
+
+[Etsy](https://www.etsy.com)
+
+[Fullstory](https://www.fullstory.com)
 
 Want to book Gregg for your conference or company event? [Get in touch](../contact).
