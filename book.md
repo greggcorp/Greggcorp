@@ -3,40 +3,39 @@ layout: static
 title: Research Practice
 permalink: /book/
 ---
-## _Research Practice: User Research for Product Orgs_
 
-Coming in 2019: An opinionated guide to the practice of user research from someone who’s developed practices, built teams, and shipped products.
+*Research Practice* is the book that every HCI, UX, and interaction design student will read to understand what applied user research really looks like, based on the stories and experiences of the people who work in this field. _In the works now, and coming in early 2020._
 
-### _From the author_:
-Think of this as a personal book with business lessons, and a business book of personal stories. I'm not going to tell you how to conduct an interview, or how to synthesize findings—great books already cover those aspects of user research.
+### What’s the structure for this book?
 
-What this book offers is context around the practice of user research. I'll share stories about how big research operations started with simple acts of curiosity, and I'll walk through some projects and experiences that shaped my approach to building awareness and adoption of research practices.
+The book is comprised of the following sections, with invited contributors writing short essays related to one or more sections:
+* Who practices user research?
+* What is the territory of user research?
+* How do user researchers integrate with their organizations?
+* What is the day-to-day of user research practice?
+* How do you build awareness of user research in your organization?
+* How do you scale your user research practice?
+* What’s hard about user research?
+* What happens after user research?
 
-Here's how the chapters are shaping up:
-* The job of user research
-* You already have data
-* You're already a researcher
-* Form a research coalition
-* Small samples are ok
-* Every org loves a good story
-* Building the team
-* Templates and exercises
+### How does this book differ from other UX and research books and resources?
 
-### Who is this for?
-This book assumes you work with colleagues at an organization. My experience is with software teams, but based on my interviews, presentations, and workshops, the advice and practices here apply to a wide range of industries and organizations.
+While other books successfully cover the broad terrain of user research and common methods, there is not a book that adequately captures the day-to-day of the practice of user research for product organizations. From how to get started to scaling a team to working with designers to making tradeoffs thoughtfully, this book comprises the spectrum of user research practice experiences.
 
-If you're:
-* a beginner researcher
-* a product team that's about to hire or just hired a new researcher
-* a manager of user researchers
-* a research team of one who is thinking about how to scale
+### Who is the audience for this book?
 
-… then this book might be for you.
+* Primary audience: UX, HCI, and interaction design students
+* Secondary audience: People who already do user research on a product team
+* Tertiary audiences: People who are generally interested in UX research, like product managers and designers; and career switchers, like those interested in transitioning from academia to practice
 
+### Who is producing this book?
 
+I'm self-publishing this book. It will be available in print and digital formats, following the successful models provided by [Abby Covert](http://abbytheia.com/) (_How to Make Sense of Any Mess_), [Brad Frost](http://bradfrost.com/) (_Atomic Design_), and [Jan Chipchase](https://janchipchase.com/) (_The Field Study Handbook_).
 
-## Sign up for details
-Get notified as the book takes shape:
+[Nicole Fenton](https://www.nicolefenton.com/) is editing the book. Nicole is co-author of _Nicely Said: Writing for the Web_ and editor for books from A Book Apart and the aforementioned _How to Make Sense of Any Mess_.
+
+### Sign up for details
+Get notified as the book takes shape!
 
 <!-- Begin MailChimp Signup Form -->
 <div id="mc_embed_signup">
