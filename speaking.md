@@ -5,15 +5,17 @@ permalink: /speaking/
 ---
 
 # Upcoming
-[UX New Zealand](http://www.uxnewzealand.com), 30 October-1 November 2019
+Check back soon!
 <br />
 <br />
 
 ----
 # Previous
+[UX New Zealand](http://www.uxnewzealand.com), 30 October-1 November 2019
+
 [User Research Atlanta](https://userresearchatlanta.com), 13 September 2019
 
-[Strive: The 2019 UX Research Conference](http://uxrconference.com/), Toronto, Canada, 6-7 June 2019
+[Strive: The 2019 UX Research Conference](https://youtu.be/f6h0nvL7xWA), Toronto, Canada, 6-7 June 2019
 
 [Webdagene](https://vimeo.com/297311682), Oslo, Norway, 17-19 October 2018
 
