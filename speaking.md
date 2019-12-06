@@ -11,7 +11,7 @@ Check back soon!
 
 ----
 # Previous
-[UX New Zealand](http://www.uxnewzealand.com), 30 October-1 November 2019
+[UX New Zealand](http://www.uxnewzealand.com/speakers/gregg-bernstein/), 30 October-1 November 2019
 
 [User Research Atlanta](https://userresearchatlanta.com), 13 September 2019
 
