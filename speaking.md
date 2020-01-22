@@ -5,7 +5,7 @@ permalink: /speaking/
 ---
 
 # Upcoming
-Check back soon!
+[User Research London](https://www.userresearchlondon.com/programme-2020), 26 June 2020
 <br />
 <br />
 
