@@ -32,7 +32,7 @@ While other books successfully cover the broad terrain of user research and comm
 
 I'm self-publishing this book. It will be available in print and digital formats, following the successful models provided by [Abby Covert](http://abbytheia.com/) (_How to Make Sense of Any Mess_), [Brad Frost](http://bradfrost.com/) (_Atomic Design_), and [Jan Chipchase](https://janchipchase.com/) (_The Field Study Handbook_).
 
-[Nicole Fenton](https://www.nicolefenton.com/) is editing the book. Nicole is co-author of _Nicely Said: Writing for the Web_ and editor for books from A Book Apart and the aforementioned _How to Make Sense of Any Mess_.
+[Nicole Fenton](https://www.nicolefenton.com/) is editing the book. Nicole is co-author of _Nicely Said: Writing for the Web with Style and Purpose_ and editor for books from A Book Apart and the aforementioned _How to Make Sense of Any Mess_.
 
 ### Sign up for details
 Get notified as the book takes shape!
