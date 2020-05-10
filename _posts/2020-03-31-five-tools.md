@@ -14,4 +14,4 @@ For Adobe XD Ideas, I shared my approach to UX research tooling:
 
 <br />
 
-[Read the entire post on the Shopify Partners blog](https://www.shopify.com/partners/blog/user-research-methods).
+[Read the entire post on Adobe XD Ideas](https://xd.adobe.com/ideas/process/user-research/best-ux-research-tools/).
