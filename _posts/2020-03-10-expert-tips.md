@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "User Research Methods: 13 Expert Tips to Master the Process"
+title: "User research methods: 13 expert tips to master the process"
 date:   2020-03-10 10:00:25
 description: For the Shopify blog
 categories:
