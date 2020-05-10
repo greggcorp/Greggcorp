@@ -4,19 +4,19 @@ title: Research Practice
 permalink: /book/
 ---
 
-*Research Practice* is the book that every HCI, UX, and interaction design student will read to understand what applied user research really looks like, based on the stories and experiences of the people who work in this field. _In the works now, and coming in early 2020._
+*Research Practice* is the book that every HCI, UX, and interaction design student will read to understand what applied user research really looks like, based on the stories and experiences of the people who work in this field. _In the works now, and coming in fall 2020._
 
 ### What’s the structure for this book?
 
 The book is comprised of the following sections, with invited contributors writing short essays related to one or more sections:
-* Who practices user research?
-* What is the territory of user research?
-* How do user researchers integrate with their organizations?
-* What is the day-to-day of user research practice?
-* How do you build awareness of user research in your organization?
-* How do you scale your user research practice?
-* What’s hard about user research?
-* What happens after user research?
+* The people who practice user research
+* Getting started in a user research role
+* The people user researchers work with
+* The day-to-day of user research
+* Sharing user research with others
+* Expanding a user research practice
+* Challenges in user research
+* Where user researchers go next
 
 ### How does this book differ from other UX and research books and resources?
 
