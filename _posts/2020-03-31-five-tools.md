@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "5 Effective UX Research Tools That the Experts Use"
-date:   2020-03-10 10:00:25
+title: "5 effective UX research tools that the experts use"
+date:   2020-03-31 10:00:25
 description: For Adobe XD Ideas
 categories:
 ---
