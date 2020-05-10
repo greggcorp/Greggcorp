@@ -37,21 +37,6 @@ I'm self-publishing this book. It will be available in print and digital formats
 ### Sign up for details
 Get notified as the book takes shape!
 
-<!-- Begin MailChimp Signup Form -->
-<div id="mc_embed_signup">
-<form action="https://gregg.us13.list-manage.com/subscribe/post?u=e66f904b5ca03f5113861b947&amp;id=721994a3f9" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
-
-
-	<input type="email" value="" placeholder="Your email" name="EMAIL" class="required email" id="mce-EMAIL">
-	<input type="text" value="" placeholder="Your first name" name="FNAME" class="" id="mce-FNAME">
-	<input type="text" value="" placeholder="Your last name" name="LNAME" class="" id="mce-LNAME">
-	<div id="mce-responses" class="clear">
-		<div class="response" id="mce-error-response" style="display:none"></div>
-		<div class="response" id="mce-success-response" style="display:none"></div>
-	</div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
-    <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_e66f904b5ca03f5113861b947_721994a3f9" tabindex="-1" value=""></div>
-    <button type="submit" value="Subscribe">Subscribe</button>
-</form>
-</div>
-
-<!--End mc_embed_signup-->
+<!-- Begin Substack form -->
+<iframe src="https://gregg.substack.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
+<!--End Substack form-->
