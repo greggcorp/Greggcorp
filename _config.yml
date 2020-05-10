@@ -15,10 +15,6 @@ social:
     - https://twitter.com/greggcorp
     - https://www.linkedin.com/in/greggbernstein
 
-# Google services
-google_analytics: UA-79596449-1
-
-
 # Build settings
 markdown:       kramdown
 
