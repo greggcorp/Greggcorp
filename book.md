@@ -38,5 +38,7 @@ I'm self-publishing this book. It will be available in print and digital formats
 Get notified as the book takes shape!
 
 <!-- Begin Substack form -->
-<iframe src="https://gregg.substack.com/embed" width="800" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
+<div class="iframe-container">
+<iframe src="https://gregg.substack.com/embed" style="border:1px solid #EEE; background:white;" scrolling="no"></iframe>
+</div>
 <!--End Substack form-->
