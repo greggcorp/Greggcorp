@@ -15,7 +15,7 @@ Research Practice takes you inside the field of applied user research through th
 
 {% include button.html button_name="Pre-order now" button_class="primary" url="https://www.amazon.com/dp/B08P9VZJFN?ref_=pe_3052080_276849420" %}
 
-### What’s the structure for this book?
+### What’s in the book?
 
 Each chapter explores a specific theme:
 1. **Finding a way in** presents the various pathways people take to this field. You’ll learn how practitioners navigated from schools, the social sciences, fine arts, and beyond to a career that satisfies and rewards a passion for understanding people.
