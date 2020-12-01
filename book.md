@@ -3,39 +3,35 @@ layout: static
 title: Research Practice
 permalink: /book/
 ---
+## Perspectives from UX researchers in a changing field
 
-*Research Practice* is the book that every HCI, UX, and interaction design student will read to understand what applied user research really looks like, based on the stories and experiences of the people who work in this field. _In the works now, and coming in fall 2020._
+![Research Practice](/assets/images/book_cover.png "Research Practice cover image")
+
+This book is not an argument for doing user research. Nor is it a tutorial or toolkit for common methodologies. It won’t show you how to run a usability session or recruit users remotely—though I will share helpful resources on those topics in the appendix.
+
+**Research Practice captures the day-to-day of the practice itself—what it looks like to work with peers and stakeholders, to raise awareness of research, to make tradeoffs, and to build a larger team.**
+
+Research Practice takes you inside the field of applied user research through the stories and experiences of the people doing the work. Kindle edition available for pre-order now. The paperback and ebook launch on 19 January 2021.
+
+{% include button.html button_name="Pre-order now" button_class="primary" url="https://www.amazon.com/dp/B08P9VZJFN?ref_=pe_3052080_276849420" %}
 
 ### What’s the structure for this book?
 
-The book is comprised of the following sections, with invited contributors writing short essays related to one or more sections:
-* The people who practice user research
-* Getting started in a user research role
-* The people user researchers work with
-* The day-to-day of user research
-* Sharing user research with others
-* Expanding a user research practice
-* Challenges in user research
-* Where user researchers go next
+Each chapter explores a specific theme:
+1. **Finding a way in** presents the various pathways people take to this field. You’ll learn how practitioners navigated from schools, the social sciences, fine arts, and beyond to a career that satisfies and rewards a passion for understanding people.
+2. **Getting started in a new role** demystifies why organizations hire researchers, how to assess a role, the hiring process, and how to start when you land a new job.
+3. **Building momentum** describes the different roles and teams a user researcher might work with, how to build and navigate relationships with colleagues and stakeholders, and the best place within an organization for researchers to make an impact.
+4. **Sharing the work** unpacks what researchers really share by exploring how practitioners build an awareness of research, teach research methodologies, and—yes—disseminate research findings with their teams and organizations.
+5. **Expanding your practice** covers how to navigate growth in both influence and headcount for practitioners, from what research leadership means to how to hire a team to when to operationalize a practice.
+6. **Overcoming challenges** exposes the hard parts that no one tells you about user research, from the loneliness of being a team of one to battling imposter syndrome to advocating for change to taking an ethical stand.
+7. **Where to go next** charts the pathways of a research career through an examination of possible career ladders, perspectives on when it’s time to leave a role, and thoughts on where a research leader goes when there isn’t a clear next step.
 
-### How does this book differ from other UX and research books and resources?
+### Why read this book?
 
-While other books successfully cover the broad terrain of user research and common methods, there is not a book that adequately captures the day-to-day of the practice of user research for product organizations. From how to get started to scaling a team to working with designers to making tradeoffs thoughtfully, this book comprises the spectrum of user research practice experiences.
-
-### Who is the audience for this book?
-
-* Primary audience: UX, HCI, and interaction design students
-* Secondary audience: People who already do user research on a product team
-* Tertiary audiences: People who are generally interested in UX research, like product managers and designers; and career switchers, like those interested in transitioning from academia to practice
-
-### Who is producing this book?
-
-I'm self-publishing this book. It will be available in print and digital formats, following the successful models provided by [Abby Covert](http://abbytheia.com/) (_How to Make Sense of Any Mess_), [Brad Frost](http://bradfrost.com/) (_Atomic Design_), and [Jan Chipchase](https://janchipchase.com/) (_The Field Study Handbook_).
-
-[Nicole Fenton](https://www.nicolefenton.com/) is editing the book. Nicole is co-author of _Nicely Said: Writing for the Web with Style and Purpose_ and editor for books from A Book Apart and the aforementioned _How to Make Sense of Any Mess_.
+If you’re in school or considering a career switch, you'll know what a job in user research might look like. If you’re new to the field, you'll see where your career might go and know how to get there. If you’re expanding the size or reach of a practice, you'll understand how others have approached it.
 
 ### Sign up for details
-Get notified as the book takes shape!
+Keep up to date for news about and excerpts from the book!
 
 <!-- Begin Substack form -->
 <div class="iframe-container">
