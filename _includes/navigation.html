@@ -1,0 +1,23 @@
+<div class="navbar">
+  <div class="container">
+  <a href="{{ site.baseurl }}/">
+    <h3 class="nav-title">{{ site.title }}</h3>
+  </a>
+  <a href="{{ '/about' | prepend: site.baseurl }}">About</a>
+    <a href="{{ '/speaking' | prepend: site.baseurl }}">Speaking</a>
+  <div class="dropdown">
+    <button class="dropbtn">Book
+      <i class="fas fa-caret-down"></i>
+    </button>
+    <div class="dropdown-content">
+      <a href="{{ '/book' | prepend: site.baseurl }}">About the book</a>
+      <a href="{{ '/contributors' | prepend: site.baseurl }}">Contributors</a>
+      <a href="{{ '/toc' | prepend: site.baseurl }}">Contents</a>
+      <a href="https://www.amazon.com/dp/B08P9VZJFN?ref_=pe_3052080_276849420" target="_blank">Buy from Amazon &nbsp;
+        <i class="fas fa-external-link-alt"></i></a>
+    </div>
+  </div>
+  <a target="_blank" href="https://twitter.com/greggcorp"><span class="fab fa-twitter"></span></a>
+  <a target="_blank" href="https://www.linkedin.com/in/greggbernstein"><span class="fab fa-linkedin-in"></span></a>
+</div>
+</div>

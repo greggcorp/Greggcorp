@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: static
 title: I agree to…
 permalink: /mfa/
 ---

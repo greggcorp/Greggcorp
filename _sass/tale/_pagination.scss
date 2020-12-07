@@ -29,22 +29,37 @@
 
     &:hover,
     &:focus {
-      opacity: .6;
-      text-decoration: none;
+      text-decoration: underline;
     }
   }
 
   .left {
     left: 0;
+    background-color: #26C1CC; /* blue */
+    font-family: $sans-serif;
     border-radius: 4px;
+    border: none;
+    color: white;
     padding: 2px 18px 4px;
-    box-shadow: 0 0 0 1px #3366ff;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 4px;
   }
 
   .right {
     right: 0;
+    background-color: #26C1CC; /* blue */
+    font-family: $sans-serif;
     border-radius: 4px;
+    border: none;
+    color: white;
     padding: 2px 18px 4px;
-    box-shadow: 0 0 0 1px #3366ff;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 4px;
   }
 }

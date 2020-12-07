@@ -1,6 +1,6 @@
 # Site settings
 title:          "Gregg Bernstein"
-description:    "The personal site of Gregg Bernstein, user researcher, speaker, writer, and editor."
+description:    "The personal site of Gregg Bernstein, user researcher, speaker, author, and educator."
 baseurl:        ""
 url:            "http://gregg.io" # the base hostname & protocol for your site
 twitter:
@@ -30,6 +30,7 @@ plugins:
   - jekyll-paginate
   - jemoji
   - jekyll-seo-tag
+  - jekyll-menus
 
 # Permalinks
 paginate_path: "blog/page/:num/"

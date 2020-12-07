@@ -11,9 +11,12 @@ This book is not an argument for doing user research. Nor is it a tutorial or to
 
 **Research Practice captures the day-to-day of the practice itself—what it looks like to work with peers and stakeholders, to raise awareness of research, to make tradeoffs, and to build a larger team.**
 
-Research Practice takes you inside the field of applied user research through the stories and experiences of the people doing the work. Kindle edition available for pre-order now. The paperback and ebook launch on 19 January 2021.
+Research Practice takes you inside the field of applied user research through the stories and experiences of the people doing the work.
 
-{% include button.html button_name="Pre-order now" button_class="primary" url="https://www.amazon.com/dp/B08P9VZJFN?ref_=pe_3052080_276849420" %}
+The Kindle edition is available for pre-order now. Both the paperback and the e-book launch on 19 January 2021.
+
+<p><a href="https://www.amazon.com/dp/B08P9VZJFN?ref_=pe_3052080_276849420" target="blank">[Pre-order now &nbsp; <i class="fas fa-external-link-alt"></i>]</a></p>
+<br/>
 
 ### What’s in the book?
 
@@ -26,6 +29,8 @@ Each chapter explores a specific theme:
 6. **Overcoming challenges** exposes the hard parts that no one tells you about user research, from the loneliness of being a team of one to battling imposter syndrome to advocating for change to taking an ethical stand.
 7. **Where to go next** charts the pathways of a research career through an examination of possible career ladders, perspectives on when it’s time to leave a role, and thoughts on where a research leader goes when there isn’t a clear next step.
 
+*[Examine the table of contents](../toc)*.
+
 ### Why read this book?
 
 If you’re in school or considering a career switch, you'll know what a job in user research might look like. If you’re new to the field, you'll see where your career might go and know how to get there. If you’re expanding the size or reach of a practice, you'll understand how others have approached it.
@@ -35,6 +40,6 @@ Keep up to date for news about and excerpts from the book!
 
 <!-- Begin Substack form -->
 <div class="iframe-container">
-<iframe src="https://gregg.substack.com/embed" style="border:1px solid #EEE; background:white;" scrolling="no"></iframe>
+<iframe src="https://gregg.substack.com/embed"></iframe>
 </div>
 <!--End Substack form-->
