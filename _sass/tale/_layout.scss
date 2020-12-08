@@ -29,6 +29,14 @@
   font-size: 17px;
 }
 
+/*.container {
+  display: block;
+  margin: 0 auto;
+  max-width: 800px;
+  width: 80%;
+  }
+*/
+
 /* Add an active class to highlight the current page */
 .active {
   color: white;
@@ -137,67 +145,6 @@ footer {
   width: 80%;
 }
 
-.nav {
-
-  &-container {
-    margin: 1rem auto;
-    position: relative;
-    text-align: center;
-  }
-
-  &-title {
-    color: #fff;
-    display: inline-block;
-    margin: 0;
-    padding-right: .2rem;
-    opacity: .9;
-  }
-
-  ul {
-    list-style-type: none;
-    margin: 1rem 0 0;
-    padding: 0;
-    text-align: center;
-  }
-
-  li {
-    @include transition(all .2s ease-out);
-    color: #fff;
-    display: inline-block;
-    opacity: .9;
-    padding: 0 2rem 0 0;
-
-    &:last-child {
-      padding-right: 0;
-    }
-
-    &:hover,
-    &:focus {
-      opacity: 1;
-      text-decoration: underline;
-    }
-  }
-
-  a {
-    color: #fff;
-    font-family: $sans-serif;
-  }
-}
-
-@media (min-width: 600px) {
-  .nav {
-    &-container {
-      text-align: left;
-    }
-
-    ul {
-      bottom: 0;
-      position: absolute;
-      right: 0;
-    }
-  }
-}
-
 footer {
   font-family: $serif-secondary;
   padding: 3rem 0;
@@ -278,22 +225,6 @@ input[type="radio"] {
     .animate.dropIn {
       -moz-animation-name: dropIn;
       -webkit-animation-name: dropIn; }
-
-.iframe-container {
-  overflow: auto;
-  padding-top: 56.25%;
-  margin: 0;
-  position: relative;
-}
-
-.iframe-container iframe {
-   border: 0;
-   height: 320;
-   left: 0;
-   position: absolute;
-   top: 0;
-   width: 480;
-}
 
 .btn {
     background-color: #26C1CC; /* blue */
