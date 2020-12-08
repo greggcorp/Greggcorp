@@ -39,7 +39,5 @@ If you’re in school or considering a career switch, you'll know what a job in 
 Keep up to date for news about and excerpts from the book!
 
 <!-- Begin Substack form -->
-<div class="iframe-container">
-<iframe src="https://gregg.substack.com/embed"></iframe>
-</div>
+<iframe src="https://gregg.substack.com/embed" width="330" height="120" style="background:white;" frameborder="0" scrolling="no"></iframe>
 <!--End Substack form-->
