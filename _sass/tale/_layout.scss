@@ -1,6 +1,6 @@
 
 
-/* Add a black background color to the top navigation */
+/* Add a gradient background color to the top navigation */
 .topnav {
   background: #3366ff;
       background-image: -moz-linear-gradient(right top, #2E69BF 0%, #26C1CC 100%);
@@ -86,7 +86,7 @@
   text-align: left;
 }
 
-/* Add a dark background on topnav links and the dropdown button on hover */
+/* Add a blue background on topnav links and the dropdown button on hover */
 .topnav a:hover, .dropdown:hover .dropbtn {
   background-color: #26C1CC;
   color: white;
