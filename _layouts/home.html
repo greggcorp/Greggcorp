@@ -5,10 +5,9 @@ layout: default
 <br />
 <br />
 
-<h4>User &amp; product researcher<br />
-Speaker &amp; educator<br />
+<h1>Researcher &amp; educator<br />
 Author of Research Practice<br />
-This is all a work in progress</h4>
+A work in progress</h1>
 
 <br />
 
@@ -16,12 +15,12 @@ This is all a work in progress</h4>
   {% for post in paginator.posts %}
     <a href="{{ post.url | prepend: site.baseurl }}" class="catalogue-item">
       <div>
-        <time datetime="{{ post.date }}" class="catalogue-time">{{ post.date | date: "%B %d, %Y" }}</time>
+        <time datetime="{{ post.date }}" class="catalogue-time">{{ post.date | date: "%d %B %Y" }}</time>
         <h1 class="catalogue-title">{{ post.title }}</h1><h4>{{ post.description }}</h4>
         <div class="catalogue-line"></div>
 
         <p>
-          {{ post.content | strip_html | truncatewords: 30 }}
+          {{ post.content | strip_html | truncatewords: 60 }}
         </p>
 
       </div>
