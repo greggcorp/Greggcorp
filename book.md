@@ -7,7 +7,7 @@ permalink: /book/
 
 ![Research Practice](/assets/images/book_cover.png "Research Practice cover image")
 
-This book is not an argument for doing user research. Nor is it a tutorial or toolkit for common methodologies. It won’t show you how to run a usability session or recruit users remotely—though I will share helpful resources on those topics in the appendix.
+This book is not an argument for doing user research. Nor is it a tutorial or toolkit for common methodologies. It won’t show you how to run a usability session or recruit users remotely.
 
 **Research Practice captures the day-to-day of the practice itself—what it looks like to work with peers and stakeholders, to raise awareness of research, to make tradeoffs, and to build a larger team.**
 

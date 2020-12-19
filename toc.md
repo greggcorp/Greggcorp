@@ -7,7 +7,7 @@ permalink: /toc/
 
 I share my experiences and ideas in the introduction to each chapter and throughout the book, but I also open the floor to many additional (and sometimes conflicting) perspectives. The world of user research is multifaceted, complex, and sometimes contradictory. The best way to understand the nuances of user research is to learn from other practitioners, and scores of research professionals share what they know within Research Practice.
 
-**Part I: Finding A Way In**
+**Chapter I: Finding A Way In**
 
 * *I Had To Become A User Researcher* &#124; Jess Greco
 * *How I Made My Way Into User Research* &#124; Nikki Anderson
@@ -22,7 +22,7 @@ I share my experiences and ideas in the introduction to each chapter and through
 * *On A Career In Mixed Methods Research* &#124; From A Conversation With Matt Arnold
 * *How People End Up In User Research* &#124; Gregg Bernstein
 
-**Part II: Getting Started In A New Role**
+**Chapter II: Getting Started In A New Role**
 
 * *What Mission Will Your Research Advance?* &#124; Noam Segal
 * *Why Organizations Hire User Researchers* &#124; Gregg Bernstein
@@ -38,15 +38,15 @@ I share my experiences and ideas in the introduction to each chapter and through
 * *Quick Wins* &#124; Gregg Bernstein
 * *Building Partnerships To Leverage Feedback For Impact* &#124; Christiana Lackner
 
-**Part III: Building Momentum**
+**Chapter III: Building Momentum**
 
 * *Reframing Decision Making* &#124; Jess Greco
 * *Bring The Org Chart To Life* &#124; Gregg Bernstein
 * *An Alliance Of Perspectives* &#124; Steph Troeth
 * *User Research And Data Science Are Actually Bffs* &#124; Roy Opate Olende
 * *Working With Data Scientists, Analysts, And Market Researchers* &#124; From A Conversation With Lauren Isaacson
-* *The Relationship Between Research And Design* &#124; From A Conversation With Matthew Eng
-* *Continuous Discovery: Bridging The Gap Between Product And Research Teams* &#124; Asha Scott-morris
+* *The Relationship Between Research And Design* &#124; From A Conversation With Aras Bilgen
+* *Continuous Discovery: Bridging The Gap Between Product And Research Teams* &#124; Asha Scott-Morris
 * *Set Your Project Up For Success Before Talking To A Single User* &#124; Amber Davis
 * *A UX Research Process For Any Research Project* &#124; Stephanie Pratt
 * *Gumption And Tact* &#124; Michael Morgan
@@ -55,7 +55,7 @@ I share my experiences and ideas in the introduction to each chapter and through
 * *Choosing An Approach—to Embed Or Not* &#124; Gregg Bernstein
 * *Set Your Sites On Embedded Research* &#124; Dylan Blanchard
 
-**Part IV: Sharing The Work**
+**Chapter IV: Sharing The Work**
 
 * *What Is The Purpose Of User Research?* &#124; Gregg Bernstein
 * *Giving User Research A Voice* &#124; Laura Macmillan
@@ -71,7 +71,7 @@ I share my experiences and ideas in the introduction to each chapter and through
 * *A Compounding Effect On Organizational Knowledge* &#124; From A Conversation With Matthew Eng
 * *Preserving The Users’ Voice* &#124; Mila Djordjevic
 
-**Part V: Expanding Your Practice**
+**Chapter V: Expanding Your Practice**
 
 * *What Makes A User Research Leader?* &#124; Steph Troeth
 * *Getting A Research Practice Off The Ground* &#124; From A Conversation With Matthew Eng
@@ -84,7 +84,7 @@ I share my experiences and ideas in the introduction to each chapter and through
 * *Hiring For A Successful Research Practice* &#124; Noam Segal
 * *When Is It Time For Research Operations?* &#124; Brigette Metzler
 
-**Part VI: Overcoming Challenges**
+**Chapter VI: Overcoming Challenges**
 
 * *Resilience In The Face Of Loneliness* &#124; Lindsay Ferris
 * *Isolation And Imposter Syndrome* &#124; From Conversations With Krista Plano And Lauren Isaacson
@@ -99,7 +99,7 @@ I share my experiences and ideas in the introduction to each chapter and through
 * *Going Beyond “User Research” When You Need To Answer A Really Large Question* &#124; From A Conversation With Cyd Harrell
 * *Ethics For UX Researchers* &#124; From A Conversation With Danielle Smith
 
-**Part VII: Where To Go Next**
+**Chapter VII: Where To Go Next**
 
 * *What Is The Career Ladder For User Researchers?* &#124; Gregg Bernstein
 * *Career Development In UX Research: A Light In The Fog* &#124; Danielle Smith
