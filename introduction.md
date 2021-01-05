@@ -10,6 +10,7 @@ The heart of user research is the stories—stories about a person or a communit
 I met my wife, Alyssa, in college. After an engagement prolonged by grad school (her) and relocations for work (me), we married, bought a house, and later welcomed our first son, Britton, into the world. A few years later we gave Britt a baby brother, Nolan. As we started 2013, we were the picture of happiness: a family of four with a house of our own. Alyssa and I were in stable, fulfilling careers that afforded us a comfortable lifestyle.
 
 I’ve just spent a few sentences describing our good fortune, so you know something bad was bound to happen.
+
 That summer, Alyssa was diagnosed with cancer—and not just any cancer, but an aggressive form of oral cancer that typically strikes men with a long history of alcohol and tobacco use. This wasn’t supposed to happen to Alyssa.
 
 She had to have two rounds of surgery. After she recovered, Alyssa needed chemotherapy and radiation treatment. We consulted with local doctors, and decided to get a second opinion from the MD Anderson Cancer Center in Houston, Texas. There we met Dr. Steven Frank, who walked into our examination room holding a folder with Alyssa’s case history. He placed it on a nearby table and said, “I’ve looked at your file. I’ve read your lab reports. Why don’t you tell me your story?”
