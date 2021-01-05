@@ -29,6 +29,7 @@ Each chapter explores a specific theme:
 6. **Overcoming challenges** exposes the hard parts that no one tells you about user research, from the loneliness of being a team of one to battling imposter syndrome to advocating for change to taking an ethical stand.
 7. **Where to go next** charts the pathways of a research career through an examination of possible career ladders, perspectives on when it’s time to leave a role, and thoughts on where a research leader goes when there isn’t a clear next step.
 
+*[Read the introduction](../introduction)*.<br>
 *[Examine the table of contents](../toc)*.
 
 ### Why read this book?

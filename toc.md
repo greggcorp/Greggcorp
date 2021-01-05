@@ -9,100 +9,100 @@ I share my experiences and ideas in the introduction to each chapter and through
 
 **Chapter I: Finding A Way In**
 
-* *I Had To Become A User Researcher* &#124; Jess Greco
-* *How I Made My Way Into User Research* &#124; Nikki Anderson
-* *The Scientific Method Is The Process That Keeps On Giving* &#124; Janelle Ward
-* *Shaking The Guilt Of Leaving Academia* &#124; Torang Asadi
-* *What’s A Psychologist Doing In Tech?* &#124; Noam Segal
-* *Applying A Social Science Lens In UX Research* &#124; Amy Santee
-* *Being A Social Scientist In Research* &#124; Jesse Zolna
-* *Adventures Of A Curious Mind* &#124; Kelly Silver
-* *Embracing The Messenger* &#124; Michael Morgan
-* *Always Design Thinking* &#124; Gregg Bernstein
-* *On A Career In Mixed Methods Research* &#124; From A Conversation With Matt Arnold
-* *How People End Up In User Research* &#124; Gregg Bernstein
+* *I had to become a user researcher* &#124; Jess Greco
+* *How I made my way into user research* &#124; Nikki Anderson
+* *The scientific method is the process that keeps on giving* &#124; Janelle Ward
+* *Shaking the guilt of leaving academia* &#124; Torang Asadi
+* *What’s a psychologist doing in tech?* &#124; Noam Segal
+* *Applying a social science lens in research* &#124; Amy Santee
+* *Being a social scientist in research* &#124; Jesse Zolna
+* *Adventures of a curious mind* &#124; Kelly Silver
+* *Embracing the messenger* &#124; Michael Morgan
+* *Always design thinking* &#124; Gregg Bernstein
+* *On a career in mixed methods research* &#124; From A Conversation With Matt Arnold
+* *How people end up in research* &#124; Gregg Bernstein
 
 **Chapter II: Getting Started In A New Role**
 
-* *What Mission Will Your Research Advance?* &#124; Noam Segal
-* *Why Organizations Hire User Researchers* &#124; Gregg Bernstein
-* *The Best Place For A New Researcher To Get Started* &#124; From A Conversation With Janine Coover
-* *One Thing People Entering The Field Should Know* &#124; Gregg Bernstein
-* *What I Wish I Had Known* &#124; Sarah Jones
-* *The Interview Process Is A Compelling Research Question* &#124; Maura Youngman
-* *How To Consider A UX Research Opportunity* &#124; Gregg Bernstein
-* *Research To The Rescue* &#124; Jess Greco
-* *How To Assess UX Maturity* &#124; Nikki Anderson
-* *Congratulations, You’re Hired! Now Where Do You Start?* &#124; Marianne Berkovich
-* *A 90-day (And Beyond) Plan For A Research Team Of One* &#124; Snigdha Diehl
-* *Quick Wins* &#124; Gregg Bernstein
-* *Building Partnerships To Leverage Feedback For Impact* &#124; Christiana Lackner
+* *What mission will your research advance?* &#124; Noam Segal
+* *Why organizations hire user researchers* &#124; Gregg Bernstein
+* *The best place to get started* &#124; From A Conversation With Janine Coover
+* *One thing people entering the field should know* &#124; Gregg Bernstein
+* *What I wish I had known* &#124; Sarah Jones
+* *The interview process is a compelling research question* &#124; Maura Youngman
+* *Considering a UX research opportunity* &#124; Gregg Bernstein
+* *Research to the rescue* &#124; Jess Greco
+* *Assessing UX maturity* &#124; Nikki Anderson
+* *Congratulations, you’re hired! Now where do you start?* &#124; Marianne Berkovich
+* *A 90-day (and beyond) plan for a research team of one* &#124; Snigdha Diehl
+* *Finding quick wins* &#124; Gregg Bernstein
+* *Building partnerships to leverage feedback for impact* &#124; Christiana Lackner
 
 **Chapter III: Building Momentum**
 
-* *Reframing Decision Making* &#124; Jess Greco
-* *Bring The Org Chart To Life* &#124; Gregg Bernstein
-* *An Alliance Of Perspectives* &#124; Steph Troeth
-* *User Research And Data Science Are Actually Bffs* &#124; Roy Opate Olende
-* *Working With Data Scientists, Analysts, And Market Researchers* &#124; From A Conversation With Lauren Isaacson
-* *The Relationship Between Research And Design* &#124; From A Conversation With Aras Bilgen
-* *Continuous Discovery: Bridging The Gap Between Product And Research Teams* &#124; Asha Scott-Morris
-* *Set Your Project Up For Success Before Talking To A Single User* &#124; Amber Davis
-* *A UX Research Process For Any Research Project* &#124; Stephanie Pratt
-* *Gumption And Tact* &#124; Michael Morgan
-* *Prepare Research Stakeholders To Be Flexible* &#124; From A Conversation With Janine Coover
-* *How To Deal With Difficult Stakeholders* &#124; From A Conversation With Nikki Anderson
-* *Choosing An Approach—to Embed Or Not* &#124; Gregg Bernstein
-* *Set Your Sites On Embedded Research* &#124; Dylan Blanchard
+* *Reframing decision-making* &#124; Jess Greco
+* *Bringing the org chart to life* &#124; Gregg Bernstein
+* *An alliance of perspectives* &#124; Steph Troeth
+* *User research and data science are actually BFFs* &#124; Roy Opate Olende
+* *Working with data scientists, analysts, and market researchers* &#124; From A Conversation With Lauren Isaacson
+* *The relationship between research and design* &#124; From A Conversation With Aras Bilgen
+* *Bridging the gap between product and research teams* &#124; Asha Scott-Morris
+* *An exercise for setting your project up for success* &#124; Amber Davis
+* *A process for any research project* &#124; Stephanie Pratt
+* *Gumption and tact* &#124; Michael Morgan
+* *Preparing stakeholders to be flexible* &#124; From A Conversation With Janine Coover
+* *Dealing with difficult stakeholders* &#124; From A Conversation With Nikki Anderson
+* *Choosing an approach—to embed or not* &#124; Gregg Bernstein
+* *Aiming for embedded research* &#124; Dylan Blanchard
 
 **Chapter IV: Sharing The Work**
 
-* *What Is The Purpose Of User Research?* &#124; Gregg Bernstein
-* *Giving User Research A Voice* &#124; Laura Macmillan
-* *A Layered Approach To Building Research Awareness* &#124; Emma McCabe
-* *Make It Fun: Building In-office And Remote Research Awareness* &#124; Sarah Jones
-* *Back To Basics: Build Awareness Through Education* &#124; Stephanie Pratt
-* *Lessons From Creating Research Lessons* &#124; Ane Sharma And Kathleen Asjes
-* *How To Share Findings For Maximum Impact* &#124; Aras Bilgen
-* *Just Give Me The Headline* &#124; Gregg Bernstein
-* *Always Write A Topline* &#124; Lauren Isaacson
-* *Nested Research And Other Solutions For The Weary Qualitative Researcher* &#124; Torang Asadi
-* *How To Share Findings And Insights* &#124; Krista Plano And Nikki Anderson
-* *A Compounding Effect On Organizational Knowledge* &#124; From A Conversation With Matthew Eng
-* *Preserving The Users’ Voice* &#124; Mila Djordjevic
+* *What is the purpose of user research?* &#124; Gregg Bernstein
+* *Giving research a voice* &#124; Laura Macmillan
+* *A layered approach to building research awareness* &#124; Emma McCabe
+* *Make it fun: building in-office and remote research awareness* &#124; Sarah Jones
+* *Back to basics: building awareness through education* &#124; Stephanie Pratt
+* *Lessons from creating research lessons* &#124; Ane Sharma And Kathleen Asjes
+* *Sharing findings for maximum impact* &#124; Aras Bilgen
+* *Just give me the headline* &#124; Gregg Bernstein
+* *Always write a topline* &#124; Lauren Isaacson
+* *Walking along the quant/qual border* &#124; Torang Asadi
+* *Sharing findings and insights* &#124; Krista Plano And Nikki Anderson
+* *Giving organizational knowledge a home* &#124; From A Conversation With Matthew Eng
+* *Preserving the user’s voice* &#124; Mila Djordjevic
 
 **Chapter V: Expanding Your Practice**
 
-* *What Makes A User Research Leader?* &#124; Steph Troeth
-* *Getting A Research Practice Off The Ground* &#124; From A Conversation With Matthew Eng
-* *Building A Business Versus Building An Empire* &#124; Yelena Cope
-* *Measuring Impact* &#124; Gregg Bernstein
-* *Why Is It A Good Idea To Make Everyone A Researcher?* &#124; Carol Rossi
-* *On Hiring A Research Team* &#124; From A Conversation With Alex Wright
-* *Hiring Without Fear* &#124; Carol Rossi
-* *The Cover Letter Filter* &#124; Gregg Bernstein
-* *Hiring For A Successful Research Practice* &#124; Noam Segal
-* *When Is It Time For Research Operations?* &#124; Brigette Metzler
+* *What makes a user research leader?* &#124; Steph Troeth
+* *Getting a research practice off the ground* &#124; From A Conversation With Matthew Eng
+* *Building a business versus building an empire* &#124; Yelena Cope
+* *Measuring impact* &#124; Gregg Bernstein
+* *Making everyone a researcher* &#124; Carol Rossi
+* *Hiring a research team* &#124; From A Conversation With Alex Wright
+* *Hiring without fear* &#124; Carol Rossi
+* *The cover letter filter* &#124; Gregg Bernstein
+* *Hiring for a successful research practice* &#124; Noam Segal
+* *When is it time for research operations?* &#124; Brigette Metzler
 
 **Chapter VI: Overcoming Challenges**
 
-* *Resilience In The Face Of Loneliness* &#124; Lindsay Ferris
-* *Isolation And Imposter Syndrome* &#124; From Conversations With Krista Plano And Lauren Isaacson
-* *The Imposter Syndrome Never Wears Off* &#124; Maura Youngman
-* *Research Isn’t Strictly The Domain Of The Trained Researcher* &#124; From A Conversation With Aras Bilgen
-* *Convincing Stakeholders To Trust You* &#124; From A Conversation With Matt Arnold
-* *Invalidating With Research* &#124; Maura Youngman
-* *You Don’t Always Have To Get Out Of The Building* &#124; Noam Segal
-* *Generating The Case For Generative Research* &#124; Gregg Bernstein
-* *Learn How Decisions Are Made* &#124; Steph Troeth
-* *Research Speaks Truth To Power* &#124; Jess Greco
-* *Going Beyond “User Research” When You Need To Answer A Really Large Question* &#124; From A Conversation With Cyd Harrell
-* *Ethics For UX Researchers* &#124; From A Conversation With Danielle Smith
+* *Resilience in the face of loneliness* &#124; Lindsay Ferris
+* *Isolation and imposter syndrome* &#124; From Conversations With Krista Plano And Lauren Isaacson
+* *The imposter syndrome never wears off* &#124; Maura Youngman
+* *Research isn’t strictly the domain of the trained researcher* &#124; From A Conversation With Aras Bilgen
+* *Convincing stakeholders to trust you* &#124; From A Conversation With Matt Arnold
+* *Invalidating with research* &#124; Maura Youngman
+* *You don’t always have to get out of the building* &#124; Noam Segal
+* *Generating the case for generative research* &#124; Gregg Bernstein
+* *Learning how decisions are made* &#124; Steph Troeth
+* *Speaking truth to power* &#124; Jess Greco
+* *Answering a really large question* &#124; From A Conversation With Cyd Harrell
+* *Ethics for researchers* &#124; From A Conversation With Danielle Smith
 
 **Chapter VII: Where To Go Next**
 
-* *What Is The Career Ladder For User Researchers?* &#124; Gregg Bernstein
-* *Career Development In UX Research: A Light In The Fog* &#124; Danielle Smith
-* *Knowing When To Stay Or Leave* &#124; Diana Sapanaro And Hannah Moyers
-* *When It’s Time To Leave Your Current Role Or Organization* &#124; From Conversations With Cyd Harrell And Krista Plano
-* *Where Research Leaders Go Next In Their Careers* &#124; From Conversations With Alex Wright And Nikki Anderson
+* *What is the career ladder for user researchers?* &#124; Gregg Bernstein
+* *Finding your career path* &#124; Danielle Smith
+* *Knowing when to stay or leave* &#124; Diana Sapanaro And Hannah Moyers
+* *When it’s time to leave your current role or organization* &#124; From Conversations With Cyd Harrell And Krista Plano
+* *Where research leaders go next* &#124; From Conversations With Alex Wright And Nikki Anderson
