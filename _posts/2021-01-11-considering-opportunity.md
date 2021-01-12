@@ -5,8 +5,6 @@ date:   2021-01-11 10:00:27
 description: An excerpt from Research Practice
 categories:
 ---
-*[An excerpt from Chapter 2 of Research Practice](../book)*
-
 Whether you’re graduating from academia to applied practice, or transitioning from one job to another, evaluating a new role is a tough decision. If you’re in a position to choose between different roles, don’t take that for granted. Your skills are in demand and you can be selective. Even if you’re only talking with one company, you’ll need to tease apart the inner workings of the team and the potential fit between you, your manager, and your colleagues. Sometimes these decisions don’t require much thought at all—maybe you’re joining a team you know at an org you respect with a salary you’re happy with. For the other 99% of situations, consider your choices carefully.
 
 ### Ethical alignment

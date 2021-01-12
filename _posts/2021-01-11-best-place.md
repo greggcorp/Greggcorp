@@ -5,8 +5,6 @@ date:   2021-01-11 10:01:26
 description: An excerpt from Research Practice
 categories:
 ---
-*[An excerpt from Chapter 2 of Research Practice](../book)*
-
 ## From a conversation with [Janine Coover]( http://www.linkedin.com/in/janinecoover) ##
 
 Working in a consultancy or agency is a great place for a new design researcher to get started, primarily because you have a number of different clients, different kinds of challenges, and different team makeups. Oftentimes you have people that you’re working with on your team who have a variety of past experiences with user research. So it not only allows you to get a taste for an experience in different industries that you wouldn’t otherwise have if you are working within a single organization, but it also allows you to see and jump in midstream with projects at different points in their evolution.
