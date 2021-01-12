@@ -25,12 +25,12 @@ I share my experiences and ideas in the introduction to each chapter and through
 **Chapter II: Getting Started In A New Role**
 
 * *What mission will your research advance?* &#124; Noam Segal
-* *Why organizations hire user researchers* &#124; Gregg Bernstein
-* *The best place to get started* &#124; From a conversation with Janine Coover
+* *[Why organizations hire user researchers](../2021-01-11/why-hire)* &#124; Gregg Bernstein
+* *[The best place to get started](../2021-01-11/best-place)* &#124; From a conversation with Janine Coover
 * *One thing people entering the field should know* &#124; Gregg Bernstein
 * *What I wish I had known* &#124; Sarah Jones
 * *The interview process is a compelling research question* &#124; Maura Youngman
-* *Considering a UX research opportunity* &#124; Gregg Bernstein
+* *[Considering a UX research opportunity](../2021-01-11/considering-opportunity)* &#124; Gregg Bernstein
 * *Research to the rescue* &#124; Jess Greco
 * *Assessing UX maturity* &#124; Nikki Anderson
 * *Congratulations, you’re hired! Now where do you start?* &#124; Marianne Berkovich
