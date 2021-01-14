@@ -1,6 +1,6 @@
 # Site settings
 title:          "Gregg Bernstein"
-description:    "The personal site of Gregg Bernstein: researcher & educator; author of Research Practice; and speaker."
+description:    "The personal site of Gregg Bernstein: researcher & educator, author of Research Practice, and speaker."
 baseurl:        ""
 url:            "http://gregg.io" # the base hostname & protocol for your site
 twitter:
