@@ -17,8 +17,7 @@ Research Practice takes you inside the field of applied user research through th
 
 The Kindle edition is available for pre-order now. Both the paperback and the e-book launch on 19 January 2021.
 
-<p><a href="https://www.amazon.com/dp/B08P9VZJFN?ref_=pe_3052080_276849420" target="blank">[Pre-order now &nbsp; <i class="fas fa-external-link-alt"></i>]</a></p>
-<br/>
+<p><a href="http://researchpractice.co" target="blank">[Buy now &nbsp; <i class="fas fa-external-link-alt"></i>]</a></p>
 
 ### What’s in the book?
 

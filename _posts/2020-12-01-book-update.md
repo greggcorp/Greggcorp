@@ -8,7 +8,7 @@ categories:
 
 I’m excited to share that *Research Practice: Perspectives from UX researchers in a changing field* is done! The official launch date for the paperback and e-book is 19 January 2021, but the Kindle edition is available for pre-order today on Amazon.
 
-<p><a href="https://www.amazon.com/dp/B08P9VZJFN?ref_=pe_3052080_276849420" target="blank">[Pre-order now &nbsp; <i class="fas fa-external-link-alt"></i>]</a></p>
+<p><a href="http://researchpractice.co" target="blank">[Buy now &nbsp; <i class="fas fa-external-link-alt"></i>]</a></p>
 <br/>
 
 Right now editor extraordinaire Nicole Fenton is finding the last of my typos and excess ramblings, while my friend and former colleague Aarron Walter is drafting the foreword.
@@ -40,4 +40,4 @@ If you’re in school or considering a career switch, you’ll know what a job i
 ### Anything else?
 I’ll share more details and samples as we get closer to launch day. But if you’re already sold, go ahead and pre-order the Kindle edition today.
 
-<p><a href="https://www.amazon.com/dp/B08P9VZJFN?ref_=pe_3052080_276849420" target="blank">[Pre-order now &nbsp; <i class="fas fa-external-link-alt"></i>]</a></p>
+<p><a href="http://researchpractice.co" target="blank">[Buy now &nbsp; <i class="fas fa-external-link-alt"></i>]</a></p>

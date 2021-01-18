@@ -73,5 +73,5 @@ If you’re in school or considering a career switch, I want you to know what a 
 Above all, I want you to stand on the shoulders of giants and then chart your own path. Now let’s make it happen.
 
 
-<p><a href="https://www.amazon.com/dp/B08P9VZJFN?ref_=pe_3052080_276849420" target="blank">[Pre-order now &nbsp; <i class="fas fa-external-link-alt"></i>]</a></p>
+<p><a href="http://researchpractice.co" target="blank">[Buy now &nbsp; <i class="fas fa-external-link-alt"></i>]</a></p>
 <br/>

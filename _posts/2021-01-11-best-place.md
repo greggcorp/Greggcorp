@@ -30,4 +30,4 @@ One of the qualities that makes you a good researcher is being flexible and inve
 I’ve found much easier and better relationships and outcomes with people who are switching from doing something else. They’re bringing their life experience and their life-work skills that they’ve developed elsewhere, and they’re receptive to learning a new discipline.
 
 <br />
-<p><a href="https://www.amazon.com/dp/B08P9VZJFN?ref_=pe_3052080_276849420" target="blank">[Pre-order now &nbsp; <i class="fas fa-external-link-alt"></i>]</a></p>
+<p><a href="http://researchpractice.co" target="blank">[Buy now &nbsp; <i class="fas fa-external-link-alt"></i>]</a></p>

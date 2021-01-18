@@ -46,4 +46,4 @@ If the salary is great, the subject matter is fascinating, and your boss is both
 Nothing is permanent. While you don’t want to be a serial job switcher, it’s okay to cut your losses if the role you accept and the job you find yourself in differ. Just be sure to understand why the job isn’t right for you so you’re better prepared as you start the job search anew.
 
 <br />
-<p><a href="https://www.amazon.com/dp/B08P9VZJFN?ref_=pe_3052080_276849420" target="blank">[Pre-order now &nbsp; <i class="fas fa-external-link-alt"></i>]</a></p>
+<p><a href="http://researchpractice.co" target="blank">[Buy now &nbsp; <i class="fas fa-external-link-alt"></i>]</a></p>
