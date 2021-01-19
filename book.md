@@ -15,8 +15,6 @@ This book is not an argument for doing user research. Nor is it a tutorial or to
 
 Research Practice takes you inside the field of applied user research through the stories and experiences of the people doing the work.
 
-The Kindle edition is available for pre-order now. Both the paperback and the e-book launch on 19 January 2021.
-
 <p><a href="http://researchpractice.co" target="blank">[Buy now &nbsp; <i class="fas fa-external-link-alt"></i>]</a></p>
 
 ### What’s in the book?
