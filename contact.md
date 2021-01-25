@@ -10,7 +10,6 @@ Have a question? Want to book Gregg for your conference or company event? Please
 <form
   action="https://formspree.io/f/xyybnydy"
   method="POST">
-  <div class="g-recaptcha" data-sitekey="6LfLKjkaAAAAAN3mjVJgu8KUxHct3HOCYl2e4fZk"></div>
   <input type="text" name="name" placeholder="Your name"><br />
   <input type="email" name="_replyto" placeholder="Your email"><br />
   <textarea name="message" placeholder="What's on your mind?"></textarea><br />  
