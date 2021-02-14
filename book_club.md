@@ -1,8 +1,10 @@
 ---
 layout: static
-title: Research Practice book club
+title: Research Practice
 permalink: /bookclub/
 ---
+
+## Book club
 
 ![Research Practice](/assets/images/book_cover.png "Research Practice cover image")
 
