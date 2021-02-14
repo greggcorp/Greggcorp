@@ -5,7 +5,15 @@ permalink: /speaking/
 ---
 
 # Upcoming
-[User Research London](https://www.userresearchlondon.com/), June 2021
+[User Experience San Antonio](https://www.meetup.com/uxsanantonio-public/events/276052803/), 15 February 2021
+
+[UX Book Club Denver](https://www.meetup.com/UXBC-Denver/events/276114972/), 24 February 2021
+
+[UX Copenhagen](https://uxcopenhagen.com/), 25-26 March 2021
+
+[UX Fest](https://2021.uxlondon.com/fest/), June 2021
+
+[User Research London](https://www.userresearchlondon.com/), Summer 2021
 <br />
 <br />
 

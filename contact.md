@@ -4,7 +4,7 @@ title: Contact Gregg
 permalink: /contact/
 ---
 
-Have a question? Want to book Gregg for your conference or company event? Please get in touch!
+Have a question? Want to book Gregg for your conference, company event, or book club? Please get in touch!
 
 <div id="formview">
 <form
