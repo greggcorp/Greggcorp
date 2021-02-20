@@ -5,7 +5,7 @@ permalink: /speaking/
 ---
 
 # Upcoming
-[User Experience San Antonio](https://www.meetup.com/uxsanantonio-public/events/276052803/), 15 February 2021
+[User Experience San Antonio](https://www.meetup.com/uxsanantonio-public/events/276052803/), 22 February 2021
 
 [UX Book Club Denver](https://www.meetup.com/UXBC-Denver/events/276114972/), 24 February 2021
 
