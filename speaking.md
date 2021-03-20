@@ -5,10 +5,6 @@ permalink: /speaking/
 ---
 
 # Upcoming
-[Cousto: Unveiling impactful insights for your product](https://app.livestorm.co/cousto/unveiling-impactful-insights-for-your-product?type=detailed), Webinar, 11 March 2021
-
-[IxDA NYC](https://www.eventbrite.com/e/new-book-launch-research-practice-with-gregg-bernstein-tickets-143623990221), Book launch and panel discussion, 16 March 2021
-
 [UX Copenhagen](https://uxcopenhagen.com/), 25-26 March 2021
 
 [UX Fest](https://2021.uxlondon.com/fest/), 2 June 2021
@@ -19,6 +15,10 @@ permalink: /speaking/
 
 ----
 # Previous
+[IxDA NYC](https://www.eventbrite.com/e/new-book-launch-research-practice-with-gregg-bernstein-tickets-143623990221#), Book launch and panel discussion, 16 March 2021
+
+[Cousto: Unveiling impactful insights for your product](https://app.livestorm.co/cousto/unveiling-impactful-insights-for-your-product?type=detailed), Webinar, 11 March 2021
+
 [UX Book Club Denver](https://www.meetup.com/UXBC-Denver/events/276114972/), 24 February 2021
 
 [User Experience San Antonio](https://www.meetup.com/uxsanantonio-public/events/276052803/), 22 February 2021
