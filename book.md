@@ -48,7 +48,7 @@ Keep up to date for news about and excerpts from the book!
   class="embeddable-buttondown-form">
   <input type="email" name="email" id="bd-email" placeholder="Your email" />
   <input type="hidden" value="1" name="embed" />
-  <button type="submit">Submit</button>
+  <button type="submit">Subscribe</button>
 </form>
 <!--End Buttondown form-->
 </div>
