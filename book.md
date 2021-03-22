@@ -38,6 +38,17 @@ If you’re in school or considering a career switch, you'll know what a job in 
 ### Sign up for details
 Keep up to date for news about and excerpts from the book!
 
-<!-- Begin Substack form -->
-<iframe src="https://gregg.substack.com/embed" width="330" height="120" style="background:white;" frameborder="0" scrolling="no"></iframe>
-<!--End Substack form-->
+<!-- Begin Buttondown form -->
+<div id="formview">
+<form
+  action="https://buttondown.email/api/emails/embed-subscribe/greggcorp"
+  method="post"
+  target="popupwindow"
+  onsubmit="window.open('https://buttondown.email/greggcorp', 'popupwindow')"
+  class="embeddable-buttondown-form">
+  <input type="email" name="email" id="bd-email" placeholder="Your email" />
+  <input type="hidden" value="1" name="embed" />
+  <button type="submit">Submit</button>
+</form>
+<!--End Buttondown form-->
+</div>
