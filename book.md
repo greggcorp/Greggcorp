@@ -16,6 +16,9 @@ This book is not an argument for doing user research. Nor is it a tutorial or to
 Research Practice takes you inside the field of applied user research through the stories and experiences of the people doing the work.
 
 <p><a href="http://researchpractice.co" target="blank">[Buy now &nbsp; <i class="fas fa-external-link-alt"></i>]</a></p>
+*You can also special order Research Practice at your favorite bookstore—ask for ISBN* 9780578811178*.*
+
+
 
 ### What’s in the book?
 
