@@ -65,6 +65,8 @@ Giant Conference, Charleston, USA, June 2014
 
 ----
 # Interviews
+[Fuego UX Design Leader Insights](https://youtu.be/encSrMVvm8o), 24 March 2021
+
 [The Iowa Idea podcast](https://www.theiowaidea.com/2021/03/04/71-gregg-bernstein/), 4 March 2021
 
 [Branded podcast](https://www.breaker.audio/branded/e/48864834), 11 July 2019
