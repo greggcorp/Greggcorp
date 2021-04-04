@@ -5,8 +5,6 @@ permalink: /speaking/
 ---
 
 # Upcoming
-[UX Copenhagen](https://uxcopenhagen.com/), 25-26 March 2021
-
 [UX Fest](https://2021.uxlondon.com/fest/), 2 June 2021
 
 [User Research London](https://www.userresearchlondon.com/), Summer 2021
@@ -15,6 +13,10 @@ permalink: /speaking/
 
 ----
 # Previous
+[Quarantine Book Club](https://www.eventbrite.com/e/quarantine-book-club-with-gregg-bernstein-tickets-148648474589#), 1 April 2021
+
+[UX Copenhagen](https://uxcopenhagen.com/), 26 March 2021
+
 [IxDA NYC](https://www.eventbrite.com/e/new-book-launch-research-practice-with-gregg-bernstein-tickets-143623990221#), Book launch and panel discussion, 16 March 2021
 
 [Cousto: Unveiling impactful insights for your product](https://app.livestorm.co/cousto/unveiling-impactful-insights-for-your-product?type=detailed), Webinar, 11 March 2021
