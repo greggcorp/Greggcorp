@@ -7,7 +7,6 @@ permalink: /speaking/
 # Upcoming
 [UX Fest](https://2021.uxlondon.com/fest/), 2 June 2021
 
-[User Research London](https://www.userresearchlondon.com/), Summer 2021
 <br />
 <br />
 
