@@ -5,8 +5,9 @@ permalink: /speaking/
 ---
 
 # Upcoming
-[UX Fest](https://2021.uxlondon.com/fest/), 2 June 2021
+[DOUX: Downtown Orlando UX Meetup](https://www.meetup.com/Downtown-Orlando-UX/events/277611263/), 18 May 2021
 
+[UX Fest](https://2021.uxlondon.com/fest/), 2 June 2021
 <br />
 <br />
 
@@ -83,6 +84,8 @@ Giant Conference, Charleston, USA, June 2014
 ----
 # Company & team events
 Gregg has spoken about product and UX research with teams from companies like:
+
+[Xero](https://www.xero.com/)
 
 [Paylocity](https://www.paylocity.com)
 
