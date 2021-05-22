@@ -5,14 +5,14 @@ permalink: /speaking/
 ---
 
 # Upcoming
-[DOUX: Downtown Orlando UX Meetup](https://www.meetup.com/Downtown-Orlando-UX/events/277611263/), 18 May 2021
-
 [UX Fest](https://2021.uxlondon.com/fest/), 2 June 2021
 <br />
 <br />
 
 ----
 # Previous
+[DOUX: Downtown Orlando UX Meetup](https://www.meetup.com/Downtown-Orlando-UX/events/277611263/), 18 May 2021
+
 [Quarantine Book Club](https://www.eventbrite.com/e/quarantine-book-club-with-gregg-bernstein-tickets-148648474589#), 1 April 2021
 
 [UX Copenhagen](https://uxcopenhagen.com/), 26 March 2021
@@ -67,6 +67,8 @@ Giant Conference, Charleston, USA, June 2014
 
 ----
 # Interviews
+[Copy Cats podcast](https://www.linkedin.com/posts/andrewlubega_design-research-writing-activity-6801789738085941248-WcY0), 22 May 2021
+
 [Fuego UX Design Leader Insights](https://youtu.be/encSrMVvm8o), 24 March 2021
 
 [The Iowa Idea podcast](https://www.theiowaidea.com/2021/03/04/71-gregg-bernstein/), 4 March 2021
@@ -83,7 +85,7 @@ Giant Conference, Charleston, USA, June 2014
 
 ----
 # Company & team events
-Gregg has spoken about product and UX research with teams from companies like:
+Gregg has spoken about product and UX research with teams from:
 
 [Xero](https://www.xero.com/)
 
