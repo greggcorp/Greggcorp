@@ -15,7 +15,7 @@ permalink: /speaking/
 
 [Quarantine Book Club](https://www.eventbrite.com/e/quarantine-book-club-with-gregg-bernstein-tickets-148648474589#), 1 April 2021
 
-[UX Copenhagen](https://uxcopenhagen.com/), 26 March 2021
+[UX Copenhagen round table discussion](https://uxcopenhagen.com/), 26 March 2021
 
 [IxDA NYC](https://www.eventbrite.com/e/new-book-launch-research-practice-with-gregg-bernstein-tickets-143623990221#), Book launch and panel discussion, 16 March 2021
 
