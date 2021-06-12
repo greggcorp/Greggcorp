@@ -5,12 +5,14 @@ permalink: /speaking/
 ---
 
 # Upcoming
-[UX Fest](https://2021.uxlondon.com/fest/), 2 June 2021
+TBD
 <br />
 <br />
 
 ----
 # Previous
+[UX Fest](https://2021.uxlondon.com/fest/), 2 June 2021
+
 [DOUX: Downtown Orlando UX Meetup](https://www.meetup.com/Downtown-Orlando-UX/events/277611263/), 18 May 2021
 
 [Quarantine Book Club](https://www.eventbrite.com/e/quarantine-book-club-with-gregg-bernstein-tickets-148648474589#), 1 April 2021
