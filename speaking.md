@@ -69,6 +69,8 @@ Giant Conference, Charleston, USA, June 2014
 
 ----
 # Interviews
+[Learners podcast](https://blog.joinlearners.com/research-practices-w-gregg-bernstein-learners-podcast-2/), 28 June 2021
+
 [Copy Cats podcast](https://www.linkedin.com/posts/andrewlubega_design-research-writing-activity-6801789738085941248-WcY0), 22 May 2021
 
 [Fuego UX Design Leader Insights](https://youtu.be/encSrMVvm8o), 24 March 2021
