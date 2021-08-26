@@ -5,7 +5,7 @@ permalink: /speaking/
 ---
 
 # Upcoming
-TBD
+[UXinsight Book Club](https://www.meetup.com/UXinsight_meetupNL/events/279632054/), 13 September 2021
 <br />
 <br />
 
