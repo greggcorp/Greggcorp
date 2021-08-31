@@ -6,7 +6,7 @@ description:
 categories:
 ---
 
-I launched my book *[Research Practice](researchpractice.co)* in January of this year. What I expected to write was a pithy translation of a conference talk I’d presented a few times about scaling research practices. Instead I wrote, published, and distributed a rather lengthy anthology of original essays and findings about how to enter and thrive in a user research role.
+I launched my book *[Research Practice](http://researchpractice.co)* in January of this year. What I expected to write was a pithy translation of a conference talk I’d presented a few times about scaling research practices. Instead I wrote, published, and distributed a rather lengthy anthology of original essays and findings about how to enter and thrive in a user research role.
 
 Here I’ll share how I self-published the book, with callouts (:bulb:) around the tooling choices I made.
 
