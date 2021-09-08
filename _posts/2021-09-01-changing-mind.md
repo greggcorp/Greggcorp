@@ -14,7 +14,7 @@ But then sometimes I think democratization is a great way to minimize the value 
 
 Sometimes I believe that it is our responsibility as researchers to “prove the value of our work” to our colleagues. Since research is far less understood—and staffed—than other disciplines, it’s on us to show how valuable it is to listen to users, and to demonstrate how to do so methodically and rigorously.
 
-But then I think about proving the value of research and want to say, “No, GTFO.” Researchers bring a unique and powerful skill set to any org. If you’re hired into a research role, someone made the case for research headcount. Someone wrote a job description. Someone approved your salary. If you’re still facing obstacles and having to prove your value *after* you’re hired, that’s not on you—that’s on your manager or director. Tell them to step up.
+But then I think about proving the value of research and want to scream GTFO. Researchers bring a unique and powerful skill set to any org. If you’re hired into a research role, someone made the case for research headcount. Someone wrote a job description. Someone approved your salary. If you’re still facing obstacles and having to prove your value *after* you’re hired, that’s not on you—that’s on your manager or director. Tell them to step up.
 
 Sometimes I think that the best way to make an impact upon starting a new role is to establish a quick win with a tightly scoped project. This dovetails with my thoughts above about proving the value of research: once you establish evidence that research really does fit into a product design calendar, everyone will buy in.
 
