@@ -5,12 +5,14 @@ permalink: /speaking/
 ---
 
 # Upcoming
-[UXinsight Book Club](https://www.meetup.com/UXinsight_meetupNL/events/279632054/), 13 September 2021
+Check back later!
 <br />
 <br />
 
 ----
 # Previous
+[UXinsight Book Club](https://uxinsight.org/having-impact-as-a-ux-researcher-qa-with-gregg-bernstein/), 13 September 2021
+
 [UX Fest](https://2021.uxlondon.com/fest/), 2 June 2021
 
 [DOUX: Downtown Orlando UX Meetup](https://www.meetup.com/Downtown-Orlando-UX/events/277611263/), 18 May 2021
@@ -69,6 +71,8 @@ Giant Conference, Charleston, USA, June 2014
 
 ----
 # Interviews
+[The Clearleft podcast](https://podcast.clearleft.com/season03/episode03/), 23 September 2021
+
 [Learners podcast](https://blog.joinlearners.com/research-practices-w-gregg-bernstein-learners-podcast-2/), 28 June 2021
 
 [Copy Cats podcast](https://www.linkedin.com/posts/andrewlubega_design-research-writing-activity-6801789738085941248-WcY0), 22 May 2021
@@ -90,6 +94,8 @@ Giant Conference, Charleston, USA, June 2014
 ----
 # Company & team events
 Gregg has spoken about product and UX research with teams from:
+
+[IBM Canada](https://www.ibm.com/ca-en)
 
 [Xero](https://www.xero.com/)
 
