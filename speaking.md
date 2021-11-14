@@ -71,6 +71,8 @@ Giant Conference, Charleston, USA, June 2014
 
 ----
 # Interviews
+[User Weekly newsletter](https://www.userweekly.com/5-october-2021/), 5 October 2021
+
 [The Clearleft podcast](https://podcast.clearleft.com/season03/episode03/), 23 September 2021
 
 [Learners podcast](https://blog.joinlearners.com/research-practices-w-gregg-bernstein-learners-podcast-2/), 28 June 2021
@@ -80,6 +82,8 @@ Giant Conference, Charleston, USA, June 2014
 [Fuego UX Design Leader Insights](https://youtu.be/encSrMVvm8o), 24 March 2021
 
 [The Iowa Idea podcast](https://www.theiowaidea.com/2021/03/04/71-gregg-bernstein/), 4 March 2021
+
+[People Nerds](https://dscout.com/people-nerds/gregg-bernstein), 8 January 2021
 
 [Branded podcast](https://www.breaker.audio/branded/e/48864834), 11 July 2019
 
