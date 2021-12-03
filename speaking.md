@@ -71,6 +71,8 @@ Giant Conference, Charleston, USA, June 2014
 
 ----
 # Interviews
+[Awkward Siliences podcast](https://www.userinterviews.com/blog/healthy-research-culture-gregg-bernstein-conde-nast), 24 November 2021
+
 [User Weekly newsletter](https://www.userweekly.com/5-october-2021/), 5 October 2021
 
 [The Clearleft podcast](https://podcast.clearleft.com/season03/episode03/), 23 September 2021
@@ -98,6 +100,8 @@ Giant Conference, Charleston, USA, June 2014
 ----
 # Company & team events
 Gregg has spoken about product and UX research with teams from:
+
+[Randstad Group Netherlands](https://www.werkenbijrandstad.nl/nl/nl/)
 
 [IBM Canada](https://www.ibm.com/ca-en)
 
