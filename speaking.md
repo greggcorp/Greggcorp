@@ -71,6 +71,8 @@ Giant Conference, Charleston, USA, June 2014
 
 ----
 # Interviews
+[Brave UX podcast](https://www.linkedin.com/posts/brendanjarvis_braveux-ux-uxresearch-activity-6878746331813343232-Ydy3), 20 December 2021
+
 [Awkward Siliences podcast](https://www.userinterviews.com/blog/healthy-research-culture-gregg-bernstein-conde-nast), 24 November 2021
 
 [User Weekly newsletter](https://www.userweekly.com/5-october-2021/), 5 October 2021
@@ -100,6 +102,8 @@ Giant Conference, Charleston, USA, June 2014
 ----
 # Company & team events
 Gregg has spoken about product and UX research with teams from:
+
+[The Atlantic](https://www.theatlantic.com)
 
 [Randstad Group Netherlands](https://www.werkenbijrandstad.nl/nl/nl/)
 
