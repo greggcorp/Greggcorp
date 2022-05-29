@@ -4,7 +4,6 @@ title: Research Practice
 permalink: /book/
 ---
 ## Perspectives from UX researchers in a changing field
-### <span style="color:red">Now available as a hardcover!</span>
 
 ![Research Practice](/assets/images/book_cover.png "Research Practice cover image")
 
