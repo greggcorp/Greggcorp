@@ -13,11 +13,11 @@ In reading about interview techniques, I came across another way to listen: the 
 
 Here's how the voice-relational analysis works:
 
-**1. Listen for plot**
+## 1. Listen for plot
 
 This is what you're already doing—you're capturing the story.
 
-**2. Listen for voice**
+## 2. Listen for voice
 
 Let's say we're talking about software, and I ask, "What apps do you use?" Here's a typical response:
 
@@ -25,7 +25,7 @@ _I use Gmail and Evernote. Oh, and we also use Microsoft Word._
 
 The shift from "I" to "We" is telling—this person expresses personal preference versus organizational requirements by shifting voice. She likes Gmail and Evernote, but her company has saddled everyone with Word. (Of course, this might not be the entire story, but now we have an opportunity to explore further.)
 
-**3. Listen for roles**
+## 3. Listen for roles
 
 Using the same answer above, we can determine the role of the person we're listening to. The statement, "We use Microsoft Word," seems to imply that selecting Word was _someone else's_ choice. We can begin to form an org chart in our heads, and this person is not at the top. (Again, this might not be entirely true, but it provides us with more questions as we listen further.)
 

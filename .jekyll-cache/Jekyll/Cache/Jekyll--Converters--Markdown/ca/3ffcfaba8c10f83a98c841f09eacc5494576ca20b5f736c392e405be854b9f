@@ -1,0 +1,205 @@
+I"[<p>I launched my book <em><a href="http://researchpractice.co">Research Practice</a></em> in January of this year. What I expected to write was a pithy translation of a conference talk I’d presented a few times about scaling research practices. Instead I wrote, published, and distributed a rather lengthy anthology of original essays and findings about how to enter and thrive in a user research role.</p>
+
+<p>Here I’ll share how I self-published the book, with callouts (:bulb:) around the tooling choices I made.</p>
+
+<p>If you’re pressed for time, here’s a tl;dr:</p>
+<ul>
+  <li>Drafts: <a href="https://bear.app/">Bear</a> notes app</li>
+  <li>Professional development and polish: Invest in an editor</li>
+  <li>Project organization: <a href="http://trello.com/">Trello</a>, Google Drive, and Google Sheets</li>
+  <li>Forms and surveys: Google Forms and <a href="https://crowdsignal.com/">Crowdsignal</a> (meh)</li>
+  <li>Writing and editing: Google Docs</li>
+  <li>Book layout for print and digital: <a href="https://vellum.pub/">Vellum</a></li>
+  <li>Photo editing and cover layout: <a href="https://affinity.serif.com/en-us/">Affinity Designer and Affinity Photo</a></li>
+  <li>Book printing and distribution: <a href="https://kdp.amazon.com/en_US/">Amazon KDP</a> (print and digital) and <a href="https://www.ingramspark.com/">IngramSpark</a> (print), with additional digital outlets detailed below</li>
+  <li>Book mailing list: <a href="https://buttondown.email/">Buttondown</a></li>
+  <li>Bookstore link management: <a href="https://geniuslink.com/">Geniuslink</a></li>
+</ul>
+
+<h2 id="from-spoken-to-written">From spoken to written</h2>
+
+<p><img src="images/gb_URL.jpg" alt="Gregg speaking at User Research London" title="Gregg speaking at User Research London" />
+<em>Gregg speaking at User Research London in 2017</em></p>
+
+<p>I created a new conference talk, “Be more certain,” for <a href="https://www.userresearchlondon.com/2017/">User Research London 2017</a> about my practical approach to spinning up research practices. I soft-launched an early version of the talk at the <a href="https://amux.org/">amUX</a> meetup in Atlanta first, where I received encouraging feedback and my first inkling that the subject matter resonated with audiences.</p>
+
+<p>After I presented the talk in London and elsewhere, I knew that audiences found the content valuable. After each presentation, folks would come up to me after or email to ask for more details. And they weren’t just asking about my talk; non-researchers wanted to know how to get into this profession, and practicing researchers wanted more details about how to grow a team. There was clearly a gap—and opportunity—in user research literature for advice on getting into and scaling up user research.</p>
+
+<p>My conference talk featured six sections. Add material about breaking into user research, bolt on an introduction and a conclusion, and you have the bones of a book outline. So that’s where I started. I took the speaker notes from my talk and elaborated so they could stand on their own.</p>
+
+<hr />
+
+<p><em>I prefer the <a href="https://bear.app/">Bear</a> notes app for rough drafts and user research interview notes. It’s like a very stripped down version of Evernote. I like that it supports markdown, and that it stores documents locally (making it highly responsive) but also syncs across Mac devices via iCloud (which means I can stub out a blog post idea on my phone and finish it when I get back to my laptop).</em></p>
+
+<hr />
+
+<h2 id="hours-of-operation">Hours of operation</h2>
+<p>I’ve worked in-house full time for the last decade. I generally work 10a to 6p Monday through Friday. Weekends are for me and my family. So when to work on a massive side project?</p>
+
+<p>I love rising early to a quiet house, and decided to set writing hours from 5:30a to 6:40a each weekday. This gave me enough time to do what I needed each day: think deeply, write passages, review edits, or manage the book’s distribution.</p>
+
+<hr />
+
+<p><em>Pro-tip: a programmable coffee maker is a great enticement to get out of bed. I would set my coffee to brew 5 minutes before my alarm went off, which meant the glorious and irresistible aroma of fresh coffee beckoned me to write each morning. Before I had a programmable <a href="https://www.oxo.com/categories/coffee-tea/brew/coffee-makers/barista-brain-9-cup-coffee-maker.html">OXO</a> coffee maker, I used a <a href="https://www.williams-sonoma.com/products/technivorm-moccamaster-manual-coffee-maker-thermal-carafe/">Moccamaster</a> that I plugged into a Wemo switch. You do you.</em></p>
+
+<hr />
+
+<p>I had a hard stop at 6:40a to wake my kids for school, so I always felt some urgency to accomplish something in my dedicated work block. Here’s the thing: I didn’t care if I actually <em>wrote</em> something during that block. If I was able to think clearly and untangle a thorny idea, that was progress. If I replied to a bunch of editorial suggestions, that was also progress. If I sent emails to contributors, that also counted as progress. I only wanted to use my special time wisely.</p>
+
+<p>A benefit to using early morning time to write was that I didn’t have to sacrifice my morning runs (from 8ish to 9ish after I dropped my kids at school), nor did my project eat into evening time with my family.</p>
+
+<h2 id="professional-grade-self-publishing">Professional-grade self-publishing</h2>
+<p>During my early morning sessions, I fleshed out the first half of the talk and felt like I was getting somewhere. But I needed help.</p>
+
+<p>I knew I wanted to self-publish this book for a few reasons. Publishers offer a great deal of support to authors, such as content development, copy editing, production, distribution, and marketing. The benefit of this arrangement is that the author gets to focus almost exclusively on writing, but the tradeoff is giving up a greater percentage of sales revenue and—most important to me—a lack of control over the specific formatting of the book. I wanted to manage the entire publishing process from drafts to edits to production, and I also wanted the book to eschew prescriptive chapter conclusions or in-chapter activities, which are fairly standard among UX books.</p>
+
+<p>However! I wanted the professional-grade quality that comes with a publishing house, which meant I would invest in hiring an editor to help with content development, copy editing, and formatting. Enter <a href="https://www.nicolefenton.com/">Nicole Fenton</a>, an author themself and a professional content strategist and editor.</p>
+
+<p>With my semi-completed book in hand, I started working with Nicole, who slowed my roll and asked me to answer some important questions, like who specifically I was writing for and who else might find this book useful. After reading a Google Doc of my progress to that point, Nicole was also quick to question how my perspective would apply to industries I hadn’t worked in (like civic tech or health) or enterprise-sized organizations.</p>
+
+<h2 id="from-solo-to-chorus">From solo to chorus</h2>
+<p>To broaden the usefulness of the book, I created a discussion guide about scaling UX research practices and began to interview researchers with experience in different industries and at different organizational sizes. These calls were productive, but on one of these calls, researcher <a href="https://www.linkedin.com/in/siantownsend/">Sian Townsend</a> suggested I follow the model <a href="https://www.intercom.com/resources?on_pageview_event=books_guides_footer">Intercom</a>, her former employer, used for publishing: ask experts to write their own contributions.</p>
+
+<p>This made a whole lot of sense. If my goal was to include perspectives beyond my own, I needed to remove myself as a filter and instead let others tell their stories. My book would no longer be my useful yet limited advice, but rather a variety of perspectives on different stages of a career in user research.</p>
+
+<p>I converted my discussion guide into a Trello board of broad categories and specific topics I thought the book should cover. I sent the Trello board link to a group of research professionals I knew, and asked folks to sign up to write about the topics they felt comfortable tackling. I also encouraged folks to share the Trello board with others in their networks (snowball recruiting for the win).</p>
+
+<hr />
+
+<p><em><a href="http://trello.com/">Trello</a> rules for project management. The ease of creating and assigning task cards and taking in the entire scope of a project in a kanban view can’t be beat. It’s also super easy to add someone to a Trello board and have them grok what’s going on, which is a pretty crucial aspect of project management software that competitive products (hi, Jira!) needlessly complexify.</em></p>
+
+<hr />
+
+<h2 id="learning-project-management-the-hard-way">Learning project management the hard way</h2>
+
+<p><img src="images/trello.png" alt="The Research Practice Trello board" title="The Research Practice Trello board" />
+<em>The Research Practice Trello board</em></p>
+
+<p>Since I was shifting from authoring my own book to publishing the words of myself and others, I needed to step things up on the organizational front and manage the holistic details of the book project. I created a book release agreement to secure permission from the book’s participants to publish and promote their respective contributions.</p>
+
+<hr />
+
+<p><em>For the book release agreement, I set up a very simple Google Form that displayed the release text and asked contributors to answer whether they agree to the terms. For those who required permission from an employer, I also included a link to a pdf of the agreement that could be shared with a manager or legal team. For straightforward agreements or dead simple surveys, Google Forms is a perfectly acceptable product.</em></p>
+
+<hr />
+
+<p>I also needed to collect details from each participant. Some of the details would inform the book’s content, like educational background, job title, job reporting structure, and research experience. Some details were more practical, like contact and shipping information (for sending a copy of the book), preferred pronouns, and their biographies as they’d like them to appear in the book.</p>
+
+<hr />
+
+<p><em>For the participant survey, I experimented with <a href="https://crowdsignal.com/">Crowdsignal</a>, a survey tool from the folks at Automattic. I love surveys (and enjoy building them), but I did not love Crowdsignal, mainly because the survey editor makes it too hard to see the overall survey flow by limiting your view to one page at a time. What’s more, the results UI is pretty limited, and any analysis requires upgrading to a paid plan, as does exporting data to analyze in a separate tool like Excel. In hindsight, I would have created another Google Form for the participant survey.</em></p>
+
+<hr />
+
+<p>I used Google Drive as my source of truth for contributor essays. I created a folder for each section of the book. Once contributors signed up for topics on Trello, I shared a unique Google Doc with them on the Trello board that was already filed in the proper Drive folder.</p>
+
+<p>The doc header listed the name of the section, the topic the contributor volunteered to write, and their name. By controlling the creation and location of docs, I was able to maintain order across over a hundred unique docs.</p>
+
+<hr />
+
+<p><em>The hierarchical structure and permissions of Google Drive and the collaborative features of Google Docs (commenting, suggestions, multitenancy) made the publishing process much easier than it could have been. Zero complaints.</em></p>
+
+<hr />
+
+<p>To track each participant’s progress, participation release status, survey completion, and biographical details, I created a big spreadsheet with some basic conditional formatting: anything incomplete remained red until I marked it as done, at which point it switched to calming green.</p>
+
+<h2 id="filling-the-gaps">Filling the gaps</h2>
+<p><img src="images/planning.png" alt="The Research Practice planning spreadsheet" title="The Research Practice planning spreadsheet" />
+<em>The Research Practice planning spreadsheet</em></p>
+
+<p>Once all the contributors turned in their submissions, I created a spreadsheet to map out the flow of the book. By viewing the entire map at once, Nicole and I were able to sequence (and re-sequence) the contents of each chapter as well as the chapters as a whole.</p>
+
+<hr />
+
+<p><em>As much as I love tools like Miro and Mural, I still work most efficiently in Google Sheets for grouping/organizational tasks.</em></p>
+
+<hr />
+
+<p>We were also able to spot the gaps in the book’s content. To mitigate these gaps, I fielded yet another Crowdsignal survey (I hadn’t learned my lesson yet) that I shared with the broader UX research community via social media, Slack groups, and listservs. This survey asked a handful of short-answer questions about how practitioners ended up in UX research, what the UX research career ladder is, what roles UX researchers work with, and more.</p>
+
+<p>Additionally, some potential contributors, due to time constraints, preferred to sit for an interview about a specific topic. I scheduled these calls for either my lunch hour or at the end of my work day. For these interviews, I recorded our Zoom call, sent the recording to <a href="temi.com">Temi</a> for transcription, edited the conversation for clarity, and confirmed with the contributor that nothing was amiss.</p>
+
+<hr />
+
+<p><em>Temi is an automated audio-to-text transcription service. I find it exponentially more accurate than Zoom’s native transcriptions, but that increase in quality comes at a price (i.e., it’s not free).</em></p>
+
+<hr />
+
+<h2 id="the-shape-of-a-book">The shape of a book</h2>
+<p>With the content complete and the sequence locked in, Nicole and I began the process of creating a cohesive publication. I created a new Google doc with all the sequenced content and added analysis of my UX research community survey and chapter introductions.</p>
+
+<p>Together we made suggestions and edits, added transitions, clarified the muddled phrases, and got to a stopping point. I sent the first three chapters to a couple of peers who had agreed to be early readers. Once they provided (brutally honest) feedback about the flow, Nicole and I took a few more cracks at the content. I then added the introduction, conclusion, biographies, etc.</p>
+
+<h2 id="divide-and-conquer">Divide and conquer</h2>
+<p><img src="images/vellum.png" alt="Setting things up in Vellum" title="Setting things up in Vellum" />
+<em>Setting things up in Vellum</em></p>
+
+<p>At this point Nicole and I worked on parallel tracks: I started to set up the book for production, while they copyedited the content. Reader, don’t skimp on copyediting. I think of myself as a careful writer, but Nicole found so many things I had overlooked: easily-missed typos, misuse of words, subject-verb disagreement, run-on sentences, and so on. This is where an editor elevates a self-published book from passable to professional.</p>
+
+<p>As Nicole finished proofing sections of the book, I imported them into the <a href="https://vellum.pub/">Vellum</a> app. In Vellum I was able to add the “big parts and smaller chapters” structure I wanted, place images and captions, build out a table of contents, and preview how the book would look both in print and on various e-readers.</p>
+
+<hr />
+
+<p><em>What I like about Vellum is that it allows you to set up a book once and export it for print and digital publication. You can select the print parameters you want (6x9, square, whatever) and your digital destinations (Amazon, Apple, Kobo), and Vellum gets it right. You can tell Vellum was built for the professional self-publisher and that they listen to user feedback.</em></p>
+
+<hr />
+
+<p>As Nicole and I got to the end and I could see the book as a whole, I tackled the book’s introduction and added Aarron Walter’s foreword.</p>
+
+<p>I also wanted to include an author photo (and knew I’d need pics of myself for promotions). This was in the midst of the pandemic, pre-vaccines, so I had to scrap my plan to hire a professional photographer. Instead I bought a <a href="https://smile.amazon.com/gp/product/B0113W6A84/ref=ppx_yo_dt_b_asin_title_o04_s01?ie=UTF8&amp;psc=1">remote shutter</a> for my iPhone, a <a href="https://smile.amazon.com/gp/product/B06XYBTH7G/ref=ppx_yo_dt_b_asin_title_o04_s00?ie=UTF8&amp;psc=1">tripod phone mount</a>, and a <a href="https://smile.amazon.com/gp/product/B07YSF3X8K/ref=ppx_yo_dt_b_asin_title_o04_s00?ie=UTF8&amp;psc=1">LED light</a> to shoot my own images.</p>
+
+<p><img src="images/gb_office.jpg" alt="Gregg in his office" title="Gregg in his office" />
+<em>Self portrait using items purchased from Amazon</em></p>
+
+<p>Though Vellum simplifies book layout and publishing, it doesn’t create book jackets or Kindle covers. For that I used <a href="https://affinity.serif.com/en-us/">Affinity Photo and Affinity Designer</a>. I also used Affinity Photo to modify some of the interior images and my author photos.</p>
+
+<hr />
+
+<p><em>Having spent the first part of my career living in Adobe Photoshop and Illustrator, I wasn’t sure about using an entirely new suite of layout products. My fears were unfounded; Affinity’s tools are fast, powerful, intuitive, and—best of all—affordable.</em></p>
+
+<hr />
+
+<p>With all of this done, it was time to ship the book.</p>
+
+<h2 id="actually-self-publishing">Actually self-publishing</h2>
+<p><img src="images/amazon_page.png" alt="Research Practice on Amazon" title="Research Practice on Amazon" />
+<em>Research Practice on Amazon</em></p>
+
+<p>Self-publishing authors have a number of paths to take. While folks like <a href="https://bradfrost.com/blog/post/self-publishing-a-book-for-fun-and-profit/">Brad Frost</a> and <a href="https://medium.com/@janchip/the-anatomy-of-a-kickstarter-d23406a08c66">Jan Chipchase</a> managed the printing and distribution of their books, I followed the examples of <a href="http://abbytheia.com/2014/11/06/how-i-made-sense-of-my-mess/">Abby Covert</a> and <a href="https://cydharrell.com/book/">Cyd Harrell</a> and offloaded these processes to service providers.</p>
+
+<p>First, I purchased my ISBNs (unique book identifiers) for the print and digital editions of my book from <a href="https://www.myidentifiers.com/">Bowker</a>. While some platforms will assign you an identifier if you publish with them, that identifier is unique to the assigning platform and is often not recognized by other platforms. It can also lock you into exclusivity with a single platform, limiting your distribution options. By purchasing my own ISBN, I ensured that my book could be printed and distributed everywhere.</p>
+
+<p>I used <a href="https://kdp.amazon.com/en_US/">Amazon’s KDP</a> (Kindle Direct Publishing) program as the primary source for both the paperback and Kindle versions of <em>Research Practice</em>. Amazon is ubiquitous, and while I disagree with many of their business practices, they eliminate the barrier to both publishing and purchasing a book. For KDP authors, Amazon makes it very easy to order promotional and author copies, to advertise the book in their search results, and to make the book available in their international storefronts. I also opted to offer the digital edition exclusively via Amazon for the first 90 days after launch in exchange for a greater percentage of sales.</p>
+
+<p>I also used <a href="https://www.ingramspark.com/">IngramSpark</a> for wider print distribution. While Amazon offers global distribution, most non-Amazon retailers (independent bookstores) and distributors won’t offer Amazon publications. Offering the paperback book through IngramSpark (in addition to Amazon) meant that any bookstore in the world could order <em>Research Practice</em>.</p>
+
+<p>Once my 90-day exclusivity window for the Kindle edition expired with Amazon, I also distributed the book via <a href="https://www.kobo.com/us/en/p/writinglife">Kobo</a>, <a href="https://draft2digital.com/">Draft2Digital</a>, and <a href="https://www.streetlib.com/">StreetLib</a>. These digital distributors ensured my epub was available from Apple, Google Play, Barnes &amp; Noble, and many international platforms.</p>
+
+<p>With my book available in multiple shops, I wanted to be able to share a single URL that would get people to the right place. I bought the URL researchpractice.co from <a href="https://iwantmyname.com/">iwantmyname</a> and redirected it to a <a href="https://glitch.com/">Glitch</a> landing page.</p>
+
+<hr />
+
+<p><em>Geniuslink is a service that detects your location and device and links you to the right Amazon store—so if you’re in the United Kingdom, you’re linked to Amazon.co.uk. While GeniusLink sells a landing page service, you can grab the international Amazon link for free.</em></p>
+
+<hr />
+
+<p>I also added a link to <a href="https://www.indiebound.org/">IndieBound</a>, which allows you to find independent bookstores from which you can order <em>Research Practice</em>.</p>
+
+<h2 id="launch">Launch</h2>
+<p>I’ve had a mailing list for ages, and used it to share samples of the book prior to launch. Once the book was available, I shared the researchpractice.co link. I also posted the samples to my <a href="https://gregg.io/book">website</a> and <a href="https://www.linkedin.com/in/greggbernstein/">LinkedIn</a>. On my site I created a new Book section with background on the book, excerpts, the table of contents, and the full list of contributors.</p>
+
+<hr />
+
+<p><em><a href="https://buttondown.email/">Buttondown</a> suits my needs for easy, sporadic emails. Mailchimp is a bit more product than I need, and Substack is usable enough but I disagree with their (lack of) editorial or content policies. So far, so good with Buttondown.</em></p>
+
+<hr />
+
+<h2 id="looking-back">Looking back</h2>
+<p>I gave the first version of the talk that became this book in February of 2017. I launched the book in January of 2021. That makes about four years that this project was rattling around my head.</p>
+
+<p>When I think about what I would have done differently, I could have marketed the book more via blog posts and podcast appearances. But then again, I burned out: launch day took place in the midst of a pandemic, just after a failed coup, one week after I left a job over ethical concerns, and one week before I started a different job that proved highly dissatisfying. All of this is to say that I didn’t market the book as actively as I planned, but the last 18 months have proven that none of our plans really mean anything anymore.</p>
+
+<p>It took me some trial and error to get the book available via IngramSpark and Google Play, which was frustrating but also part of the experience of learning how to publish. I don’t think I could have understood what I was doing without encountering that friction.</p>
+
+<p>Overall, I invested a ton of time, energy, and money into the book I felt this field needed—the book I wish I had when I started as a researcher. To see it out in the world is immensely satisfying, and I would do it again in a heartbeat.</p>
+:ET

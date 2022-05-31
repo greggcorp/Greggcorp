@@ -9,11 +9,8 @@ In 2003, Philip Morris, parent company of Philip Morris Tobacco and Kraft foods,
 
 Altria is a meaningless name, designed only to unify a disparate collection of entities and shield less desirable parts behind a nebulous whole.
 
-<br />
-
-![Like the name of the company, Altria's logo signifies nothing.](/assets/images/altria-share-logo.png "Altria's Logo")
-
-<br />
+![Like the name of the company, Altria's logo signifies nothing.](images/altria-share-logo.png "Altria's Logo")
+*Like the name of the company, Altria's logo signifies nothing.*
 
 Five years later, Google's Android mobile platform launched. Since 2013, Android has ranked as the best-selling operating system on phones and tablets. And since 2013, the name Android has served a role similar to that of Altria: a loose collection of disparate experiences unified under an empty moniker.
 
@@ -29,12 +26,8 @@ That first impression of the Android universe was underwhelming. I had seen Goog
 
 When Motorola finally released Android Lollipop for my phone, I was (belatedly) impressed. The interfaces and interactions felt intuitive. The animations were snappy. The notifications seemed useful. As more app developers embraced Google's design standards, the ecosystem of beautiful apps began to rival that of iOS.
 
-<br />
-
 <blockquote class="twitter-tweet" data-cards="hidden" data-lang="en"><p lang="en" dir="ltr">Android at its best: podcast controls, weather, file upload, movie download. Simultaneous actions and a clear UI. 🏆 <a href="https://t.co/lpHPG10P1p">pic.twitter.com/lpHPG10P1p</a></p>&mdash; Dan Kim (@dankim) <a href="https://twitter.com/dankim/status/737460324031430657">May 31, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<br />
 
 And then Google announced the next version of their OS, Marshmallow, just a few months after I received Lollipop. Marshmallow's new features looked [truly useful](https://twitter.com/dankim/status/737460324031430657/photo/1), and I would _never get to experience them_—Motorola announced that my phone would not receive an update to the new OS.
 
@@ -50,7 +43,8 @@ Android runs on countless devices from myriad manufacturers across many carriers
 
 Google pays lip service to this conundrum by [issuing weak threats to some of their manufacturing partners](http://www.cnet.com/news/google-might-start-shaming-companies-that-take-too-long-to-update-their-android-phones/). But these are their partners they threaten—without these partners, Android doesn't exist at all. Only Apple, by controlling both their hardware and software, can execute the definitive vision they proffer. Android only offers lesser and diminished versions of its promise.
 
-![Only Apple provides a cohesive user experience.](/assets/images/circles.png "A blob of an experience")
+![Only Apple provides a cohesive user experience.](images/circles.png "A blob of an experience")
+*Only Apple provides a cohesive user experience.*
 
 ## Attaining a universal experience
 Brands often make promises of varying degrees of emptiness, and Google proved no exception. But continuing to issue empty promises erodes trust, confidence, and—ultimately—the user experience.

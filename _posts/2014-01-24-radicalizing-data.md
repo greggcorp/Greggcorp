@@ -11,7 +11,7 @@ A popular corollary in design and writing posits that by emphasizing everything,
 
 As a researcher, I’ve learned that only by flipping that corollary on its head does our team uncover meaningful and unique insights. We start with the premise that everything is important, and that every data point tells a story. By listening to each and every story, and then following those stories until they become epics, we achieve a mastery of our data sets and an ability to then focus, prioritize, and emphasize. We’ve radicalized our data, allowing it to dictate direction and scope.
 
-### The Journey is the Destination
+## The Journey is the Destination
 
 Like most companies, MailChimp has an annual agenda that guides our work throughout the year. Typically this agenda is brief and amorphous—it’s not so much a directive as it is a few keywords that every team—from engineering to marketing to support—should keep in mind. A typical agenda could be about anything from the competitive landscape to nascent technologies.
 
@@ -19,7 +19,7 @@ This agenda, however, isn’t dogmatic. For instance, if we only look at the com
 
 At MailChimp, we employ a number of research channels—unsolicited email feedback, surveys, interviews, usability testing, and analytics, to name a few. By purposefully not making assumptions about what our research should uncover, we empty our minds of preconceived ideas and open ourselves to the data. It’s akin to the Grounded Theory method—only the data streams in to us all day, every day, decoupled from any specific project.
 
-### Unleash Columbo: Dumb Down to Smarten Up
+## Unleash Columbo: Dumb Down to Smarten Up
 
 To radicalize the data is to become subservient to it, no matter the form. By blanketly imposing importance on the data, we open ourselves to anything. In layman’s terms, we’re unleashing our inner Detective Columbo—we embrace befuddlement, we assume that everyone else is an expert and that every sentiment carries weight, and we trust that from this process the patterns and hierarchies will emerge later.
 
@@ -33,7 +33,7 @@ Last year an email came through our app feedback channel that requested a “Not
 
 We responded to our customer directly, learned of the use case, and this turned into an app development. The data we received was minimal, but by granting it legitimacy by default, we learned something new and added a feature with potential benefit for all customers.
 
-### … and then Wise Up
+## … and then Wise Up
 
 Of course, following every data point as though each is canon has a logical endpoint. Therefore, we can complete our research mantra by claiming that each data point holds value until proven otherwise. Once we see enough evidence to contradict the data in question, we can move on.
 
@@ -41,7 +41,7 @@ For instance, as an email marketing platform we emphasize mailing list managemen
 
 Once we looked over the data with a closer eye, however, we could determine that this wasn’t necessarily a data point worthy of further research and development—we examined who provided the data, the frequency, and the rationale. We could empathize with the feedback, but the use cases in question did not add up to a development that would improve our app—it would just appease a few and possibly upset even more. We followed the data and listened to the story until the story reached a conclusion.
 
-### Radicalizing the Data
+## Radicalizing the Data
 
 When we research, we’re tasked with reporting our findings and providing supportive evidence. Depending on whether we’re a shop of one or a team of hundreds, we can all find value in a data-first approach to our work. To ensure that I allow the data to guide me, rather than me steering the data, I employ the following mindset:
 

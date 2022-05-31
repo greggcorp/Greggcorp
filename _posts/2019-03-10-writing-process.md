@@ -7,7 +7,6 @@ categories:
 ---
 *I’m writing a book about product research, and I update folks about it via a newsletter. In [a recent issue](https://mailchi.mp/71670cb9b337/an-update-on-the-research-practice-book), I shared some of my process, as well as my plans for development and publication of the book. A number of folks got in touch to tell me they enjoyed learning about my specific writing process, so I thought I’d post it here. To get updates like this in your inbox, [please subscribe to my newsletter](http://gregg.io/book/).*
 
-
 ## The process
 I’m an early riser. There’s nothing better than waking way before the sun—before the kids need to be packed up for school and before responsibilities take over—and starting the day with a text editor and a hot cup of coffee.
 
@@ -17,7 +16,9 @@ I’ve been thinking about this topic for a few years now, which has manifested 
 
 I use the Bear notes app to write, and I keep my outline in a window on the left half of my screen, with my current chapter in a separate window on the right. If I keep the outline visible at all times, it both keeps me on track and reassures me when I have moments of “WTF are you even doing, Bernstein?”
 
-![The book outline (l) and a chapter-in-progress (r)](/assets/images/writing_setup.jpg "Bear notes app setup")
+![The book outline (l) and a chapter-in-progress (r)](images/writing_setup.jpg "Bear notes app setup")
+*The book outline (l) and a chapter-in-progress (r)*
+
 
 I start a new note for each chapter, and I’m writing everything in markdown. When I write something but I think it needs more rigor, I highlight the text to remind myself to revisit it. When I stop writing each morning, I add a comment at my last passage that simply says, “Stopping point.” I do this because from time to time I end up writing out of sequence, so picking up where I left off is not as simple as scrolling to the end of a note.
 

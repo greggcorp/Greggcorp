@@ -15,6 +15,6 @@ Most of these conversations stem from a research project, or a desire to improve
 
 This mindset scales beyond conversations. A couple of years ago I described how I apply it to all sorts of data—like support emails and analytics—in [Radicalizing Data](http://us5.campaign-archive1.com/?awesome=no&u=7e093c5cf4&id=361d158320). Simon Ouderkirk of WordPress [shares a similar philosophy](https://www.helpscout.net/blog/using-support-data-you-have/) of "assuming best intent" and maintaining "optimistic curiosity" in his wonderful post for Help Scout.
 
-**By embracing optimism, we invest in the belief that what's in front of us holds meaning.**
+> By embracing optimism, we invest in the belief that what's in front of us holds meaning.
 
 It's too easy to become calcified, to assume that we've heard it all before, to judge rather than journal. The best case scenario to assuming importance is that we gain wisdom and empathy. There is no worst case scenario.

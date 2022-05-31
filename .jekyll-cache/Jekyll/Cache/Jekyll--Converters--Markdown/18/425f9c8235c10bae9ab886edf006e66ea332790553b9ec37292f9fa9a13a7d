@@ -1,0 +1,34 @@
+I"s<p>Sometimes you propose something to your colleagues, but it’s not met with much enthusiasm.</p>
+
+<p>Sometimes a good design isn’t quite good enough.</p>
+
+<p>And sometimes a great idea works well on its own but not in concert with other parts.</p>
+
+<p>You could choose to see these as setbacks or disappointments. <em>Or you could see them as parts</em>.</p>
+
+<p>Back when I worked at <a href="http://mailchimp.com/">MailChimp</a>, I was introduced to the concept of the <strong>parts bin</strong> by our CEO, <a href="http://twitter.com/benchestnut">Ben</a>. To Ben, every design or prototype held merit, regardless of whether it amounted to anything. At some point, those half-baked designs would become valuable in service to even better ideas.</p>
+
+<p>The parts bin became a research mindset for me and others at the company, as evidenced by our adoption of Evernote as a <a href="http://alistapart.com/article/connected-ux">repository for anything research-related</a>. A stray data point might not be useful today, but we figured it would be useful to <em>someone, someday</em>. As I’ve written before, <a href="http://gregg.io/2016/07/07/everything.html">everything is important</a>.</p>
+
+<p>The parts bin applies beyond design and research. When you frame your ideas as parts to be broken down and reconfigured time and time again, they become less precious and more practical.</p>
+
+<p>The key is to hold onto them, and come up with a bin that works. Without the bin to document your ideas, parts will disappear into the ether. To that end, I want to share how I’ve set up my parts bin (or <em>bins</em>, in my case).</p>
+
+<h2 id="ideas-and-inputs">Ideas and Inputs</h2>
+<p>I break my parts bins across two dimensions: <strong>ideas and inputs</strong>.</p>
+<ul>
+  <li>When I have an <strong>idea</strong>, I’m excited and need to capture it in a way that’s lightweight and actionable.</li>
+  <li>When I come across context for an idea—be it an article, data visualization, document, or whatever—that’s an <strong>input</strong> that I need to tag and archive.</li>
+</ul>
+
+<p>For ideas, I rely on Wunderlist. This app allows me to keep multiple lists, with each list affording subtasks and a notes field. I keep a lot of lists, including people to talk to, articles to read, and posts I want to write.</p>
+
+<p>Looking at the latter, I have dozens of writing ideas. Each idea typically contains a few points I want to make, along with a sentence (or a string of words) to help me remember the context in which I came up with the idea. For this post, the list looks like this:</p>
+
+<p><img src="images/wl.png" alt="This list hints at the structural pieces for this post—Ben at MailChimp, Wunderlist, Evernote, etc." title="Screenshot of Wunderlist" />
+<em>This list hints at the structural pieces for this post: Ben at MailChimp, Wunderlist, Evernote, etc.</em></p>
+
+<p>I lean on Evernote for inputs. For instance, I’ve been studying cognitive interviews lately—a technique wonderfully documented in this recent <a href="http://www.wired.com/2016/05/how-to-interrogate-suspects/">Wired article</a>. As I come across more literature on this topic, into my Evernote notebooks it goes.</p>
+
+<p>These two repositories, or <em>parts bins</em>, give me dozens of starting points and hundreds of supporting documents. And with a mindset that all of this will—in some way—prove useful, it’s a rewarding habit.</p>
+:ET

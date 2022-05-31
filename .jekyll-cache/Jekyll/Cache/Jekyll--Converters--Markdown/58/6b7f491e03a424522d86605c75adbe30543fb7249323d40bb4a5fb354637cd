@@ -1,0 +1,41 @@
+I"g<p>The products we use are the result of countless compromises and tradeoffs before we even experience them. Every engineering specification, and every design decision, stems from discussions we’re not privy to about form, time, effort, budget, and so many other considerations.</p>
+
+<p>Once a product is brought forth into the world, our individual experiences with it introduce context and variables that can stretch far beyond what its designers envisioned. How I use a product differs from how you use it, where you use it, when you use it.</p>
+
+<p>I say this because last week, I wrote about <a href="/2016-06-14-android-future/">the anti-experience</a> of the Android operating system. My thesis was that Android is a loose collection of disparate experiences:</p>
+
+<blockquote class="twitter-tweet" data-conversation="none" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/devolute">@devolute</a> <a href="https://twitter.com/RWD">@RWD</a> The right UX shouldn&#39;t be a game of Android Lotto.</p>&mdash; Gregg Bernstein (@greggcorp) <a href="https://twitter.com/greggcorp/status/748179776477798400">June 29, 2016</a></blockquote>
+<script async="" src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<p>With all the thoughtful decisions that yielded the latest Android operating system, every phone carrier, manufacturer, and model adds a variable that yields vastly different outputs. <a href="https://twitter.com/beep">Ethan Marcotte</a> added the technical context I had neglected by linking to the slide deck in this tweet:</p>
+
+<blockquote class="twitter-tweet" data-cards="hidden" data-lang="en"><p lang="en" dir="ltr">“If somebody tells you they tested their website on Android, laugh evilly and show them this slidedeck.”<a href="http://t.co/T14Upqoym5">http://t.co/T14Upqoym5</a><br /><br />p much</p>&mdash; Responsive Design (@RWD) <a href="https://twitter.com/RWD/status/488782076502896640">July 14, 2014</a></blockquote>
+<script async="" src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<p>TL;DR: the best possible version of Android is doomed to failure by an impossibility of contexts.</p>
+
+<p>Ian Parr responded to my article:</p>
+
+<blockquote class="twitter-tweet" data-conversation="none" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/RWD">@RWD</a> <a href="https://twitter.com/greggcorp">@greggcorp</a> I presume you’ve been told that you bought the wrong Android phone if you wanted the unified experience you talk about</p>&mdash; devolute (@devolute) <a href="https://twitter.com/devolute/status/748177489785163776">June 29, 2016</a></blockquote>
+<script async="" src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<p>Similarly, Jiri Jerabek wrote:</p>
+
+<blockquote class="twitter-tweet" data-conversation="none" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/greggcorp">@greggcorp</a> Nexus is Google&#39;s &#39;North Star&#39; for 3rd parties. I&#39;m not sure whether what you described is a &#39;problem&#39; for the majority of users.</p>&mdash; Jiri Jerabek (@JiriJerabek) <a href="https://twitter.com/JiriJerabek/status/748195407730180096">June 29, 2016</a></blockquote>
+<script async="" src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<p>Both Ian and Jiri raise interesting points about the roles of North Stars and flagships, and where reasonable expectations give way to diminishing returns. A design <a href="https://medium.com/the-year-of-the-looking-glass/designs-north-star-d469193063c5#.7ggv7r5te">North Star</a>, as described by Facebook’s Julie Zhou, is an achievable, realistic, inspiring, and unifying vision. At its core, a North Star provides internal guidance to the team building a product.</p>
+
+<p>Inversely, a flagship is the brand or service for which a company is most well known. The flagship is determined by audience size, sales figures, or popularity. <strong>It’s an outcome, not a goal.</strong> The Accord is Honda’s flagship automobile, just as the Air Jordan remains Nike’s flagship shoe and Windows arguably represents Microsoft.</p>
+
+<p>With all eyes on a flagship, it’s incumbent on a company to reserve their latest innovations for these popular offerings. In Android’s case, we can see that updating their flagship Nexus phones has two potential goals:</p>
+
+<ol>
+  <li>It signals that Google isn’t resting on its laurels</li>
+  <li>It introduces a halo effect for the rest of the brand. That is, what’s seen in the Nexus is reflected to varying degrees in offerings from Samsung, HTC, Motorola, and on down the line.</li>
+</ol>
+
+<p>And this illustrates the difficult position Android finds itself in, as their flagship Nexus phones are <em>also</em> positioned as partner-facing North Stars: beacons of achievable, realistic <em>possibilities</em>.</p>
+
+<p>But possibilities yield to <em>expectations</em>. The expectation is that the innovations in the flagship will surface elsewhere, which for an Android purchaser is a risky proposition. What appears in the flagship, however tightly correlated to the North Star that brought it to life, has no guarantee of trickling down to mass production.</p>
+:ET

@@ -9,7 +9,6 @@ categories:
 _Originally published in the [MailChimp UX Newsletter](http://us5.campaign-archive1.com/?awesome=no&u=7e093c5cf4&id=c24b99796f)._
 
 I’ve judged books by covers, against the warnings from parents, teachers, and my own common sense. Yet I’d rationalize this decision with Olympic-level logic leaps:
-
 * Fact: This cover looks amazing.
 * Assumption: Likely, the author had the good sense to approve this design.
 * Deduction: The author is smart and has great aesthetics.

@@ -1,0 +1,21 @@
+I"�<h1 id="i-agree-to">I agree to…</h1>
+<p>We all click “I Agree,” but to what are we agreeing? Nearly every software vendor uses some form of the click-through agreement, or CTA, as part of the installation process. Yet this important and contractually binding information is presented in an unreadable, unusable, and unintuitive format.</p>
+
+<p>As part of my MFA Thesis project at the <a href="http://www.scad.edu">Savannah College of Art and Design</a>, I explored the state of the CTA, the information it contains, and how it may be presented in a readable, comprehensible manner through the application of graphic design and user experience.</p>
+
+<p>These slides demonstrate a proposed redesign of legal agreements modeled after the Apple iTunes CTA, presented at bottom.</p>
+
+<p>Please find the research behind this project in my original <a href="../images/bernstein_thesis.pdf">thesis</a>. Additionally, read more about this project at <a href="https://www.fastcodesign.com/1665000/how-to-fix-the-nightmare-of-apples-terms-of-service">Fast Company</a>.</p>
+
+<div class="gallery-box">
+  <div class="gallery">
+    <img src="../images/CTA_redesign_1.jpg" />
+    <img src="../images/CTA_redesign_2.jpg" />
+    <img src="../images/CTA_redesign_3.jpg" />
+    <img src="../images/CTA_redesign_4.jpg" />
+    <img src="../images/CTA_redesign_5.jpg" />
+    <img src="../images/CTA_redesign_6.jpg" />
+    <img src="../images/itunes-license.jpg" />
+  </div>
+</div>
+:ET

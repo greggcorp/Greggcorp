@@ -1,38 +1,98 @@
-# Site settings
-title:          "Gregg Bernstein"
-description:    "The personal site of Gregg Bernstein: researcher & educator, author of Research Practice, and speaker."
-baseurl:        ""
-url:            "http://gregg.io" # the base hostname & protocol for your site
+#-------------------------------
+# General Site Settings
+title: Gregg Bernstein
+logo: /images/gregg-logo.png # You can add own logo. For example '/images/logo.png'.
+description: "The personal site of Gregg Bernstein: researcher & educator, author of Research Practice, and speaker."
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://gregg.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter:
   username: greggcorp
   card: summary
 
-logo: /assets/gregg-logo.png
+
+#-------------------------------
+# Author Settings
+# author:
+#  name: Joseph Lawrence
+#  bio: I'm a designer & products creator. I teach designers code and developers design. Passionate about people, health, & design systems.
+#  avatar: '/images/01.jpg'
 
 social:
-  name: Gregg Bernstein
-  links:
-    - https://twitter.com/greggcorp
-    - https://www.linkedin.com/in/greggbernstein
+- {icon: "ion ion-logo-twitter", label: Twitter, link: "https://twitter.com/greggcorp"}
+# - {icon: "ion-logo-facebook", label: Facebook, link: "https://facebook.com"}
+# - {icon: "ion-logo-pinterest", label: Pinterest, link: "https://pinterest.com"}
+# - {icon: "ion-logo-dribbble", label: Dribbble, link: "https://dribbble.com"}
+# - {icon: "ion-logo-instagram", label: Instagram, link: "https://instagram.com"}
+# - {icon: "ion ion-logo-vimeo", label: Vimeo, link: "https://vimeo.com"}
+- {icon: "ion ion-logo-linkedin", label: LinkedIn, link: "https://www.linkedin.com/in/greggbernstein"}
 
-# Build settings
-markdown:       kramdown
+# Example of adding a new link to the author section and footer - {icon: "ion-logo-github", label: Github, link: "https://github.com"}
+# Other icons can be found at https://ionicons.com/v4/
 
-# Assets
-sass:
-  sass_dir:     _sass
-  style:        compressed
+#-------------------------------
+# Hero Settings
+hero:
+  hero__title: Hello! I'm Gregg.
+  hero__description: I'm a user experience research leader &amp; educator, and I wrote the book <i>Research Practice</i>. This site, like me, is a constant work in progress.
+  hero__image: '/images/gregg_speaking.jpg'
 
-# Gems
+
+#-------------------------------
+# Newsletter (_includes/footer-widgets/widget-subscribe.html)
+mailchimp: true # To enable the mailchimp form, use the value 'true'. To disable the form, use the value 'false' or leave the field blank.
+mailchimp__title: Get random updates # Add your Title
+mailchimp__text: Subscribe to my newsletter and I’ll send you emails. Sometimes. # Add your description.
+mailchimp__identifier: # Add your MailChimp form identifier. For example - blogenjoyfreedom.us16.list-manage.com/subscribe/post?u=cd56155d76ddeeb4c0bc4d080&amp;id=7a526cd13e
+mailchimp__button__text: Subscribe # Add your button text
+
+
+#-------------------------------
+# Contact Settings
+contact:
+  email: me@gregg.io # Add your email for contact form
+  description: Have a question? Want to book Gregg for your conference, company event, or book club? Please get in touch! # Add a description of your form
+
+# NOTE
+# Joseph comes with a built-in contact form, that you can use with Formspree service to handle up to 50 submissions per month for free. You could also easily switch to another contact form service if you want.
+
+
+#-------------------------------
+# Comment Section (Disqus)
+# disqus-identifier: anvodstudio-demo # add your shortname for Disqus Comment. For example anvodstudio-demo
+
+
+#-------------------------------
+# Google Analytics
+# google-analytics: # Add your identifier. For example UA-99631805-1.
+
+
+#-------------------------------
+# Build Settings
+markdown: kramdown
+permalink: /:title
 plugins:
-  - jekyll-remote-theme
-  - jekyll-feed
   - jekyll-paginate
-  - jemoji
-  - jekyll-seo-tag
-  - jekyll-menus
+  - jekyll-sitemap
+#  - jekyll/tagging
 
-# Permalinks
+paginate: 5
 paginate_path: "blog/page/:num/"
-permalink:      /:year-:month-:day/:title
-paginate:       5
+
+# Pages Path
+defaults:
+  - scope:
+      path: '_pages'
+    values:
+      permalink: /:year-:month-:day/:title
+
+include:
+  - _pages
+
+# Tags
+# tag_page_dir:         tag
+# tag_page_layout:      tag_page
+# tag_permalink_style:  /:title
+
+sass:
+  sass_dir: _sass
+  style: compressed

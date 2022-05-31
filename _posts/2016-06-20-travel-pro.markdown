@@ -25,11 +25,13 @@ I don't check my luggage for business travel, and neither should you. I stick to
 ### Rolling Carry-on
 I use a [Delsey 19" suitcase](https://www.amazon.com/gp/product/B00PX0QJDY/ref=oh_aui_search_detailpage?ie=UTF8&psc=1) that I carry aboard with me. It's small enough to fit into the overhead bins of every major domestic and international airline. It also features a polycarbonate shell, which both helps to keep its shape (no need to stuff it into the overhead bin) and protects my goods (which can include a laptop or Kindle).
 
-![The Delsey Helium suitcase.](/assets/images/delsey.jpg "Delsey suitcase image")
+![The Delsey Helium suitcase.](images/delsey.jpg "Delsey suitcase image")
+*The Delsey Helium suitcase.*
 
 ### Backpack
 After ample user testing, I settled on the [Timbuk2 Command backpack](http://www.timbuk2.com/command-tsa-friendly-laptop-backpack/392.html). It's not the platonic ideal of backpacks, but it hits a lot of my checkmarks: expandable, TSA compliant, protective, and understated. If I had to do it again, I'd go with the [Mission Workshop Sanction](http://missionworkshop.com/products/bags/backpacks/rucksack/sanction.php), but the Command is holding up nicely after two years being shoved under airplane seats and thrown into cabs. Every couple of months I spray it with Scotchgard as an added layer of protection.
-![The Timbuk2 Command backpack.](/assets/images/command.jpg "Timbuk2 backpack image")
+![The Timbuk2 Command backpack.](images/command.jpg "Timbuk2 backpack image")
+*The Timbuk2 Command backpack.*
 
 ## Organization
 
@@ -41,7 +43,6 @@ I hand-wash my clothes at the hotel, but eventually things get dirty. That's whe
 
 ### Pocket Organizers
 To keep organized in my backpack, I use two Maxpedition cases—the smaller [Micro](https://www.amazon.com/gp/product/B005CSYVSW/ref=oh_aui_search_detailpage?ie=UTF8&psc=1) for charging cords and adapters, and the larger [Beefy](https://www.amazon.com/gp/product/B00AQ6E5XQ/ref=oh_aui_search_detailpage?ie=UTF8&psc=1) for:
-
 * Power supplies and a surge protector
 * Ethernet cable and adapter
 * HDMI adapter
@@ -50,8 +51,8 @@ To keep organized in my backpack, I use two Maxpedition cases—the smaller [Mic
 * Kensington presentation remote
 * A [travel spork](https://www.amazon.com/MSR-6908-Spork-Red/dp/B00A9A2BJE/ref=pd_sim_sbs_468_4?ie=UTF8&dpID=31-6z52IqDL&dpSrc=sims&preST=_AC_UL480_SR468%2C480_&psc=1&refRID=SGEQK2DTF1YW7Y8MBKCM). (I highly recommend this—there will come a late-night meal in your hotel room when you're tired, half-dressed, and lacking a utensil. When that time comes, this will be your moment of glory.)
 
-![The mighty travel spork](/assets/images/spork.jpg "Spork image")
-
+![The mighty travel spork](images/spork.jpg "Spork image")
+*The mighty travel spork*
 
 ## Tech
 I work as a UX researcher, which means I often travel with the intention of capturing moments and mutterings. I've used a variety of devices over the years, but here's my current set-up:
@@ -69,9 +70,11 @@ Some apparel rules of thumb:
 ### Shoes
 Shoes make or break a trip. The right pair is flexible enough to work for meetings, socializing, and exploring. They need to work in all climates and conditions and still provide comfort.
 * [Tretorn Skymra](http://static.beyondtherack.com/productimages/TRE47236013/large/TRE47236013_1.jpg) (black on black): These are _the_ shoes. They're Gore-Tex, waterproof, comfortable, and stylish. I wear these on the plane, through the city, to meetings, and to the bar for a cocktail. They go in and out of stock, hence the lack of a link. But if you find them, pounce.
-![Tretorn Skymras = Footwear Happiness.](/assets/images/tretorns.jpg "Tretorn shoes image")
+![Tretorn Skymras = Footwear Happiness.](images/tretorns.jpg "Tretorn shoes image")
+*Tretorn Skymras = Footwear Happiness.*
 * Dr. Martens [Alfie boot](https://www.amazon.com/gp/product/B005M8VR84/ref=oh_aui_search_detailpage?ie=UTF8&psc=1) or [Callum shoe](https://www.amazon.com/gp/product/B005UWI5U0/ref=oh_aui_search_detailpage?ie=UTF8&psc=1). These canvas shoes are perfect for dry climates and lots of walking, and they're super durable and comfortable. Note that they're not waterproof. I sprayed mine with Scotchgard, which worked in a light mist but failed in a storm.
-![Dr. Martens Alfie boot](/assets/images/alfie.jpg "Alfie boots image")
+![Dr. Martens Alfie boot](images/alfie.jpg "Alfie boots image")
+*Dr. Martens Alfie boot*
 
 ### Clothing
 * [Uniqlo Easy Care Slim Fit](http://www.uniqlo.com/content/uniqlo/us/en/men/dress-shirts/easy-care-slim-fit-stretch.html) dress shirts: no wrinkles, no worries.
@@ -84,13 +87,14 @@ Shoes make or break a trip. The right pair is flexible enough to work for meetin
 ### Outer Layers
 * [Patagonia Nano Puff Jacket](http://www.patagonia.com/us/product/mens-nano-puff-jacket?p=84211-1): This is the lightest-weight, warmest, most packable jacket I've ever worn. The jacket stuffs into its chest pocket, making it eminently packable.
 
-![The Patagonia Nano Puff jacket.](/assets/images/patagonia.jpg "Patagonia jacket image")
+![The Patagonia Nano Puff jacket.](images/patagonia.jpg "Patagonia jacket image")
+*The Patagonia Nano Puff jacket.*
 
 * Other things I pack, depending on the trip: a Merino cardigan or Uniqlo travel blazer for layering over my tee or dress shirt, a Merino beanie for cold environments, and a packable rain shell.
 
 ## Odds and Ends
-![The Pelican Micro Case.](/assets/images/pelican.jpg "Pelican case image")
-
+![The Pelican Micro Case.](images/pelican.jpg "Pelican case image")
+*The Pelican Micro Case.*
 * [Streamlight LED flashlight](https://www.amazon.com/gp/product/B0015UC17E/ref=oh_aui_search_detailpage?ie=UTF8&psc=1): The power will go out. That beach will be fun to walk on late at night. That alley is dark. You'll find a reason.
 * A sharpie, a [travel screwdriver](https://www.amazon.com/gp/product/B0014KMDZ0/ref=oh_aui_search_detailpage?ie=UTF8&psc=1), a notebook, and an [indestructible pen](https://www.amazon.com/gp/product/B003AACADM/ref=oh_aui_search_detailpage?ie=UTF8&psc=1). Just have these on hand—you'll use them all.
 * If you wear eyeglasses, always pack a spare. I keep mine in a [Pelican Micro Case](https://www.amazon.com/gp/product/B001TOLRC6/ref=oh_aui_detailpage_o01_s01?ie=UTF8&psc=1), which is crush-proof.

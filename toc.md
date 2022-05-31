@@ -1,13 +1,13 @@
 ---
-layout: static
-title: Research Practice
+layout: page
+title:
 permalink: /toc/
 ---
-## Table of contents
+# Research Practice: Table of contents
 
 I share my experiences and ideas in the introduction to each chapter and throughout the book, but I also open the floor to many additional (and sometimes conflicting) perspectives. The world of user research is multifaceted, complex, and sometimes contradictory. The best way to understand the nuances of user research is to learn from other practitioners, and scores of research professionals share what they know within Research Practice.
 
-**Chapter I: Finding A Way In**
+## Chapter I: Finding A Way In
 
 * *I had to become a user researcher* &#124; Jess Greco
 * *How I made my way into user research* &#124; Nikki Anderson
@@ -22,7 +22,7 @@ I share my experiences and ideas in the introduction to each chapter and through
 * *On a career in mixed methods research* &#124; From a conversation with Matt Arnold
 * *How people end up in research* &#124; Gregg Bernstein
 
-**Chapter II: Getting Started In A New Role**
+## Chapter II: Getting Started In A New Role
 
 * *What mission will your research advance?* &#124; Noam Segal
 * *[Why organizations hire user researchers](../2021-01-11/why-hire)* &#124; Gregg Bernstein
@@ -38,7 +38,7 @@ I share my experiences and ideas in the introduction to each chapter and through
 * *Finding quick wins* &#124; Gregg Bernstein
 * *Building partnerships to leverage feedback for impact* &#124; Christiana Lackner
 
-**Chapter III: Building Momentum**
+## Chapter III: Building Momentum
 
 * *Reframing decision-making* &#124; Jess Greco
 * *Bringing the org chart to life* &#124; Gregg Bernstein
@@ -55,7 +55,7 @@ I share my experiences and ideas in the introduction to each chapter and through
 * *Choosing an approach—to embed or not* &#124; Gregg Bernstein
 * *Aiming for embedded research* &#124; Dylan Blanchard
 
-**Chapter IV: Sharing The Work**
+## Chapter IV: Sharing The Work
 
 * *What is the purpose of user research?* &#124; Gregg Bernstein
 * *Giving research a voice* &#124; Laura Macmillan
@@ -71,7 +71,7 @@ I share my experiences and ideas in the introduction to each chapter and through
 * *Giving organizational knowledge a home* &#124; From a conversation with Matthew Eng
 * *Preserving the user’s voice* &#124; Mila Djordjevic
 
-**Chapter V: Expanding Your Practice**
+## Chapter V: Expanding Your Practice
 
 * *What makes a user research leader?* &#124; Steph Troeth
 * *Getting a research practice off the ground* &#124; From a conversation with Matthew Eng
@@ -84,7 +84,7 @@ I share my experiences and ideas in the introduction to each chapter and through
 * *Hiring for a successful research practice* &#124; Noam Segal
 * *When is it time for research operations?* &#124; Brigette Metzler
 
-**Chapter VI: Overcoming Challenges**
+## Chapter VI: Overcoming Challenges
 
 * *Resilience in the face of loneliness* &#124; Lindsay Ferris
 * *Isolation and imposter syndrome* &#124; From conversations with Krista Plano and Lauren Isaacson
@@ -99,7 +99,7 @@ I share my experiences and ideas in the introduction to each chapter and through
 * *Answering a really large question* &#124; From a conversation with Cyd Harrell
 * *Ethics for researchers* &#124; From a conversation with Danielle Smith
 
-**Chapter VII: Where To Go Next**
+## Chapter VII: Where To Go Next
 
 * *What is the career ladder for user researchers?* &#124; Gregg Bernstein
 * *Finding your career path* &#124; Danielle Smith

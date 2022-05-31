@@ -13,7 +13,7 @@ A funny thing happens the longer you spend in close proximity with someone—you
 
 To illustrate, here’s a very unscientific chart that you will not see in the *New England Journal of Product Research*:
 
-![An unscientific chart about research proximity.](/assets/images/chart.png "An unscientific chart about research proximity")
+![An unscientific chart about research proximity.](images/chart.png "An unscientific chart about research proximity")
 
 When I managed MailChimp’s research practice, we performed field studies often. A few years ago, a fellow researcher and I were in Denver, Colorado to visit customers at their respective workplaces. We spent roughly half a day with each customer, learning about their companies and roles and where our product fit in. These hours were uniformly educational—we left each visit with new insights to share with colleagues back at HQ.
 

@@ -1,9 +1,9 @@
 ---
-layout: static
-title: Research Practice
+layout: page
+title:
 permalink: /introduction/
 ---
-## Introduction
+# Research Practice: Introduction
 
 The heart of user research is the stories—stories about a person or a community. Stories about a struggle or success. Stories give us enough context to make sense of the world and make sensible decisions for navigating it. When organizations make a concerted effort to gather and act upon stories, they can do great things. I know this because of an experience my family went through that changed my entire approach to this work, and led me to seek better stories.
 
@@ -27,7 +27,7 @@ When Alyssa mentioned her vegetarian diet, Dr. Frank said, “This treatment mak
 
 For everything we said to Dr. Frank, he reflected back how he would incorporate it into Alyssa’s treatment plan. He designed a user experience that centered Alyssa’s needs and our needs as a family. And happily, it was the right treatment. At the time of this writing, Alyssa is cancer-free.
 
-### In search of better stories
+## In search of better stories
 Dr. Frank took the time to gather the context about Alyssa’s daily life, not just her symptoms and immediate needs. Dr. Frank works for an organization that reflects a truly holistic approach to treatment. The practitioners at MD Anderson are empowered to connect their patients with different parts of their organization to create the best possible healing experience.
 
 The staff at MD Anderson practices integrative medicine—an approach to healing that places the patient at the center of complementary and multidisciplinary treatments. Specialists like Dr. Frank work with a range of practitioners to address the whole patient—and all of the unique physical, mental, social, and emotional characteristics that might affect their health. This integrated approach offers the best path toward healing for the patient, and the best chance of success for the medical staff.
@@ -40,7 +40,7 @@ The mission of making everyone smarter supersedes any methodology or organizatio
 
 It doesn’t really matter whether we call ourselves user researchers, design researchers, or strategists; or if we come from psychology, anthropology, design, human-computer interaction (HCI), or anywhere else. We all share a mission to uncover crucial stories and make everyone smarter through better research practice. And that’s why I decided to make this book—so we can all learn from each other.
 
-### A congregation of voices
+## A congregation of voices
 When I started teaching college design courses, an experienced colleague offered me this advice: have just one thing you want the students to learn from each class. That wisdom guided my approach to being an educator. I began each class with a short lecture about one thing—kerning, ligatures, maybe Paul Rand—and then we’d transition into a discussion or critique. After I said my piece, I yielded my time to other voices.
 
 I started this book project to document what worked for me in scaling research practices and teams. However, in speaking to other practitioners, I learned how narrow my perspective is—what worked for me is not quite applicable to someone spinning up research for a new product or feature at a Google-sized organization. As I began to capture more perspectives from researchers working in different scenarios, I knew that these stories were best told by those who lived these experiences.
@@ -49,7 +49,7 @@ I share my experiences and ideas throughout this book, but I also open the floor
 
 In putting this book together, I interviewed and solicited narratives from a variety of researchers, and surveyed professionals around the world to present the work behind the work. Read this book however you like—in one sitting or over time. You can start at the beginning, or move around based on your interest at the moment. However you proceed, you’re sure to find an interesting story.
 
-### What’s in this book
+## What’s in this book
 This book is not an argument for doing user research. Nor is it a tutorial or toolkit for common methodologies. It won’t show you how to run a usability session or recruit users remotely—though I will share helpful resources on those topics. Instead it captures the day-to-day of the practice itself—what it looks like to work with peers and stakeholders, to raise awareness of research, to make tradeoffs, and to build a larger team.
 
 This book takes you inside the field of applied user research through the stories and experiences of the people doing the work. Each chapter explores a specific theme:
@@ -72,6 +72,4 @@ If you’re in school or considering a career switch, I want you to know what a 
 
 Above all, I want you to stand on the shoulders of giants and then chart your own path. Now let’s make it happen.
 
-
-<p><a href="http://researchpractice.co" target="blank">[Buy now &nbsp; <i class="fas fa-external-link-alt"></i>]</a></p>
-<br/>
+<a class="button" href="http://researchpractice.co" target="blank">Buy now &nbsp; <i class="fas fa-external-link-alt"></i></a>

@@ -5,7 +5,7 @@ date:   2021-01-11 10:01:26
 description: An excerpt from Research Practice
 categories:
 ---
-## From a conversation with [Janine Coover]( http://www.linkedin.com/in/janinecoover) ##
+## From a conversation with [Janine Coover]( http://www.linkedin.com/in/janinecoover)
 
 Working in a consultancy or agency is a great place for a new design researcher to get started, primarily because you have a number of different clients, different kinds of challenges, and different team makeups. Oftentimes you have people that you’re working with on your team who have a variety of past experiences with user research. So it not only allows you to get a taste for an experience in different industries that you wouldn’t otherwise have if you are working within a single organization, but it also allows you to see and jump in midstream with projects at different points in their evolution.
 
@@ -15,7 +15,7 @@ The other thing about working in a consultancy or an agency is that, hopefully, 
 
 And you can also learn by observing: how does this person who has more experience deal with the situation? How do they talk about what they do? How do they creatively think about what the challenges are? How do they define what needs to be learned in the research, and how do they apply the methodologies to that? Because every single research project is different—there’s no cookie cutter approach. So you have to have some basis to determine what approach you are going to take. There’s a wealth of learning that can be had in that situation.
 
-### Of the people who enter this field straight out of college or academia, what skills does the agency or consultancy life provide?
+## Of the people who enter this field straight out of college or academia, what skills does the agency or consultancy life provide?
 
 I’ve worked with people who come out of rigorous research programs, and there’s this expectation that “when I go into a research session, it needs to meet these specific criteria and every single session needs to kind of cover the same thing.” There’s this idea that you need to have some very specific answers to specific questions.
 
@@ -29,5 +29,4 @@ One of the qualities that makes you a good researcher is being flexible and inve
 
 I’ve found much easier and better relationships and outcomes with people who are switching from doing something else. They’re bringing their life experience and their life-work skills that they’ve developed elsewhere, and they’re receptive to learning a new discipline.
 
-<br />
-<p><a href="http://researchpractice.co" target="blank">[Buy now &nbsp; <i class="fas fa-external-link-alt"></i>]</a></p>
+<a class="button" href="http://researchpractice.co" target="blank">Buy now &nbsp; <i class="fas fa-external-link-alt"></i></a>
