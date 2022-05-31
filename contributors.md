@@ -3,7 +3,7 @@ layout: page
 title:
 permalink: /contributors/
 ---
-# Research Practice: Contributors
+## Research Practice: Contributors
 
 Nikki Anderson, Matt Arnold, Torang Asadi, Kathleen Asjes, Marianne Berkovich, Aras Bilgen, Dylan Blanchard, Janine Coover, Yelena Cope, Amber Davis, Snigdha Diehl, Mila Djordjevic, Matthew Eng, Lindsay Ferris, Jess Greco, Cyd Harrell, Lauren Isaacson, Sarah Jones, Christiana Lackner, Laura Macmillan, Emma McCabe, Brigette Metzler, Michael Morgan, Hannah Moyers, Roy Olende, Krista Plano, Stephanie Pratt, Carol Rossi, Amy Santee, Diana Sapanaro, Asha Scott-Morris, Noam Segal, Ane Sharma, Kelly Silver, Danielle Smith, Steph Troeth, Janelle Ward, Alex Wright, Maura Youngman, and Jesse Zolna.
 
