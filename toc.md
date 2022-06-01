@@ -1,7 +1,8 @@
 ---
 layout: page
 title:
-permalink: 
+permalink: /toc/
+exclude: true
 ---
 # Research Practice: Table of contents
 

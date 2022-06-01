@@ -1,8 +1,9 @@
 ---
 layout: page
 title:
-permalink: 
+permalink: /albums/
 image: '/images/friction.jpg'
+exclude: true 
 ---
 # Albums
 A long time ago, I designed <a href ="https://www.discogs.com/artist/1455211-Gregg-Bernstein" target= "blank">some albums</a>. Here are a handful…

@@ -1,7 +1,8 @@
 ---
 layout: page
 title:
-permalink: 
+permalink: /contributors/
+exclude: true
 ---
 # Research Practice: Contributors
 

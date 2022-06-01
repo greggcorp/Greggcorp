@@ -1,7 +1,8 @@
 ---
 layout: page
 title:
-permalink: 
+permalink: /introduction/
+exclude: true
 ---
 # Research Practice: Introduction
 
