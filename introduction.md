@@ -1,11 +1,10 @@
 ---
 layout: page
-title:
+title: Introduction
 permalink: /introduction/
+image: '/images/book_cover.png'
 exclude: true
 ---
-# Research Practice: Introduction
-
 The heart of user research is the stories—stories about a person or a community. Stories about a struggle or success. Stories give us enough context to make sense of the world and make sensible decisions for navigating it. When organizations make a concerted effort to gather and act upon stories, they can do great things. I know this because of an experience my family went through that changed my entire approach to this work, and led me to seek better stories.
 
 I met my wife, Alyssa, in college. After an engagement prolonged by grad school (her) and relocations for work (me), we married, bought a house, and later welcomed our first son, Britton, into the world. A few years later we gave Britt a baby brother, Nolan. As we started 2013, we were the picture of happiness: a family of four with a house of our own. Alyssa and I were in stable, fulfilling careers that afforded us a comfortable lifestyle.

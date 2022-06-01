@@ -1,8 +1,7 @@
 ---
 layout: page
-title:
+title: Thanks
 permalink: /thanks_subs/
-exclude: true 
+exclude: true
 ---
-# Thanks!
 Thank you for subscribing! Check your inbox for a confirmation that you're on the list.

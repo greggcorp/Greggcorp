@@ -1,11 +1,10 @@
 ---
 layout: page
-title:
+title: Table of contents
 permalink: /toc/
+image: '/images/book_cover.png'
 exclude: true
 ---
-# Research Practice: Table of contents
-
 I share my experiences and ideas in the introduction to each chapter and throughout the book, but I also open the floor to many additional (and sometimes conflicting) perspectives. The world of user research is multifaceted, complex, and sometimes contradictory. The best way to understand the nuances of user research is to learn from other practitioners, and scores of research professionals share what they know within Research Practice.
 
 ## Chapter I: Finding A Way In

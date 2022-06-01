@@ -1,11 +1,10 @@
 ---
 layout: page
-title:
+title: I agree to
 permalink: /mfa/
 image: '/images/CTA_redesign_1.jpg'
 exclude: true
 ---
-# I agree to…
 We all click “I Agree,” but to what are we agreeing? Nearly every software vendor uses some form of the click-through agreement, or CTA, as part of the installation process. Yet this important and contractually binding information is presented in an unreadable, unusable, and unintuitive format.
 
 As part of my MFA Thesis project at the [Savannah College of Art and Design](http://www.scad.edu), I explored the state of the CTA, the information it contains, and how it may be presented in a readable, comprehensible manner through the application of graphic design and user experience.
