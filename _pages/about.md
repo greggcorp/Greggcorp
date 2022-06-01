@@ -2,7 +2,7 @@
 layout: page
 title: About
 permalink: /about/
-image: '/images/gb_office.jpg'
+image: '/images/gb_office.png'
 ---
 
 Gregg Bernstein leads user research practices for growing organizations, and wrote [**Research Practice: Perspectives from UX researchers in a changing field**](../book). He spends his days advocating for and practicing user-centered product development, and speaks around the world about his work at conferences and company events. [See where he's speaking next](../speaking).
