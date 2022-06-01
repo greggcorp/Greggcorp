@@ -1,7 +1,7 @@
 ---
 layout: page
 title:
-permalink: /mfa/
+permalink: 
 image: '/images/CTA_redesign_1.jpg'
 ---
 # I agree to…

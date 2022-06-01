@@ -1,7 +1,7 @@
 ---
 layout: page
 title:
-permalink: /thanks/
+permalink: 
 ---
 # Thanks!
 Thank you for getting in touch! I'll reply as soon as possible.

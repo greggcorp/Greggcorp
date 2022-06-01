@@ -1,7 +1,7 @@
 ---
 layout: page
 title:
-permalink: /toc/
+permalink: 
 ---
 # Research Practice: Table of contents
 
