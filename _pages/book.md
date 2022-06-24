@@ -7,7 +7,7 @@ image: '/images/book_cover.png'
 
 > While other research books offer standard operating procedures, this book provides something more durable in the real world. It’s a practical field guide that will give you the encouragement to get started, no matter what your background.
 >
-> <cite>Aarron Walter, UX practice founder at MailChimp</cite>
+> <cite>Aarron Walter, UX practice founder at Mailchimp</cite>
 
 This book is not an argument for doing user research. Nor is it a tutorial or toolkit for common methodologies. It won’t show you how to run a usability session or recruit users remotely.
 
