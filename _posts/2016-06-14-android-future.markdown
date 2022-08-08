@@ -9,7 +9,7 @@ In 2003, Philip Morris, parent company of Philip Morris Tobacco and Kraft foods,
 
 Altria is a meaningless name, designed only to unify a disparate collection of entities and shield less desirable parts behind a nebulous whole.
 
-![Like the name of the company, Altria's logo signifies nothing.](images/altria-share-logo.png "Altria's Logo")
+![Like the name of the company, Altria's logo signifies nothing.](../images/altria-share-logo.png "Altria's Logo")
 *Like the name of the company, Altria's logo signifies nothing.*
 
 Five years later, Google's Android mobile platform launched. Since 2013, Android has ranked as the best-selling operating system on phones and tablets. And since 2013, the name Android has served a role similar to that of Altria: a loose collection of disparate experiences unified under an empty moniker.
@@ -43,7 +43,7 @@ Android runs on countless devices from myriad manufacturers across many carriers
 
 Google pays lip service to this conundrum by [issuing weak threats to some of their manufacturing partners](http://www.cnet.com/news/google-might-start-shaming-companies-that-take-too-long-to-update-their-android-phones/). But these are their partners they threaten—without these partners, Android doesn't exist at all. Only Apple, by controlling both their hardware and software, can execute the definitive vision they proffer. Android only offers lesser and diminished versions of its promise.
 
-![Only Apple provides a cohesive user experience.](images/circles.png "A blob of an experience")
+![Only Apple provides a cohesive user experience.](../images/circles.png "A blob of an experience")
 *Only Apple provides a cohesive user experience.*
 
 ## Attaining a universal experience

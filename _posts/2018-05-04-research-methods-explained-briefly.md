@@ -14,7 +14,7 @@ The brevity of Twitter, combined with my pithy explanations, resulted in some he
 
 Here’s a better version of the original tweet:
 
-![User research methods, explained briefly.](images/methods_explained_2.png "User research methods, explained briefly.")
+![User research methods, explained briefly.](../images/methods_explained_2.png "User research methods, explained briefly.")
 
 And here it is in text form:
 

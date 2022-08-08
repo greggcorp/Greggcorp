@@ -12,7 +12,7 @@ Most of my sharing takes place over Slack and in Google Docs, and a few people a
 ## Slack
 When I share notes from a single interview or usability test in Slack, I keep things simple with a bolded headline and a handful of bullet points:
 
-![An example of how I share quick takeaways in Slack.](images/slack_template.png "An example of how I share quick takeaways in Slack.")
+![An example of how I share quick takeaways in Slack.](../images/slack_template.png "An example of how I share quick takeaways in Slack.")
 *An example of how I share quick takeaways in Slack.*
 
 I want my colleagues to be aware of what I just learned, and who I learned it from. I try to anonymize participants in Slack by only referring to their role, not their name. Because I work with many internal users, I want to avoid bringing undue attention on any one person. (I also want to avoid interrupting their work by inadvertently summoning them to the Slack channel!)
@@ -22,7 +22,7 @@ When it comes to collecting findings into a more permanent document, I use [this
 
 I keep reports as brief as possible, and open the doc with **recommendations and issues**. That’s what people want to see, so why make them work to find it? Placing the recommendations at the top also makes it possible to review the findings by previewing (rather than opening) the file in Google Drive.
 
-![An example of how I structure takeaways in Google Docs.](images/google_template.png "An example of how I structure takeaways in Google Docs.")
+![An example of how I structure takeaways in Google Docs.](../images/google_template.png "An example of how I structure takeaways in Google Docs.")
 *An example of how I structure takeaways in Google Docs.*
 
 I then explain how I tested (remotely or IRL; with a prototype or something that’s been released) and recap each individual test or interview (almost verbatim from what I shared in Slack, perhaps with a few more details).

@@ -16,7 +16,7 @@ I’ve been thinking about this topic for a few years now, which has manifested 
 
 I use the Bear notes app to write, and I keep my outline in a window on the left half of my screen, with my current chapter in a separate window on the right. If I keep the outline visible at all times, it both keeps me on track and reassures me when I have moments of “WTF are you even doing, Bernstein?”
 
-![The book outline (l) and a chapter-in-progress (r)](images/writing_setup.jpg "Bear notes app setup")
+![The book outline (l) and a chapter-in-progress (r)](../images/writing_setup.jpg "Bear notes app setup")
 *The book outline (l) and a chapter-in-progress (r)*
 
 
