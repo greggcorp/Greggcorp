@@ -47,6 +47,8 @@ Check back later!
 <div class="table-container">
   <table>
     <tr><th>Venue</th><th>Date</th></tr>
+    <tr><td><a href="https://www.looppanel.com/blog/how-to-democratize-research-with-gregg-bernstein">Looppanel blog: How to democratize research</a></td><td>28 July 2022</td></tr>
+    <tr><td><a href="https://greatquestion.co">Great Question</a> customer research POV webinar</td><td>10 February 2022</td></tr>
     <tr><td><a href="https://www.linkedin.com/posts/brendanjarvis_braveux-ux-uxresearch-activity-6878746331813343232-Ydy3">Brave UX podcast</a></td><td>20 December 2021</td></tr>
     <tr><td><a href="https://www.userinterviews.com/blog/healthy-research-culture-gregg-bernstein-conde-nast">Awkward Silences podcast</a></td><td>24 November 2021</td></tr>
     <tr><td><a href="https://www.userweekly.com/5-october-2021/">User Weekly newsletter</a></td><td>5 October 2021</td></tr>
