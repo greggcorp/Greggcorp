@@ -12,6 +12,8 @@ Check back later!
 <div class="table-container">
   <table>
     <tr><th>Event</th><th>Date</th></tr>
+    <tr><td><a href="https://www.usertesting.com/industry-roundtable-media-entertainment-september-2022">Usertesting panel: How personalization and curation are rapidly transforming media and entertainment</a></td><td>28 September 2022</td></tr>
+    <tr><td><a href="https://youtu.be/ADEGuHUcwJU">Ran Talks Design live stream: Practical user research</a></td><td>22 September 2022</td></tr>
     <tr><td><a href="https://www.inma.org/modules/event/2022CustomerInformedProductsClass/agenda.html">INMA master class: How to build customer-informed products</a></td><td>7 April 2022</td></tr>
     <tr><td><a href="https://uxinsight.org/having-impact-as-a-ux-researcher-qa-with-gregg-bernstein/">UXinsight Book Club</a></td><td>13 September 2021</td></tr>
     <tr><td><a href="https://2021.uxlondon.com/fest/">UX Fest</a></td><td>2 June 2021</td></tr>
@@ -47,6 +49,7 @@ Check back later!
 <div class="table-container">
   <table>
     <tr><th>Venue</th><th>Date</th></tr>
+    <tr><td><a href="https://sprig.com/blog/solo-research-impact">Sprig blog: How to make an impact as a solo researcher</a></td><td>6 September 2022</td></tr>
     <tr><td><a href="https://www.looppanel.com/blog/how-to-democratize-research-with-gregg-bernstein">Looppanel blog: How to democratize research</a></td><td>28 July 2022</td></tr>
     <tr><td><a href="https://greatquestion.co">Great Question</a> customer research POV webinar</td><td>10 February 2022</td></tr>
     <tr><td><a href="https://www.linkedin.com/posts/brendanjarvis_braveux-ux-uxresearch-activity-6878746331813343232-Ydy3">Brave UX podcast</a></td><td>20 December 2021</td></tr>
