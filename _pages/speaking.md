@@ -12,7 +12,7 @@ Check back later!
 <div class="table-container">
   <table>
     <tr><th>Event</th><th>Date</th></tr>
-    <tr><td><a href="https://www.usertesting.com/industry-roundtable-media-entertainment-september-2022">Usertesting panel: How personalization and curation are rapidly transforming media and entertainment</a></td><td>28 September 2022</td></tr>
+    <tr><td><a href="https://usertesting.wistia.com/medias/j396dmvh1e?wvideo=j396dmvh1e">Usertesting panel: How personalization and curation are rapidly transforming media and entertainment</a></td><td>28 September 2022</td></tr>
     <tr><td><a href="https://youtu.be/ADEGuHUcwJU">Ran Talks Design live stream: Practical user research</a></td><td>22 September 2022</td></tr>
     <tr><td><a href="https://www.inma.org/modules/event/2022CustomerInformedProductsClass/agenda.html">INMA master class: How to build customer-informed products</a></td><td>7 April 2022</td></tr>
     <tr><td><a href="https://uxinsight.org/having-impact-as-a-ux-researcher-qa-with-gregg-bernstein/">UXinsight Book Club</a></td><td>13 September 2021</td></tr>

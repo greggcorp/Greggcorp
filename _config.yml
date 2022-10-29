@@ -25,6 +25,7 @@ social:
 # - {icon: "ion-logo-instagram", label: Instagram, link: "https://instagram.com"}
 # - {icon: "ion ion-logo-vimeo", label: Vimeo, link: "https://vimeo.com"}
 - {icon: "ion ion-logo-linkedin", label: LinkedIn, link: "https://www.linkedin.com/in/greggbernstein"}
+# - {icon: "ion ion-logo-mastodon", label: Mastodon, link: "https://mastodon.social/@greggcorp"}
 
 # Example of adding a new link to the author section and footer - {icon: "ion-logo-github", label: Github, link: "https://github.com"}
 # Other icons can be found at https://ionicons.com/v4/
