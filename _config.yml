@@ -74,6 +74,8 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jemoji
+  - jekyll-feed
+
 #  - jekyll/tagging
 
 paginate: 5
