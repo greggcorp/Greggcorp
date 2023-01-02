@@ -41,8 +41,8 @@ hero:
 #-------------------------------
 # Newsletter (_includes/footer-widgets/widget-subscribe.html)
 mailchimp: true # To enable the mailchimp form, use the value 'true'. To disable the form, use the value 'false' or leave the field blank.
-mailchimp__title: Get random updates # Add your Title
-mailchimp__text: Subscribe to my newsletter and I’ll send you emails. Sometimes. # Add your description.
+mailchimp__title: Get updates in your inbox # Add your Title
+mailchimp__text: Subscribe to my newsletter to get blog posts (and special announcements) delivered. # Add your description.
 mailchimp__identifier: # Add your MailChimp form identifier. For example - blogenjoyfreedom.us16.list-manage.com/subscribe/post?u=cd56155d76ddeeb4c0bc4d080&amp;id=7a526cd13e
 mailchimp__button__text: Subscribe # Add your button text
 

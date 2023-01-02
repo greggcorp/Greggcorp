@@ -30,7 +30,7 @@ layout: default
     <div class="post__content">
       {{ content }}
     </div>
-<!-- 
+<!--
     <div class="post__bottom">
 
       <div class="post__share">
@@ -48,14 +48,7 @@ layout: default
         </ul>
       </div>
 
-      {% if page.tags.size >= 1 %}
-      <div class="post__tags">
-        {% for tag in page.tags %}
-        <a href="{{ site.baseurl }}/tag/{{ tag }}" class="post__tag">{{ tag }}</a>
-        {% endfor %}
-      </div>
-      {% endif %}
-    </div>
+
 
     <div class="post-author">
       <a href="{{site.baseurl}}/about/" class="post-author__image" aria-label="{{site.author.name}}">
@@ -74,6 +67,15 @@ layout: default
 
     {% if site.disqus-identifier %} {% include disqus-comments.html %} {% endif %}
 -->
+{% if page.tags.size >= 1 %}
+<div class="post__tags">
+  {% for tag in page.tags %}
+  <a href="{{ site.baseurl }}/tag/{{ tag }}" class="post__tag">{{ tag }}</a>
+  {% endfor %}
+</div>
+{% endif %}
+</div>
+
   </article>
 </div>
 <!-- end post -->

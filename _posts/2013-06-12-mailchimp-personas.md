@@ -3,7 +3,7 @@ layout: post
 title: "MailChimp User Persona Research"
 date:   2013-06-12 11:34:25
 description: For the MailChimp blog
-categories:
+tag: 
 ---
 For the MailChimp blog, I detail how we [used personas to develop a clear understanding](https://web.archive.org/web/20131213011807/https://blog.mailchimp.com/new-mailchimp-user-persona-research/) of and empathy for our users as we redesigned the MailChimp app.
 
