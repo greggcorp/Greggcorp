@@ -2,8 +2,8 @@
 layout: post
 title: "On hiring: The cover letter filter"
 date:   2019-07-17 11:34:25
-description:
-categories:
+description: I am a firm proponent of the cover letter
+tags: [POV, UX, Hiring, Management]
 ---
 Hiring is hard: job descriptions are tricky to write; applications take time to screen and evaluate; and interviews afford limited space to ask and answer essential questions. Even with the help of a recruiter or talent acquisition team, the hiring process is still *a process*. While I can’t improve the various steps toward hiring, I can share something that makes application screening a little less tedious: **I ask for something specific in the cover letter**.
 

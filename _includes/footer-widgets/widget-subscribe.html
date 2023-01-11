@@ -1,3 +1,4 @@
+
 {% if site.mailchimp %}
 <div class="col col-4 col-d-6 col-t-12">
   <div class="widget widget-subscribe">
@@ -10,8 +11,14 @@
         <div class="subscribe__description">{{ site.mailchimp__text }}</div>
       </div>
       {% endif %}
-<div class="ml-embedded" data-form="71IRuG"></div>
-</div>
+      <form class="subscribe-form validate"
+        action="https://buttondown.email/api/emails/embed-subscribe/greggcorp" method="POST" target="_blank" novalidate>
+        <label class="screen-reader-text" for="bd-email">Your email</label>
+        <input class="subscribe-email required email" id="bd-email" type="text" name="email"
+          placeholder="Email address">
+        <button class="button subscribe-button" id="membedded-subscribe" type="submit" name="subscribe">{{ site.mailchimp__button__text }}</button>
+      </form>
+    </div>
   </div>
 </div>
 {% endif %}

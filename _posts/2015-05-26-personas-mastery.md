@@ -2,8 +2,8 @@
 layout: post
 title: "How To Create UX Personas"
 date:   2015-05-26 11:34:25
-description: For UX Mastery
-categories:
+description: For UX Mastery I shared how to conduct a persona analysis in a short animated video
+tags: [Personas]
 ---
 A persona is a representation of a type of customer. Personas answer the question, “Who are we designing for?,” and they help to align strategy and goals to specific user groups. For UX Mastery, I share [how to conduct a persona analysis](http://uxmastery.com/create-ux-personas/) in a short animated video.
 

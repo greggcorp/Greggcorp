@@ -2,8 +2,8 @@
 layout: post
 title: "Changing my mind about research practices"
 date:   2021-09-07 10:00:25
-description:
-categories:
+description: Just when I think I've got a handle on user research, I'm forced to revisit my decisions
+tags: [UX, POV]
 ---
 
 I keep changing my mind about research practices.

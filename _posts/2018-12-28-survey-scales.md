@@ -3,7 +3,7 @@ layout: post
 title: "Dial in the feedback"
 date:   2018-12-28 09:34:25
 description: A quick note on survey scales
-categories:
+tags: [POV, UX, Surveys]
 ---
 I spend a lot (perhaps an unreasonable amount) of time planning, editing, and shipping surveys. My product team at Vox Media uses surveys to gain rapid feedback about the products we build or changes we make. For my editorial and leadership colleagues, a survey helps us spot audience trends and adjust our publishing and revenue strategies accordingly.
 

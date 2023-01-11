@@ -2,8 +2,8 @@
 layout: post
 title:  "Stars, Ships, and Expectations"
 date:   2016-07-06 14:34:25
-description:
-categories:
+description: What appears in the flagship is not guaranteed to you
+tags: [POV, UX]
 ---
 The products we use are the result of countless compromises and tradeoffs before we even experience them. Every engineering specification, and every design decision, stems from discussions we're not privy to about form, time, effort, budget, and so many other considerations.
 

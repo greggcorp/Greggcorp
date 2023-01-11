@@ -2,8 +2,8 @@
 layout: post
 title: "Publishing Research Practice"
 date:   2021-08-31 10:00:25
-description:
-categories:
+description: The complete guide to how I published my book, from loose idea through the messy middle to getting it done
+tags: [UX, Book, Resources, Writing]
 ---
 
 I launched my book *[Research Practice](http://researchpractice.co)* in January of this year. What I expected to write was a pithy translation of a conference talk I’d presented a few times about scaling research practices. Instead I wrote, published, and distributed a rather lengthy anthology of original essays and findings about how to enter and thrive in a user research role.

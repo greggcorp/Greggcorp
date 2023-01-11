@@ -4,4 +4,4 @@ title: Thanks
 permalink: /thanks_subs/
 exclude: true
 ---
-Thank you for subscribing! Check your inbox for a confirmation that you're on the list.
+Thank you for subscribing to the Research Practicing newsletter! If you have burning questions that I can answer in a future issue, or suggestions that would improve your newsletter experience, please [get in touch](../contact).

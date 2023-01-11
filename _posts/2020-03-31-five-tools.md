@@ -2,8 +2,8 @@
 layout: post
 title: "5 effective UX research tools that the experts use"
 date:   2020-03-31 10:00:25
-description: For Adobe XD Ideas
-categories:
+description: For Adobe XD Ideas, I shared my approach to UX research tooling
+tags: [POV, UX, Resources]
 ---
 
 For Adobe XD Ideas, I shared my approach to UX research tooling:

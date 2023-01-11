@@ -2,8 +2,8 @@
 layout: post
 title: "Remote User Testing at Vox"
 date:   2016-05-26 11:34:25
-description: For the Vox Product blog
-categories:
+description: On the Vox Product blog, I walk through the low-friction, lightweight tools and methods we use for usability testing at Vox Media
+tags: [Vox Media, Testing, Remote]
 ---
 On the Vox Product blog, I walk through the low-friction, lightweight tools and methods we use for [usability testing at Vox Media](https://product.voxmedia.com/2016/5/26/11787530/remote-user-testing-at-vox).
 

@@ -3,7 +3,7 @@ layout: post
 title: "Scope and Scale"
 date:   2017-08-08 11:34:25
 description: Sometimes a research direction is enough
-categories:
+tags: [POV, UX]
 ---
 As a kid, I used to be fascinated by nearby houses obscured by foliage and fences. Or the long driveways that disappeared into the distance. Where did they go? What was out there? *Who* was out there?
 

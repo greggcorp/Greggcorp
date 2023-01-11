@@ -30,9 +30,9 @@ layout: default
     <div class="post__content">
       {{ content }}
     </div>
-<!--
-    <div class="post__bottom">
 
+    <div class="post__bottom">
+<!--
       <div class="post__share">
         <ul class="share__list list-reset">
           <li class="share__item">
@@ -47,7 +47,7 @@ layout: default
           </li>
         </ul>
       </div>
-
+-->
 
 
     <div class="post-author">
@@ -66,7 +66,7 @@ layout: default
     </div>
 
     {% if site.disqus-identifier %} {% include disqus-comments.html %} {% endif %}
--->
+
 {% if page.tags.size >= 1 %}
 <div class="post__tags">
   {% for tag in page.tags %}

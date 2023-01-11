@@ -2,8 +2,8 @@
 layout: post
 title: "The best place to get started"
 date:   2021-01-11 10:01:26
-description: An excerpt from Research Practice
-categories:
+description: "In this excerpt from my book Research Practice, Janine Coover shares the benefits of working in an agency or consultancy"
+tags: [UX, Book]
 ---
 ## From a conversation with [Janine Coover]( http://www.linkedin.com/in/janinecoover)
 

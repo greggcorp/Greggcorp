@@ -2,8 +2,8 @@
 layout: post
 title: "The ultimate guide to UX research"
 date:   2020-09-29 10:00:25
-description: For Maze.design
-categories:
+description: I contributed to Maze.design's "Ultimate guide to UX research"
+tags: [POV, UX, Resources]
 ---
 
 I contributed to Maze.design's "Ultimate guide to UX research:"

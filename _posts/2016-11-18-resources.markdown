@@ -2,8 +2,8 @@
 layout: post
 title: "Research Resources"
 date:   2016-11-18 14:34:25
-description: My go-to books &amp; articles
-categories:
+description: My go-to user research books &amp; articles
+tags: [UX, Resources]
 ---
 
 I'm often asked my favorite research resources, so I've put together a very brief list of go-to books and articles. These are suitable for researchers, designers, or product managers of any level of expertise:

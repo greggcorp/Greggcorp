@@ -2,8 +2,8 @@
 layout: post
 title:  "Everything is Important"
 date:   2016-07-07 14:34:25
-description:
-categories:
+description: Everything is important, until proven otherwise 
+tags: [POV, UX, Interviews]
 ---
 I spend a lot of my days interviewing people. Or rather, listening to people—coworkers, customers, and professional colleagues.
 

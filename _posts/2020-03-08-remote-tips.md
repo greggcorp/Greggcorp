@@ -2,8 +2,8 @@
 layout: post
 title: "Tips for a rapid transition to remote research"
 date:   2020-03-08 16:00:25
-description:
-categories:
+description: At the beginning of the Covid-19 outbreak, I shared tips that have worked for me as a remote researcher
+tags: [POV, UX, Remote]
 ---
 
 When the spread of Covid-19 introduced many folks to remote research, I quickly compiled and shared a few of the practices and tips that have worked for me as a remote researcher and research director.

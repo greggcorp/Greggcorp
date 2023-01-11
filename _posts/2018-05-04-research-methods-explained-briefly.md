@@ -2,8 +2,8 @@
 layout: post
 title: "User research methods, explained briefly"
 date:   2018-05-04 09:34:25
-description:
-categories:
+description: A tongue in cheek explanation of user research
+tags: [POV, UX]
 ---
 This made the rounds on Twitter recently, so I thought I’d give it a proper home:
 
@@ -38,7 +38,7 @@ And here it is in text form:
 
 ***
 
-[Andrea Hill](https://twitter.com/afhill) and my former MailChimp colleague [Steph Troeth](https://twitter.com/sniffles) questioned my division of Switch interviews from Jobs to be Done [JTBD] interviews. That the switch interview is so tied to a very recent event differentiates it for me, but I might be splitting hairs. JTBD could be about a product or service you've used for years, and that—to me—makes it less about the switching moment and more about the role of the product in your life.
+[Andrea Hill](https://twitter.com/afhill) and my former Mailchimp colleague [Steph Troeth](https://twitter.com/sniffles) questioned my division of Switch interviews from Jobs to be Done [JTBD] interviews. That the switch interview is so tied to a very recent event differentiates it for me, but I might be splitting hairs. JTBD could be about a product or service you've used for years, and that—to me—makes it less about the switching moment and more about the role of the product in your life.
 
 A handful of other folks responded that I left out the things that come before the methods, the rigor that comes around distillation, and the actionable insights that follow distillation.
 

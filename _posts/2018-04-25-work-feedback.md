@@ -2,8 +2,8 @@
 layout: post
 title: "Spread the good news"
 date:   2018-04-25 09:34:25
-description:
-categories:
+description: Workplace feedback rules of thumb
+tags: [POV, Management]
 ---
 ## Some workplace feedback rules of thumb:
 

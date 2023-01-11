@@ -2,8 +2,8 @@
 layout: post
 title: "Stop Pretending"
 date:   2017-11-14 09:34:25
-description: Seek evidence, not aspirations
-categories:
+description: Don't talk to the wrong people!
+tags: [POV, UX, Surveys]
 ---
 If you’re asking participants to guess, predict, hypothesize, or anticipate either their future behavior or that of a friend, you’re not researching. You’re pretending.
 

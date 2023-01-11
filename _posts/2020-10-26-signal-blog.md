@@ -2,8 +2,8 @@
 layout: post
 title: "Research on your terms"
 date:   2020-10-26 10:00:25
-description: For the Signal Messenger blog
-categories:
+description: I wrote about Signal's unique approach to research for the Signal Messenger blog
+tags: [UX, Signal Messenger, Surveys]
 ---
 
 Over on the Signal blog, I wrote about how we're gingerly approaching UX research in the absence of data:

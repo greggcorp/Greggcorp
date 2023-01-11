@@ -2,8 +2,8 @@
 layout: post
 title:  "Android: Future Perfect, Present Fractured"
 date:   2016-06-14 14:34:25
-description:
-categories:
+description: Android is a loose collection of disparate experiences unified under an empty moniker
+tags: [POV, UX]
 ---
 In 2003, Philip Morris, parent company of Philip Morris Tobacco and Kraft foods, rebranded itself. The goal of the rebrand was to, in name only, distance Philip Morris's tobacco holdings from their other, less negatively perceived company properties (like Oreo Cookies and Miller Beer). Thus a new, nonsensical name for the parent company was announced: **Altria**.
 

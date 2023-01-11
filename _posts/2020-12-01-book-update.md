@@ -2,8 +2,8 @@
 layout: post
 title: "December book update"
 date:   2020-12-01 10:00:25
-description:
-categories:
+description: My book is coming out! 
+tags: [UX, Writing, Book]
 ---
 
 I’m excited to share that *Research Practice: Perspectives from UX researchers in a changing field* is done! The official launch date for the paperback and e-book is 19 January 2021, but the Kindle edition is available for pre-order today on Amazon.

@@ -2,8 +2,8 @@
 layout: post
 title: "Make Stability a Priority"
 date:   2017-07-27 11:34:25
-description:
-categories:
+description: No surprises in your org should be the bare minimum 
+tags: [POV, Management]
 ---
 The Boston Celtics are a professional basketball team. What you might not know is that the Celtics are also an exemplar of organizational management. From their front office operation to their on-court product, the Celtics maintain an org structure that attracts great talent from top to bottom.
 

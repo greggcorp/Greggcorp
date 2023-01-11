@@ -2,8 +2,8 @@
 layout: post
 title: "Reading sports taught me to write"
 date:   2019-07-18 11:34:25
-description:
-categories:
+description: Tracing my path to writing
+tags: [POV, Personal, Writing]
 ---
 There’s an episode of *Seinfeld* wherein George somehow lands a job with a publishing house. In a conversation with his boss, George is asked who he reads. After a beat, George replies:
 

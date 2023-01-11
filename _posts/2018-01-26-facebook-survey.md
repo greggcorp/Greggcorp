@@ -2,8 +2,8 @@
 layout: post
 title: "Facebook's News Trustworthiness Survey"
 date:   2018-01-26 09:34:25
-description: For The Verge
-categories:
+description: For The Verge I wrote about Facebook's news trustworthiness survey
+tags: [POV, UX, Surveys]
 ---
 For _The Verge_, I wrote about Facebook's news trustworthiness survey. While its brevity is gaining attention, the real issue with the Facebook survey is poor editing:
 
