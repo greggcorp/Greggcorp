@@ -37,7 +37,7 @@ image: '/images/gregg_speaking.jpg'
     <tr><td><a href="https://vimeo.com/297311682">Webdagene</a> (Oslo, Norway)</td><td>17-19 October 2018</td></tr>
     <tr><td><a href="https://uxscotland.net/">UX Scotland</a></td><td>13-15 June 2018</td></tr>
     <tr><td><a href="https://uxinsightevent.com/">UX Insight</a> (Utrecht, Netherlands)</td><td>8 March 2018</td></tr>
-    <tr><td><a href="http://2017.uxbucharest.com/">UX Bucharest</a></td><td>3-6 October 2017</td></tr>    
+    <tr><td>UX Bucharest</td><td>3-6 October 2017</td></tr>    
     <tr><td><a href="https://bigdesignevents.com/">Big Design</a> (Dallas, USA)</td><td>14-16 September 2017</td></tr>
     <tr><td><a href="https://www.userresearchlondon.com/2017/">User Research London</a></td><td>June 2017</td></tr>
     <tr><td><a href="https://amux.org/">amUX</a> (Atlanta, USA)</td><td>February 2017</td></tr>

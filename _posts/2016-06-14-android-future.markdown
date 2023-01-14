@@ -41,7 +41,7 @@ The difference between Altria and Android is that Philip Morris was honest about
 
 Android runs on countless devices from myriad manufacturers across many carriers. With so much variability in device configurations, Google allows each manufacturer to customize Android as needed. This helps Android achieve scale, but also explains how there can never be a universal Android experience.
 
-Google pays lip service to this conundrum by [issuing weak threats to some of their manufacturing partners](http://www.cnet.com/news/google-might-start-shaming-companies-that-take-too-long-to-update-their-android-phones/). But these are their partners they threaten—without these partners, Android doesn't exist at all. Only Apple, by controlling both their hardware and software, can execute the definitive vision they proffer. Android only offers lesser and diminished versions of its promise.
+Google pays lip service to this conundrum by [issuing weak threats to some of their manufacturing partners](https://www.cnet.com/news/google-might-start-shaming-companies-that-take-too-long-to-update-their-android-phones/). But these are their partners they threaten—without these partners, Android doesn't exist at all. Only Apple, by controlling both their hardware and software, can execute the definitive vision they proffer. Android only offers lesser and diminished versions of its promise.
 
 ![Only Apple provides a cohesive user experience.](../images/circles.png "A blob of an experience")
 *Only Apple provides a cohesive user experience.*

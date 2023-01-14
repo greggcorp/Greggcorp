@@ -5,7 +5,7 @@ date:   2016-06-20 14:34:25
 description: My 2016 list of gear and apparel 
 tags: [Personal, Travel]
 ---
-I've traveled a fair bit over the past few years for [research projects](http://mailchimp.com/2015/#miles-traveled-for-product-and-customer-research) and to speak at conferences. I strive for something akin to minimalism when packing, though not to the degree that I go without a few creature comforts.
+I've traveled a fair bit over the past few years for [research projects](https://web.archive.org/web/20160829021310/http://mailchimp.com/2015/#miles-traveled-for-product-and-customer-research) and to speak at conferences. I strive for something akin to minimalism when packing, though not to the degree that I go without a few creature comforts.
 
 After reading the best practices and pro-tips from sites like [Carryology](http://www.carryology.com/), [Packsmith](http://blog.tortugabackpacks.com/), [Snarky Nomad](http://snarkynomad.com/), and [The Wirecutter](http://thewirecutter.com/reviews/travel-guide/), I thought it would be both useful and fun to create my own "business traveler" gear and apparel packing list.
 

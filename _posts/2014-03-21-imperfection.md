@@ -6,7 +6,7 @@ description: When the promise of a great experience is undermined by small imper
 tags: [POV, Mailchimp]
 ---
 
-_Originally published in the [Mailchimp UX Newsletter](http://us5.campaign-archive1.com/?awesome=no&u=7e093c5cf4&id=c24b99796f)._
+_Originally published in the [Mailchimp UX Newsletter](https://us5.campaign-archive1.com/?awesome=no&u=7e093c5cf4&id=c24b99796f)._
 
 I’ve judged books by covers, against the warnings from parents, teachers, and my own common sense. Yet I’d rationalize this decision with Olympic-level logic leaps:
 * Fact: This cover looks amazing.
@@ -18,7 +18,7 @@ I’d repeat this logical sleight-of-hand numerous times, and I was burned by my
 
 These days, I repeat this pattern with apps, branding, and experience design. And just as the connection between the cover and the content is tenuous, so too is the relation between form and function. When the promise of a great experience is undermined by small imperfections, the experience—and our trust—erodes. Imperfection scales quickly.
 
-A few years ago, I [highlighted the disparity between Apple’s overall design sense and the presentation of their terms of service when installing software](http://www.fastcodesign.com/1665000/how-to-fix-the-nightmare-of-apples-terms-of-service). From the design of their website and apps to the layout of their stores, and from the packaging to the products, Apple exemplifies a consciousness about aesthetics. Yet they seemed to overlook a crucial touchpoint in their legal documents. Granted, it’s legalese; but why not make this as beautiful as every other facet of their brand? The incredibly cohesive Apple experience unravels just a hair when I install or update software. When each subsequent iOS update diminishes my battery life or makes my calendar more unusable, the imperfections mount and the experience erodes further.
+A few years ago, I [highlighted the disparity between Apple’s overall design sense and the presentation of their terms of service when installing software](https://www.fastcompany.com/1665000/how-to-fix-the-nightmare-of-apples-terms-of-service). From the design of their website and apps to the layout of their stores, and from the packaging to the products, Apple exemplifies a consciousness about aesthetics. Yet they seemed to overlook a crucial touchpoint in their legal documents. Granted, it’s legalese; but why not make this as beautiful as every other facet of their brand? The incredibly cohesive Apple experience unravels just a hair when I install or update software. When each subsequent iOS update diminishes my battery life or makes my calendar more unusable, the imperfections mount and the experience erodes further.
 
 These imperfections and anomalies are everywhere, and they scale. Take, for example, the handy smartphone apps that replace shopping rewards cards. I divide my grocery shopping between two large chains—Kroger and Sam's Club. Kroger offers a loyalty card, which earns me a discount in exchange for any sense of my privacy (I’m ok with this—kale is expensive). I swipe my card at checkout, and Kroger discounts my groceries. Easy enough.
 

@@ -4,7 +4,7 @@ title: Gregg Bernstein
 logo: /images/gregg-logo.png # You can add own logo. For example '/images/logo.png'.
 description: "The personal site of Gregg Bernstein: researcher & educator, author of Research Practice, and speaker."
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://gregg.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://gregg.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter:
   username: greggcorp
   card: summary
