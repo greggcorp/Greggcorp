@@ -6,7 +6,13 @@ image: '/images/gregg_speaking.jpg'
 ---
 
 # Upcoming
-Check back later!
+<!-- Check back later! -->
+<div class="table-container">
+  <table>
+    <tr><th>Event</th><th>Date</th></tr>
+    <tr><td><a href="https://www.ux360summit.com/home">UX360 Research Summit</a></td><td>15-16 February 2023</td></tr>
+  </table>
+</div>
 
 # Previous
 <div class="table-container">
@@ -52,7 +58,7 @@ Check back later!
     <tr><td><a href="https://sprig.com/blog/solo-research-impact">Sprig blog: How to make an impact as a solo researcher</a></td><td>6 September 2022</td></tr>
     <tr><td><a href="https://www.looppanel.com/blog/how-to-democratize-research-with-gregg-bernstein">Looppanel blog: How to democratize research</a></td><td>28 July 2022</td></tr>
     <tr><td><a href="https://greatquestion.co">Great Question</a> customer research POV webinar</td><td>10 February 2022</td></tr>
-    <tr><td><a href="https://www.linkedin.com/posts/brendanjarvis_braveux-ux-uxresearch-activity-6878746331813343232-Ydy3">Brave UX podcast</a></td><td>20 December 2021</td></tr>
+    <tr><td><a href="https://thespaceinbetween.co.nz/brave-ux-podcast/054-gregg-bernstein">Brave UX podcast</a></td><td>20 December 2021</td></tr>
     <tr><td><a href="https://www.userinterviews.com/blog/healthy-research-culture-gregg-bernstein-conde-nast">Awkward Silences podcast</a></td><td>24 November 2021</td></tr>
     <tr><td><a href="https://www.userweekly.com/5-october-2021/">User Weekly newsletter</a></td><td>5 October 2021</td></tr>
     <tr><td><a href="https://podcast.clearleft.com/season03/episode03/">The Clearleft podcast</a></td><td>23 September 2021</td></tr>
