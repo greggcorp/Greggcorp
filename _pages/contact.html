@@ -10,8 +10,13 @@ permalink: /contact/
     <p class="page-description">{{site.contact.description}}</p>
     {% endif %}
   </div>
-  <form class="form" name="contact" action="../thanks" data-netlify="true" method="POST">
+  <form class="form" name="contact" action="../thanks" data-netlify="true" netlify-honeypot="bot-field" method="POST">
     <div class="form__group">
+      <p class="hidden">
+        <label>
+          Don’t fill this out if you’re human: <input name="bot-field" />
+        </label>
+      </p>
       <label class="form__label screen-reader-text" for="form-name">Your Name</label>
       <input class="form__input" id="form-name" type="text" name="name" placeholder="Your name" required>
     </div>
