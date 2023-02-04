@@ -3,7 +3,7 @@
     <ul class="social__list list-reset">
       {% for social in site.social %}
       <li class="social__item">
-        <a class="social__link" href="{{social.link}}" target="_blank" rel="noopener" aria-label="{{social.label}} link"><i class="fa-brands {{social.icon}}"></i></a>
+        <a class="social__link" href="{{social.link}}" target="_blank" rel="noopener" aria-label="{{social.label}} link"><i class="{{social.icon}}"></i></a>
       </li>
       {% endfor %}
     </ul>

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Thanks
+title: Thank you!
 permalink: /thanks_subs/
 exclude: true
 ---

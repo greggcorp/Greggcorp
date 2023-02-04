@@ -18,8 +18,9 @@ author:
   avatar: '/images/gb_head_home.jpg'
 
 social:
-- {icon: "fa-linkedin", label: LinkedIn, link: "https://www.linkedin.com/in/greggbernstein"}
-- {icon: "fa-mastodon", label: Mastodon, link: "https://mastodon.social/@greggcorp"}
+- {icon: "fa-brands fa-linkedin", label: LinkedIn, link: "https://www.linkedin.com/in/greggbernstein"}
+- {icon: "fa-brands fa-mastodon", label: Mastodon, link: "https://mastodon.social/@greggcorp"}
+- {icon: "fa-solid fa-rss", label: RSS, link: "https://gregg.io/feed.xml"}
 # - {icon: "fa-twitter", label: Twitter, link: "https://twitter.com/greggcorp"}
 
 #-------------------------------
