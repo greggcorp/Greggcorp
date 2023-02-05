@@ -2,7 +2,7 @@
 layout: post
 title: "Grow your impact, then your team"
 date:   2023-02-02 05:00:25
-description: I expanded on a video for the Learners commmunity to explain why hiring is your last resort
+description: I expanded on a video for the Learners community to explain why hiring is your last resort
 tags: [POV, Learners, Org design]
 ---
 
