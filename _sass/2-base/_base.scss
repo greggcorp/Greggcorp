@@ -64,13 +64,13 @@ h6 {
 
 blockquote {
   position: relative;
-  padding: 68px 0;
-  margin: 68px -130px;
-  font-size: 44px;
+  padding: 18px 0;
+  margin: 36px 0px;
+  font-size: 24px;
   line-height: 1;
   font-weight: 900;
   font-style: italic;
-  text-align: center;
+  text-align: left;
   color: var(--heading-font-color);
 
   &::after,
@@ -97,12 +97,11 @@ blockquote {
 
   cite {
     display: inline-block;
-    margin-top: 8px;
-    font-size: 14px;
+    margin-top: 10px;
+    font-size: 18px;
     font-weight: 900;
     font-style: italic;
     color: var(--heading-font-color);
-    &::after,
     &::before {
       content: " – ";
     }
