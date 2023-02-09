@@ -2,7 +2,7 @@
 layout: post
 title: "The coaching tree"
 date:   2023-02-08 15:00:25
-description: Managing a team is so much more than setting goals and managing tasks. It’s a commitment to a person and an investment in their growth. While a workplace might be the genesis of a relationship, that relationship should endure far beyond a role or organization.
+description: Managing a team is so much more than setting goals and managing tasks. It’s a commitment to a person and an investment in their growth. While a workplace might be the genesis of a relationship, that relationship should endure far beyond a role or organization
 tags: [POV, Management]
 ---
 
@@ -15,7 +15,7 @@ The thing is, this wasn’t a platitude. I meant it. I’m in the lives of my fo
 
 In professional sports you’ll hear about the notion of the coaching tree.* My favorite example of this is NBA coach Gregg Popovich of the San Antonio Spurs (and not just because we’re name twins). “Pop” is notable for both coaching and mentoring. The former is evident in his status as the winningest NBA coach of all time, but to me the latter is equally impressive. While his former assistants have gone on to great things in their own coaching careers, they know the door is always open to consult with Pop, and they pay it forward by building their own branches of his coaching tree.
 
-**If you're keeping track, that's two newsletters in a row featuring sports references. I guess this is who I am now.*
+**If you're keeping track, that's two posts in a row featuring sports references. I guess this is who I am now.*
 
 This is an oversimplification, but for illustrative purposes let’s look at how Pop's tree has grown:
 * Steve Kerr played for Pop’s Spurs before becoming one of his assistants. He is now head coach of the champion Golden State Warriors.
