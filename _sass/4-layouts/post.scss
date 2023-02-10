@@ -109,7 +109,6 @@
   flex-wrap: wrap;
   margin-top: 48px;
   padding-bottom: 48px;
-  border-bottom: 1px solid var(--border-color);
 
   @media only screen and (max-width: $mobile) {
     margin-top: 40px;
@@ -203,7 +202,6 @@
   align-items: center;
   padding: 40px 0;
   margin-bottom: 68px;
-  border-bottom: 1px solid var(--border-color);
 
   .post-author__image {
     position: relative;
@@ -262,14 +260,14 @@
 
   @media only screen and (max-width: $mobile) {
     flex-direction: column;
-    align-items: center;
-    text-align: center;
+    align-items: left;
+    text-align: left;
     margin-bottom: 40px;
   }
 
   @media only screen and (max-width: $tablet) {
     flex-direction: column;
-    text-align: center;
+    text-align: left;
 
     .post-author__image,
     .post-author__name {
@@ -281,7 +279,7 @@
     }
 
     .post-author__meta {
-      justify-content: center;
+      justify-content: left;
     }
   }
 }

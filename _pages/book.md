@@ -28,17 +28,22 @@ Each chapter explores a specific theme:
 7. **Where to go next** charts the pathways of a research career through an examination of possible career ladders, perspectives on when it’s time to leave a role, and thoughts on where a research leader goes when there isn’t a clear next step.
 
 # Want to explore further?
-* [Read the introduction](../introduction).<br>
-* [Examine the table of contents](../toc).<br>
-* [View the list of contributors](../contributors).
+* [Read the introduction](../introduction)<br>
+* [Examine the table of contents](../toc)<br>
+* [View the list of contributors](../contributors)
+
+# Interested in a preview?
+* *[Why organizations hire user researchers](../why-hire)*<br>
+* *[The best place to get started](../best-place)*<br>
+* *[Considering a UX research opportunity](../considering-opportunity)*<br>
 
 # Why read this book?
 If you’re in school or considering a career switch, you'll know what a job in user research might look like. If you’re new to the field, you'll see where your career might go and know how to get there. If you’re expanding the size or reach of a practice, you'll understand how others have approached it.
 
 # Are you an educator?
-You can order Research Practice from most mainstream, independent, and academic bookstores. Ask for ISBN 9780578811178.
+You can order Research Practice from most mainstream, independent, and academic bookstores. Ask for ISBN **9780578811178**.
 
-If you are a university or bootcamp instructor and wonder if Research Practice might make a nice addition to your curriculum (it would!), please get in touch for a free digital review copy (or free print edition within the United States).
+If you are a university or bootcamp instructor and wonder if Research Practice might make a nice addition to your curriculum (it would!), please get in touch for a *free digital review copy* (or free print edition within the United States).
 
 If your class adopts Research Practice, Gregg will happily join for a virtual discussion with your students. Interested? [Get in touch!](../contact)
 
