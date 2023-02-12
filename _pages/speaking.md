@@ -70,7 +70,7 @@ image: '/images/gregg_speaking.jpg'
     <tr><td><a href="https://www.breaker.audio/branded/e/48864834">Branded podcast</a></td><td>11 July 2019</td></tr>
     <tr><td><a href="https://www.invisionapp.com/webinars/uxresearch">InVision Fireside Chat</a></td><td>13 June 2019</td></tr>
     <tr><td><a href="https://blog.aureliuslab.com/gregg-bernstein-user-research-interview">Aurelius podcast</a></td><td>30 October 2018</td></tr>
-    <tr><td><a href="https://www.portigal.com/podcast/1-gregg-bernstein-of-mailchimp/">The Dollars to Donuts Podcast with Steve Portigal</a></td><td>7 January 2015</td></tr>
+    <tr><td><a href="https://www.portigal.com/podcast/1-gregg-bernstein-of-mailchimp/">The Dollars to Donuts podcast with Steve Portigal</a></td><td>7 January 2015</td></tr>
     <tr><td><a href="https://www.fastcompany.com/1665000/how-to-fix-the-nightmare-of-apples-terms-of-service">Fast Company magazine</a></td><td>14 September 2011</td></tr>
   </table>
 </div>
