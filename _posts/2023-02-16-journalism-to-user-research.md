@@ -19,9 +19,9 @@ Journalists identify stories worthy of the public interest. They conduct desk re
 
 User researchers, instead of working in the general public’s interest, advocate for change on behalf of their users and toward the goals of their organizations. And though the exact methods differ, the mindset is similar: be curious, do your homework, talk to the right people, analyze what you’ve learned, and present it back.
 
-And that takes us back to the question at hand: **how do I leverage my background to break into user research?** My advice is to explicitly call out the similar approaches between journalism and user researcher in any cover letters or resumés you send out, and any job interviews you go on.
+And that takes us back to the question at hand: **how do I leverage my background to break into user research?** My advice is to explicitly call out the similar approaches between journalism and user research in any cover letters or resumés you send out, and any job interviews you go on.
 
-That extends to a portfolio, too. Revisit your publishing experience and see if you can present that same work as a user researcher. Here’s what that might look like:
+That extends to a portfolio, too. Revisit your publishing experience and see if you can present that same work as a user researcher would. Here’s what that might look like:
 
 ```
 For this story, the question I was trying to answer was ____.
