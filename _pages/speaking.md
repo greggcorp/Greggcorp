@@ -78,6 +78,16 @@ image: '/images/gregg_speaking.jpg'
 
 # Company & team events
 Gregg has spoken about product and UX research with teams from:
+<div class="table-container">
+  <table>
+<tr><td><a href="https://userinterview.com">User Interviews</a></td><td><a href="https://www.theatlantic.com">The Atlantic</a></td><td><a href="https://www.werkenbijrandstad.nl/nl/nl/">Randstad Group Netherlands</a></td></tr>
+<tr><td><a href="https://www.ibm.com/ca-en">IBM Canada</a></td><td><a href="https://www.xero.com/">Xero</a></td><td><a href="https://www.paylocity.com">Paylocity</a></td></tr>
+<tr><td><a href="https://sproutsocial.com">Sprout Social</a></td><td><a href="https://www.booking.com">Booking.com</a></td><td><a href="https://www.ca.com">CA Technologies</a></td></tr>
+<tr><td><a href="https://www.ea.com">Electronic Arts</a></td><td><a href="https://www.etsy.com">Etsy</a></td><td><a href="https://www.fullstory.com">Fullstory</a></td></tr>
+  </table>
+</div>
+
+<!--
 * [User Interviews](https://userinterview.com)
 * [The Atlantic](https://www.theatlantic.com)
 * [Randstad Group Netherlands](https://www.werkenbijrandstad.nl/nl/nl/)
@@ -90,7 +100,7 @@ Gregg has spoken about product and UX research with teams from:
 * [Electronic Arts](https://www.ea.com)
 * [Etsy](https://www.etsy.com)
 * [Fullstory](https://www.fullstory.com)
-
+-->
 # Book Gregg
 
 Want to book Gregg for your conference or company event? [Get in touch](../contact).
