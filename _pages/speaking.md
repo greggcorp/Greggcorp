@@ -10,7 +10,7 @@ image: '/images/gregg_speaking.jpg'
 <div class="table-container">
   <table>
     <tr><th>Event</th><th>Date</th></tr>
-<tr><td><a href="https://www.productmakers.com/">ProductBoard Product Makers Community</a></td><td>4 May 2023</td></tr>
+<tr><td><a href="https://www.productmakers.com/events/how-research-and-product-teams-can-create-mission-critical-products-and-confident-bets-111">ProductBoard Product Makers Community</a></td><td>4 May 2023</td></tr>
   </table>
 </div>
 

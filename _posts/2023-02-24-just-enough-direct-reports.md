@@ -3,7 +3,7 @@ layout: post
 title: "Just enough direct reports"
 date:   2023-02-24 01:00:25
 description: "The work of UX research is complex, and oversight of that work is a commitment. As a research manager, you must afford time and space to talk through project plans with your directs, and you must also dedicate time to review the evolving plans and documentation created by everyone on your team. There’s no shortcut: the buck stops with you"
-tags: [POV, Learners, Resources]
+tags: [POV, Learners, Management]
 ---
 
 I transitioned into my first UX research role in 2012, and became a UX research manager for the first time in 2014. I’ve scaled and managed a few teams of various sizes since then, and I created a short video for Learners about **the ideal number of direct reports a UX research manager should have**. Below I expand on what I shared in the video.
