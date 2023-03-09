@@ -23,3 +23,4 @@ A long time ago, I designed <a href ="https://www.discogs.com/artist/1455211-Gre
     <img src="/images/ket.jpg">
     <img src="/images/cof_ad.jpg">
   </div>
+  </div>

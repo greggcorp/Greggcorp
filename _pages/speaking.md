@@ -4,6 +4,7 @@ title: Speaking
 permalink: /speaking/
 image: '/images/gregg_speaking.jpg'
 ---
+Gregg speaks about his work at conferences and company events. See where he's been and what's on deck below. [Get in touch](../contact) if you'd like to discuss an engagement.
 
 # Upcoming
 <!-- Check back later! -->
