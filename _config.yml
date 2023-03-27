@@ -44,7 +44,7 @@ mailchimp__button__text: Subscribe # Add your button text
 # Contact Settings
 contact:
   email: me@gregg.io # Add your email for contact form
-  description: Have a question? Want to book Gregg for your conference, company event, or book club? Please get in touch! # Add a description of your form
+  description: Have a question for me? Want to book me for your conference, company event, or book club? Please get in touch! # Add a description of your form
 
 # NOTE
 # Joseph comes with a built-in contact form, that you can use with Formspree service to handle up to 50 submissions per month for free. You could also easily switch to another contact form service if you want.

@@ -4,7 +4,7 @@ title: Speaking
 permalink: /speaking/
 image: '/images/gregg_speaking.jpg'
 ---
-Gregg speaks about his work at conferences and company events. See where he's been and what's on deck below. [Get in touch](../contact) if you'd like to discuss an engagement.
+I speak about my work at conferences and company events. See where I've been and what's on deck below. [Get in touch](../contact) if you'd like to discuss an engagement.
 
 # Upcoming
 <!-- Check back later! -->
@@ -78,7 +78,7 @@ Gregg speaks about his work at conferences and company events. See where he's be
 </div>
 
 # Company & team events
-Gregg has spoken about product and UX research with teams from:
+I have spoken about product and UX research with teams from:
 <div class="table-container">
   <table>
 <tr><td><a href="https://userinterview.com">User Interviews</a></td><td><a href="https://www.theatlantic.com">The Atlantic</a></td><td><a href="https://www.werkenbijrandstad.nl/nl/nl/">Randstad Group Netherlands</a></td></tr>
@@ -104,4 +104,4 @@ Gregg has spoken about product and UX research with teams from:
 -->
 # Book Gregg
 
-Want to book Gregg for your conference or company event? [Get in touch](../contact).
+Want to book me for your conference or company event? [Get in touch](../contact).
