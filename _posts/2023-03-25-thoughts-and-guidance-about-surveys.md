@@ -11,7 +11,7 @@ I love surveys. They get a bad rap, sometimes deservedly. But a well-written and
 Here I’ll share the guidance I typically provide my colleagues when we work on a survey together. I’ve divided this post into four sections:
 
 * Things I want you to know about surveys
-* Things I don’t ever want you to do with a survey
+* Things I never want you to do with a survey
 * Things I always want you to do with a survey
 * Things you should read to be great at surveys
 
@@ -34,7 +34,7 @@ A survey is great for sourcing people to talk to. Recruit people based on their 
 **Surveys are a cheat code for team collaboration.**
 *Does this phrasing make sense? Did we miss any possible responses? Can you go through the flow once more and test the logic?* Surveys are a great forcing mechanism for teams to work together. You absolutely need multiple sets of eyes on a survey, especially as you write, design, and test it.
 
-## Things I don’t ever want you to do with a survey
+## Things I never want you to do with a survey
 
 **Never ask for information you already have.**
 If you send a survey to a customer for whom you have data, don’t ask them to provide you *with that same data*. That’s just a waste of time for everyone.
