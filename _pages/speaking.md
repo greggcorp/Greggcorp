@@ -7,13 +7,7 @@ image: '/images/gregg_speaking.jpg'
 I speak about my work at conferences and company events. See where I've been and what's on deck below. [Get in touch](../contact) if you'd like to discuss an engagement.
 
 # Upcoming
-<!-- Check back later! -->
-<div class="table-container">
-  <table>
-    <tr><th>Event</th><th>Date</th></tr>
-<tr><td><a href="https://www.productmakers.com/events/how-research-and-product-teams-can-create-mission-critical-products-and-confident-bets-111">ProductBoard Product Makers Community</a></td><td>4 May 2023</td></tr>
-  </table>
-</div>
+Check back later!
 
 # Gatherings
 <div class="table-container">
@@ -56,6 +50,7 @@ I speak about my work at conferences and company events. See where I've been and
 <div class="table-container">
   <table>
     <tr><th>Venue</th><th>Date</th></tr>
+    <tr><td><a href="https://youtu.be/DQtct5Bxszg">Productboard Product Makers Community</a></td><td>4 May 2023</td></tr>
     <tr><td><a href="https://youtu.be/ADEGuHUcwJU">Ran Talks Design: Practical user research</a></td><td>22 September 2022</td></tr>
     <tr><td><a href="https://sprig.com/blog/solo-research-impact">Sprig blog: How to make an impact as a solo researcher</a></td><td>6 September 2022</td></tr>
     <tr><td><a href="https://www.looppanel.com/blog/how-to-democratize-research-with-gregg-bernstein">Looppanel blog: How to democratize research</a></td><td>28 July 2022</td></tr>
