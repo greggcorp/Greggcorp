@@ -12,7 +12,7 @@ What keeps trail running interesting is that the same trail differs runner by ru
 
 Depending on your social networks or your newsletter subscriptions, you have seen posts bemoaning that user researchers are doing the wrong work with the wrong teams. That we're either underutilized or unnecessary. That we should hold all the power or that powerful new advances in technology can replace us.
 
-All of the above scenarios are true, because the world of user research is not a monolith. Another way to say this is that context matters; depending on your industry, your org, even your manager, your scenario is unique. The demands of research roles change researcher by researcher, quarter over quarter, fiscal year over fiscal year. Even the name of the role varies according to the naming conventions, or lack thereof, of our organizations. The responsibilities of a **User Researcher** and a **Design Researcher** might be identical in different contexts, just as a **path** and a **trail** describe the same passage in different communities.
+All of the above scenarios are true, because the world of user research is not a monolith. Another way to say this is that context matters; depending on your industry, your org, all the way down to your manager, your scenario is unique. The demands of research roles change researcher by researcher, quarter over quarter, fiscal year over fiscal year. Even the name of the role varies according to the naming conventions, or lack thereof, of our organizations. The responsibilities of a **User Researcher** and a **Design Researcher** might be identical in different contexts, just as a **path** and a **trail** describe the same passage in different communities.
 
 ### We apply for jobs that someone else scoped
 
