@@ -18,6 +18,7 @@ Check back later!
     <tr><td><a href="https://www.ux360summit.com/home">UX360 Research Summit</a></td><td>15-16 February 2023</td></tr>
     <tr><td><a href="https://usertesting.wistia.com/medias/j396dmvh1e?wvideo=j396dmvh1e">Usertesting panel discussion: Personalization and curation</a></td><td>28 September 2022</td></tr>
     <tr><td><a href="https://www.inma.org/modules/event/2022CustomerInformedProductsClass/agenda.html">INMA master class: How to build customer-informed products</a></td><td>7 April 2022</td></tr>
+    <tr><td><a href="https://greatquestion.co">Great Question</a> Customer Research POV webinar</td><td>10 February 2022</td></tr>
     <tr><td><a href="https://uxinsight.org/having-impact-as-a-ux-researcher-qa-with-gregg-bernstein/">UXinsight Book Club</a></td><td>13 September 2021</td></tr>
     <tr><td><a href="https://2021.uxlondon.com/fest/">UX Fest</a></td><td>2 June 2021</td></tr>
     <tr><td><a href="https://www.meetup.com/Downtown-Orlando-UX/events/277611263/">DOUX: Downtown Orlando UX Meetup</a></td><td>18 May 2021</td></tr>
@@ -54,7 +55,6 @@ Check back later!
     <tr><th>Venue</th><th>Date</th></tr>
     <tr><td><a href="https://sprig.com/blog/solo-research-impact">Sprig blog: How to make an impact as a solo researcher</a></td><td>6 September 2022</td></tr>
     <tr><td><a href="https://www.looppanel.com/blog/how-to-democratize-research-with-gregg-bernstein">Looppanel blog: How to democratize research</a></td><td>28 July 2022</td></tr>
-    <tr><td><a href="https://greatquestion.co">Great Question</a> Customer Research POV webinar</td><td>10 February 2022</td></tr>
     <tr><td><a href="https://thespaceinbetween.co.nz/brave-ux-podcast/054-gregg-bernstein">Brave UX podcast</a></td><td>20 December 2021</td></tr>
     <tr><td><a href="https://www.userinterviews.com/blog/healthy-research-culture-gregg-bernstein-conde-nast">Awkward Silences podcast</a></td><td>24 November 2021</td></tr>
     <tr><td><a href="https://www.userweekly.com/5-october-2021/">User Weekly newsletter</a></td><td>5 October 2021</td></tr>
@@ -76,27 +76,31 @@ Check back later!
 I have spoken about product and UX research with teams from:
 <div class="table-container">
   <table>
-<tr><td><a href="https://userinterview.com">User Interviews</a></td><td><a href="https://www.theatlantic.com">The Atlantic</a></td><td><a href="https://www.werkenbijrandstad.nl/nl/nl/">Randstad Group Netherlands</a></td></tr>
-<tr><td><a href="https://www.ibm.com/ca-en">IBM Canada</a></td><td><a href="https://www.xero.com/">Xero</a></td><td><a href="https://www.paylocity.com">Paylocity</a></td></tr>
-<tr><td><a href="https://sproutsocial.com">Sprout Social</a></td><td><a href="https://www.booking.com">Booking.com</a></td><td><a href="https://www.ca.com">CA Technologies</a></td></tr>
-<tr><td><a href="https://www.ea.com">Electronic Arts</a></td><td><a href="https://www.etsy.com">Etsy</a></td><td><a href="https://www.fullstory.com">Fullstory</a></td></tr>
+<tr>
+<td><a href="https://scad.edu">Savannah College of Art & Design</a></td>
+<td><a href="https://userinterview.com">User Interviews</a></td>
+<td><a href="https://www.theatlantic.com">The Atlantic</a></td>
+</tr>
+<tr>
+<td><a href="https://www.werkenbijrandstad.nl/nl/nl/">Randstad Group Netherlands</a></td>
+<td><a href="https://www.ibm.com/ca-en">IBM Canada</a></td>
+<td><a href="https://www.xero.com/">Xero</a></td>
+</tr>
+<tr>
+<td><a href="https://www.paylocity.com">Paylocity</a></td>
+<td><a href="https://sproutsocial.com">Sprout Social</a></td>
+<td><a href="https://www.booking.com">Booking.com</a></td>
+</tr>
+<tr>
+<td><a href="https://www.ca.com">CA Technologies</a></td>
+<td><a href="https://www.ea.com">Electronic Arts</a></td>
+<td><a href="https://www.etsy.com">Etsy</a></td>
+</tr>
+<tr>
+<td><a href="https://www.fullstory.com">Fullstory</a></td>
+</tr>
   </table>
 </div>
 
-<!--
-* [User Interviews](https://userinterview.com)
-* [The Atlantic](https://www.theatlantic.com)
-* [Randstad Group Netherlands](https://www.werkenbijrandstad.nl/nl/nl/)
-* [IBM Canada](https://www.ibm.com/ca-en)
-* [Xero](https://www.xero.com/)
-* [Paylocity](https://www.paylocity.com)
-* [Sprout Social](https://sproutsocial.com)
-* [Booking.com](https://www.booking.com)
-* [CA Technologies](https://www.ca.com)
-* [Electronic Arts](https://www.ea.com)
-* [Etsy](https://www.etsy.com)
-* [Fullstory](https://www.fullstory.com)
--->
 # Book Gregg
-
 Want to book me for your conference or company event? [Get in touch](../contact).
