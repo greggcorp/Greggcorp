@@ -15,7 +15,7 @@ For Learners, I answered the question, “Can research ever come to an end?”
 ![Talking about if research can ever come to an end](../images/learners_research_ends.png "Learners screenshot")
 *Me talking about if research can ever come to an end (screenshot only—click [here](https://joinlearners.com/talk/can-research-ever-come-to-an-end__) to watch!)*
 
-Research never ends.  But research *projects* have to end.
+Research never ends. But research *projects* have to end.
 
 Another way to say this is that you *could* keep researching a topic until the end of time—there are always new directions you can take a study. Every new user and everything they do is yet another data point for you to potentially examine. You can add every possible competitor to your competitive analysis, and analyze every new transaction for emerging trends.
 
