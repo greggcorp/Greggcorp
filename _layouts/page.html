@@ -18,7 +18,9 @@ layout: default
 <div class="container animate">
 
   <div class="page__info">
+    {% unless page.hide_header %}
     <h1 class="page__title">{{ page.title | escape }}</h1>
+    {% endunless %}
   </div>
 
   <article class="page">

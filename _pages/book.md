@@ -1,13 +1,12 @@
 ---
 layout: page
-title: Research Practice
+title: My book
 permalink: /book/
 image: '/images/book_cover.png'
+hide_header: true
 ---
 
-> While other research books offer standard operating procedures, this book provides something more durable in the real world. It’s a practical field guide that will give you the encouragement to get started, no matter what your background.
->
-> <cite>Aarron Walter, UX practice founder at Mailchimp</cite>
+<h1 span class="custom_head">Research Practice</h1>
 
 This book is not an argument for doing user research. Nor is it a tutorial or toolkit for common methodologies. It won’t show you how to run a usability session or recruit users remotely.
 
@@ -15,7 +14,15 @@ This book is not an argument for doing user research. Nor is it a tutorial or to
 
 Research Practice takes you inside the field of applied user research through the stories and experiences of the people doing the work.
 
-<a class="button" href="http://researchpractice.co" target="blank">Buy now &nbsp; <i class="fas fa-external-link-alt"></i></a>
+> While other research books offer standard operating procedures, this book provides something more durable in the real world. It’s a practical field guide that will give you the encouragement to get started, no matter what your background.
+>
+> <cite>Aarron Walter, UX practice founder at Mailchimp</cite>
+
+**Learn more about the book at [researchpractice.co](http://researchpractice.co)**
+
+<a class="button" href="https://getbook.at/ResearchPractice/opt/1?iguid=Rrncom1QMUSIcYaYcFxhfg" target="blank">Buy now &nbsp; <i class="fas fa-external-link-alt"></i></a>
+
+<!--
 
 # What’s in the book?
 Each chapter explores a specific theme:
@@ -55,8 +62,6 @@ If your organization, meetup, group, or book club is interested in a deeper dive
 * Answer questions about both research practice and Research Practice
 * Offer a bulk discount on print editions of the book (minimum of 10)
 
-
-<!--
 ## Sign up for details
 Keep up to date for news about and excerpts from the book!
 -->
