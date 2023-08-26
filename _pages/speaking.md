@@ -14,9 +14,9 @@ Check back later!
   <table>
     <tr><th>Event</th><th>Date</th></tr>
     <tr><td><a href="https://youtu.be/DQtct5Bxszg">Productboard Product Makers Community</a></td><td>4 May 2023</td></tr>
-    <tr><td><a href="https://youtu.be/ADEGuHUcwJU">Ran Talks Design: Practical user research</a></td><td>22 September 2022</td></tr>
     <tr><td><a href="https://www.ux360summit.com/home">UX360 Research Summit</a></td><td>15-16 February 2023</td></tr>
     <tr><td><a href="https://usertesting.wistia.com/medias/j396dmvh1e?wvideo=j396dmvh1e">Usertesting panel discussion: Personalization and curation</a></td><td>28 September 2022</td></tr>
+    <tr><td><a href="https://youtu.be/ADEGuHUcwJU">Ran Talks Design: Practical user research</a></td><td>22 September 2022</td></tr>
     <tr><td><a href="https://www.inma.org/modules/event/2022CustomerInformedProductsClass/agenda.html">INMA master class: How to build customer-informed products</a></td><td>7 April 2022</td></tr>
     <tr><td><a href="https://greatquestion.co">Great Question</a> Customer Research POV webinar</td><td>10 February 2022</td></tr>
     <tr><td><a href="https://uxinsight.org/having-impact-as-a-ux-researcher-qa-with-gregg-bernstein/">UXinsight Book Club</a></td><td>13 September 2021</td></tr>
