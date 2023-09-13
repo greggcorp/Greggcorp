@@ -12,7 +12,7 @@ I am the director of user research for [Hearst Magazines](https://www.hearst.com
 
 I studied journalism at the University of Georgia and earned my MFA in graphic design from the Savannah College of Art & Design, where I focused on [user experience research and design](../mfa). I live with my family in Athens, Georgia, where you'll often find me on solo trail runs through the forests of the state botanical gardens.
 
-Need more information? [Get in touch](../contact).
+Need more information? [Get in touch](../contact). Looking for a headshot for a conference or event? [Grab one here](/images/gregg_headshots.zip).
 
 ## The cold, professional bio
 Gregg Bernstein is a user experience research leader and author of [*Research Practice: Perspectives from UX researchers in a changing field*](http://researchpractice.co). He advocates for and practices user-centered product development, and speaks about his work at conferences, in classrooms, and at company events. [See where he's speaking next](../speaking). Gregg also mentors rising user researchers through First Round Capital's [Fast Track](https://fasttrack.firstround.com/) program.
