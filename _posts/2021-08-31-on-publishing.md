@@ -47,7 +47,7 @@ I had a hard stop at 6:40a to wake my kids for school, so I always felt some urg
 A benefit to using early morning time to write was that I didn’t have to sacrifice my morning runs (from 8ish to 9ish after I dropped my kids at school), nor did my project eat into evening time with my family.
 
 ## Professional-grade self-publishing
-During my early morning sessions, I fleshed out the first half of the talk and felt like I was getting somewhere. But I needed help.
+During my early morning sessions, I fleshed out the first half of the book and felt like I was getting somewhere. But I needed help.
 
 I knew I wanted to self-publish this book for a few reasons. Publishers offer a great deal of support to authors, such as content development, copy editing, production, distribution, and marketing. The benefit of this arrangement is that the author gets to focus almost exclusively on writing, but the tradeoff is giving up a greater percentage of sales revenue and—most important to me—a lack of control over the specific formatting of the book. I wanted to manage the entire publishing process from drafts to edits to production, and I also wanted the book to eschew prescriptive chapter conclusions or in-chapter activities, which are fairly standard among UX books.
 
