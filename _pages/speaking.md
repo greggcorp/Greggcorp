@@ -13,6 +13,8 @@ Check back later!
 <div class="table-container">
   <table>
     <tr><th>Event</th><th>Date</th></tr>
+    <tr><td><a href="https://dscout-co-lab.splashthat.com/">dScout Co-Lab Conference</a> (Chicago, USA)</td><td>16-18 October 2023</td></tr>
+    <tr><td><a href="https://scad.edu/">SCAD Academic Leadership Retreat</a> (Savannah, USA)</td><td>26-28 July 2023</td></tr>
     <tr><td><a href="https://youtu.be/DQtct5Bxszg">Productboard Product Makers Community</a></td><td>4 May 2023</td></tr>
     <tr><td><a href="https://www.ux360summit.com/home">UX360 Research Summit</a></td><td>15-16 February 2023</td></tr>
     <tr><td><a href="https://usertesting.wistia.com/medias/j396dmvh1e?wvideo=j396dmvh1e">Usertesting panel discussion: Personalization and curation</a></td><td>28 September 2022</td></tr>
@@ -72,31 +74,36 @@ Check back later!
   </table>
 </div>
 
-# Company & team events
-I have spoken about product and UX research with teams from:
+# Company, team, and classroom events
+I have spoken about product and UX research with groups from:
 <div class="table-container">
   <table>
 <tr>
+<td><a href="https://cca.edu">California College of the Arts</a></td>
 <td><a href="https://scad.edu">Savannah College of Art & Design</a></td>
+</tr>
+<tr>
 <td><a href="https://userinterview.com">User Interviews</a></td>
 <td><a href="https://www.theatlantic.com">The Atlantic</a></td>
 </tr>
 <tr>
 <td><a href="https://www.werkenbijrandstad.nl/nl/nl/">Randstad Group Netherlands</a></td>
 <td><a href="https://www.ibm.com/ca-en">IBM Canada</a></td>
-<td><a href="https://www.xero.com/">Xero</a></td>
 </tr>
 <tr>
+<td><a href="https://www.xero.com/">Xero</a></td>
 <td><a href="https://www.paylocity.com">Paylocity</a></td>
+</tr>
+<tr>
 <td><a href="https://sproutsocial.com">Sprout Social</a></td>
 <td><a href="https://www.booking.com">Booking.com</a></td>
 </tr>
 <tr>
 <td><a href="https://www.ca.com">CA Technologies</a></td>
 <td><a href="https://www.ea.com">Electronic Arts</a></td>
-<td><a href="https://www.etsy.com">Etsy</a></td>
 </tr>
 <tr>
+<td><a href="https://www.etsy.com">Etsy</a></td>
 <td><a href="https://www.fullstory.com">Fullstory</a></td>
 </tr>
   </table>
