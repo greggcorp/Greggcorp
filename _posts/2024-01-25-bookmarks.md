@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "Sharing my research bookmarks"
-date:   2024-01-24 01:00:25
+date:   2024-01-25 01:00:25
 description: "I've collected a number of research-related bookmarks over the years. I finally organized them in a public Notion database"
 tags: [Resources]
 ---
 
-I've collected a number of research-related bookmarks over the years. However, I often struggle to find the specifc links I need at the exact moment I need them. 
+I've collected a number of research-related bookmarks over the years. However, I often struggle to find the specific links I need at the exact moment I need them. 
 
 To solve for this, I created a Notion database of the resources I’ve found useful in my work. And I've made it public.
 
