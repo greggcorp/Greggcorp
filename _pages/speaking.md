@@ -13,6 +13,7 @@ Check back later!
 <div class="table-container">
   <table>
     <tr><th>Event</th><th>Date</th></tr>
+    <tr><td><a href="https://www.linkedin.com/events/7169146427506409472/comments/">Fuego UX Design Leader Insights Panel</a></td><td>5 March 2024</td></tr>
     <tr><td><a href="https://www.youtube.com/watch?v=YhvE8whw9QU">dScout Co-Lab Conference</a> (Chicago, USA)</td><td>16-18 October 2023</td></tr>
     <tr><td><a href="https://scad.edu/">SCAD Academic Leadership Retreat</a> (Savannah, USA)</td><td>26-28 July 2023</td></tr>
     <tr><td><a href="https://youtu.be/DQtct5Bxszg">Productboard Product Makers Community</a></td><td>4 May 2023</td></tr>
