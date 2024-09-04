@@ -11,7 +11,7 @@ I don’t care about AI. I don’t care that your product has it. I don’t care
 
 I’ll go further: *I don't think most people care about AI*, because “AI” is not a thing to care about. AI is a broad term that covers a whole lot of territory, akin to how a previous generation sweatily appended the terms “net” and “cyber” to everything to signal alignment with a vague conception of "the internet." Nothing furrows my brow and sets off my BS detector faster than seeing “AI-assisted” slapped onto your product’s marketing messaging, because that tells me you're more focused on a buzzword rather than a tangible benefit.
 
-AI is a catchall term that describes a thing in service of another thing. It’s neither the product nor the goal. It’s like selling people on the capabilities of plumbing and paper manufacturing when *they just want to visit a rest area during a road trip after a poorly-planned Taco Bell pitstop*. It overlooks the **goals** (functional restroom, stocked with toilet paper) and **desired outcomes** (gastrointestinal relief, resumption of travel) in favor of the infrastructure.
+AI is a catchall term that describes a thing in service of another thing. It’s neither the product nor the goal. It's like selling people on the capabilities of plumbing and paper manufacturing when *they just want to make a bathroom stop during a road trip after a poorly-planned Taco Bell menu decision*. It overlooks the **goals** (functional restroom, stocked with toilet paper) and **desired outcomes** (gastrointestinal relief, resumption of travel) in favor of the infrastructure.
 
 I don’t care about AI, but I do care about people:<br> 
 I care about their problems and how to help them solve them.<br>
