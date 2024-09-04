@@ -7,3 +7,5 @@ gem 'jekyll-tagging'
 gem "jekyll-sitemap"
 gem 'jemoji'
 gem 'jekyll-feed'
+
+gem "webrick", "~> 1.8"
