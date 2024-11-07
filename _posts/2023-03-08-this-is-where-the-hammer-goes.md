@@ -22,7 +22,7 @@ The most cost- and time-effective way to construct a house is via modular constr
 
 ## A signal of care
 
-Construction is just one of many ongoing processes within the larger ecosystem of building a home. Securing financing for a home is a process. Land development is a process. Permits are a process. Any interruption in one part of the ecosystem impact the others.
+Construction is just one of many ongoing processes within the larger ecosystem of building a home. Securing financing for a home is a process. Land development is a process. Permits are a process. Any interruption in one part of the ecosystem impacts the others.
 
 There are plenty of inefficient and nonsensical processes, born of ignorance or malice. Those are not what I’m talking about here. I’m thinking of processes that connote that someone has married time and expertise in service of reaching a desired outcome.  **A thoughtful process is a signal of care.** I picked up on these signals loud and clear recently.
 
