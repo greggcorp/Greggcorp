@@ -28,7 +28,7 @@ social:
 #-------------------------------
 # Hero Settings
 hero:
-  hero__title: Hello! I’m Gregg.
+  hero__title: 👋 Hello! I’m Gregg.
   hero__description: I'm a user experience research leader and author of <i>Research Practice</i>. This site is where I work through ideas and share what I’ve learned. Questions? Get in touch!
   hero__image: '/images/gb_head_home.jpg'
 
