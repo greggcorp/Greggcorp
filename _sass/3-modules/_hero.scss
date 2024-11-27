@@ -1,15 +1,15 @@
 /* Hero */
 .hero {
-  margin-bottom: 45px;
+  margin-bottom: 96px;
   background-image: linear-gradient(360deg, #533feb57, transparent);
   min-height: 55vh;
 
   @media only screen and (max-width: $tablet) {
-    margin-bottom: 30px;
+    margin-bottom: 60px;
   }
 
   @media only screen and (max-width: $mobile) {
-    margin-bottom: 24px;
+    margin-bottom: 48px;
   }
 }
 
@@ -109,7 +109,7 @@
   }
 
   .hero__description {
-    /* max-width: 530px; */
+    max-width: 530px;
     margin-bottom: 32px;
     font-size: 20px;
     color: var(--text-color);
@@ -139,7 +139,7 @@
     }
     
       @media only screen and (max-width: $desktop) {
-        width: 200px;
+        width: 40px;
         height: 40px;
         font-size: 18px;
       }
