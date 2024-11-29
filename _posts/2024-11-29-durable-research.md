@@ -3,7 +3,7 @@ layout: post
 title: "Making research more durable"
 date:   2024-11-29 01:00:25
 description: "If we only answer what’s asked, we only answer known knowns. Our value comes from uncovering the unknown"
-tags: [POV, AI]
+tags: [POV, Management, Process]
 ---
 ## If we only answer what’s asked, we only answer known knowns. Our value comes from uncovering the unknown
 
