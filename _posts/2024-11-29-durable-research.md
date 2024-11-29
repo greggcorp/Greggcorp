@@ -2,10 +2,10 @@
 layout: post
 title: "Making research more durable"
 date:   2024-11-29 01:00:25
-description: "If we only answer what’s asked, we only answer known knowns. Our value comes from uncovering the unknown"
+description: "If we answer what’s asked, we only answer known unknowns. Our value comes from excavating deeper"
 tags: [POV, Management, Process]
 ---
-## If we only answer what’s asked, we only answer known knowns. Our value comes from uncovering the unknown
+## If we answer what’s asked, we only answer known unknowns. Our value comes from excavating deeper.
 
 > Always design a thing by considering it in its next larger context — a chair in a room, a room, in a house, a house in an environment, an environment in a city plan.—Eliel Saarinen
 
