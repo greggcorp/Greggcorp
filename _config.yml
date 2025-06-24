@@ -18,6 +18,7 @@ author:
   avatar: '/images/gb_head_home.jpg'
 
 social:
+- {icon: "fa-brands fa-medium", label: Medium, link: "https://medium.com/@greggcorp"}
 - {icon: "fa-brands fa-linkedin", label: LinkedIn, link: "https://www.linkedin.com/in/greggbernstein"}
 - {icon: "fa-solid fa-bookmark", label: My UXR bookmarks, link: "https://greggcorp.notion.site/Research-Practice-Bookmarks-6e6ffb6c8cc0484b8dc4b0485e584afd"}
 - {icon: "fa-brands fa-bluesky", label: My Bluesky UXR starter pack, link: "https://bsky.app/starter-pack/gregg.io/3lawj4judhq2z"}
