@@ -28,19 +28,19 @@ Check back later!
     <tr><td><a href="https://www.eventbrite.com/e/quarantine-book-club-with-gregg-bernstein-tickets-148648474589#">Quarantine Book Club</a></td><td>1 April 2021</td></tr>    
     <tr><td><a href="https://uxcopenhagen.com/">UX Copenhagen round table discussion</a></td><td>26 March 2021</td></tr>
     <tr><td><a href="https://www.eventbrite.com/e/new-book-launch-research-practice-with-gregg-bernstein-tickets-143623990221#">IxDA NYC</a></td><td>16 March 2021</td></tr>
-    <tr><td><a href="https://app.livestorm.co/cousto/unveiling-impactful-insights-for-your-product?type=detailed">Cousto webinar: Unveiling impactful insights for your product</a></td><td>11 March 2021</td></tr>
+    <tr><td><a href="https://medium.com/cousto/unveiling-impactful-insights-a96a8902dc92">Cousto webinar: Unveiling impactful insights for your product</a></td><td>11 March 2021</td></tr>
     <tr><td><a href="https://www.meetup.com/UXBC-Denver/events/276114972/">UX Book Club Denver</a></td><td>24 February 2021</td></tr>
     <tr><td><a href="https://www.meetup.com/uxsanantonio-public/events/276052803/">User Experience San Antonio</a></td><td>22 February 2021</td></tr>
     <tr><td><a href="https://www.youtube.com/watch?v=tAMs3bx7Db0">UX New Zealand</a></td><td>30 October-1 November 2019</td></tr>
-    <tr><td><a href="https://userresearchatlanta.com">User Research Atlanta</a></td><td>13 September 2019</td></tr>
-    <tr><td><a href="https://rosenfeldmedia.com/advancing-research-community/archive/upcoming-videoconference-gregg-bernstein/">Rosenfeld Media Advancing Research community</a></td><td>11 July 2019</td></tr>
+    <tr><td>User Research Atlanta</td><td>13 September 2019</td></tr>
+    <tr><td><a href="https://rosenverse.rosenfeldmedia.com/videos/opportunistic-research-with-gregg-bernstein-videoconference">Rosenfeld Media Advancing Research community</a></td><td>11 July 2019</td></tr>
     <tr><td><a href="https://youtu.be/f6h0nvL7xWA">Strive: The 2019 UX Research Conference</a> (Toronto, Canada)</td><td>6-7 June 2019</td></tr>
     <tr><td><a href="https://vimeo.com/297311682">Webdagene</a> (Oslo, Norway)</td><td>17-19 October 2018</td></tr>
     <tr><td><a href="https://uxscotland.net/">UX Scotland</a></td><td>13-15 June 2018</td></tr>
     <tr><td><a href="https://uxinsight.org/ux-research-conferences-by-uxinsight/">UX Insight</a> (Utrecht, Netherlands)</td><td>8 March 2018</td></tr>
     <tr><td>UX Bucharest</td><td>3-6 October 2017</td></tr>    
     <tr><td><a href="https://bigdesignevents.com/">Big Design</a> (Dallas, USA)</td><td>14-16 September 2017</td></tr>
-    <tr><td><a href="https://www.userresearchlondon.com/2017/">User Research London</a></td><td>June 2017</td></tr>
+    <tr><td>User Research London</td><td>June 2017</td></tr>
     <tr><td><a href="https://amux.org/">amUX</a> (Atlanta, USA)</td><td>February 2017</td></tr>
     <tr><td><a href="https://uxcopenhagen.com/">UX Copenhagen</a></td><td>March 2016</td></tr>
     <tr><td><a href="https://slideslive.com/38894476/full-stories">WebExpo</a> (Prague, Czech Republic)</td><td>September 2015</td></tr>
