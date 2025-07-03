@@ -8,9 +8,9 @@ exclude: true
 
 Gregg.io is the personal website of Gregg Bernstein (me). I work as a user researcher and publish on this website to share my thoughts.
 
-Any opinions I express on this site are my own and do not represent the views of any employer or any other organization I am affiliated with.
+My employer is [Medium](https://medium.com). Any opinions I express on this site are my own and do not represent the views of any employer or any other organization I am affiliated with. I do receive payment from Medium for my duties as a user researcher. 
 
-If I mention a product or service anywhere on my website, it is not a paid endorsement or promotion. I do not receive any compensation for mentioning products or services on this site.
+If I mention a product or service anywhere on my website, it is not a paid endorsement or promotion. I do not receive any compensation for mentioning products or services on this site. 
 
 I will explicitly disclose any sponsorships, partnerships, or other forms of compensation I receive for content on this site or anywhere else I publish, such as LinkedIn, Bluesky, or Medium.
 
