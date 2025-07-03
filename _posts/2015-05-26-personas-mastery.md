@@ -9,4 +9,9 @@ A persona is a representation of a type of customer. Personas answer the questio
 
 >Personas can give you real insights into your customers, which will result in you designing a much better product or service. Just remember that personas change over time—create them, learn from them, share them, and then don’t forgot to revisit them and begin the process anew!
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B23iWg0koi8?si=p7Ay46ULrwpKElet" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+--- 
 [Watch the video on the UX Mastery site](https://uxmastery.com/create-ux-personas/).
+
+[Watch the video on YouTube](https://youtu.be/B23iWg0koi8?si=6aNdYZa80khaki1j).

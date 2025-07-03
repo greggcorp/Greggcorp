@@ -6,10 +6,10 @@ description: I expanded on a video for the Learners community to explain why hir
 tags: [POV, Learners, Org design]
 ---
 
-For the Learners community, I tackled the question, “How do you grow a research team at a company that has never had one?” [Check out the video here](https://joinlearners.com/talk/how-do-you-create-a-great-plan-to-grow-your-research-team-at-a-company-that-has-never-had-one___).
+For the Learners community, I tackled the question, “How do you grow a research team at a company that has never had one?”
 
 ![Talking about growing teams](../images/learners_growing_team.png "Learners screenshot")
-*Me talking about growing a research team (screenshot only—click [here](https://joinlearners.com/talk/how-do-you-create-a-great-plan-to-grow-your-research-team-at-a-company-that-has-never-had-one___) to watch!)*
+*Me talking about growing teams (screenshot only)*
 
 That question presupposes that a team is the right way to grow research. I say that because headcount is always the easy answer to building a new function, but a good research leader—a good leader, period—needs to know all the levers to pull before landing on headcount. We saw the repercussions of rapid scaling play out in recent layoffs across the tech sector, so instead let’s focus on avenues to explore before opening a role.
 

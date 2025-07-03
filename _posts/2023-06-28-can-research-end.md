@@ -10,10 +10,8 @@ tags: [POV, Learners]
 
 For Learners, I answered the question, “Can research ever come to an end?”
 
-[You can watch the original video here](https://joinlearners.com/talk/can-research-ever-come-to-an-end__).
-
 ![Talking about if research can ever come to an end](../images/learners_research_ends.png "Learners screenshot")
-*Me talking about if research can ever come to an end (screenshot only—click [here](https://joinlearners.com/talk/can-research-ever-come-to-an-end__) to watch!)*
+*Me talking about when research comes to an end (screenshot only)*
 
 Research never ends. But research *projects* have to end.
 

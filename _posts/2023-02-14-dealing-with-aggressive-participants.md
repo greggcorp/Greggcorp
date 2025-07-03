@@ -8,10 +8,8 @@ tags: [POV, Learners, Interviews]
 
 For Learners, I gave my thoughts on dealing with very aggressive or disrespectful research participants.
 
-[You can watch the original video here](https://joinlearners.com/talk/how-to-deal-with-users-that-are-very-aggressivedisrespectful-when-providing-feedback__).
-
 ![Talking about disrespectful participants](../images/learners_disrespect.png "Learners screenshot")
-*Me talking about disrespectful participants (screenshot only—click [here](https://joinlearners.com/talk/how-to-deal-with-users-that-are-very-aggressivedisrespectful-when-providing-feedback__) to watch!)*
+*Me talking about aggressive participants (screenshot only)*
 
 Off the bat, encountering an aggressive or disrespectful person is no doubt uncomfortable. I have some tips on how to avoid that situation, and what to do if it happens to you.
 

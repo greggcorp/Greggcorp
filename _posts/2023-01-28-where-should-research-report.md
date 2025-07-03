@@ -6,10 +6,10 @@ description: For the Learners community, I attempted to answer where I think res
 tags: [POV, Learners, Org design]
 ---
 
-For the Learners community, I created a short video in response to the question, “What are the arguments for research reporting into design?” [You can watch the original video here](https://joinlearners.com/talk/what-are-the-arguments-for-research-reporting-into-design-vs-not___).
+For the Learners community, I created a short video in response to the question, “What are the arguments for research reporting into design?”
 
 ![Talking about org design for research orgs](../images/learners.png "Learners screenshot")
-*Me talking about org design for research orgs (screenshot only—click [here](https://joinlearners.com/talk/what-are-the-arguments-for-research-reporting-into-design-vs-not___) to watch!)*
+*Me talking about org design for research orgs (screenshot only)*
 
 My response, in typical researcher fashion, is to reframe the question: 
 *In your specific organization, where would research make the most impact?*

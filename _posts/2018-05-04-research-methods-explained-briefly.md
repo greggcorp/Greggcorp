@@ -5,14 +5,7 @@ date:   2018-05-04 09:34:25
 description: A tongue in cheek explanation of user research
 tags: [POV, UX]
 ---
-This made the rounds on Twitter recently, so I thought I’d give it a proper home:
-
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Popular user research methods, explained briefly. <a href="https://t.co/RnOBX0CQxO">pic.twitter.com/RnOBX0CQxO</a></p>&mdash; Gregg Bernstein (@greggcorp) <a href="https://twitter.com/greggcorp/status/989173444754444288?ref_src=twsrc%5Etfw">April 25, 2018</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-The brevity of Twitter, combined with my pithy explanations, resulted in some helpful suggestions on how this tweet might be improved. To wit, both researcher and author [Dana Chisnell](https://twitter.com/danachis) and researcher [Beth Koloski](https://twitter.com/bkoloski) suggested I replace “talk to people” with “listen to people.” I had originally landed on “talk” as the precedent to the act of listening, but “listen” really is the key.
-
-Here’s a better version of the original tweet:
+This made the rounds on Twitter recently after I shared it, so I thought I’d give it a proper home: 
 
 ![User research methods, explained briefly.](../images/methods_explained_2.png "User research methods, explained briefly.")
 

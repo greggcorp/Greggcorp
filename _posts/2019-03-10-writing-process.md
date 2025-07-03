@@ -5,7 +5,7 @@ date:   2019-03-10 17:34:25
 description: How I'm writing my book
 tags: [POV, Writing, Personal]
 ---
-*I’m writing a book about product research, and I update folks about it via a newsletter. In [a recent issue](https://mailchi.mp/71670cb9b337/an-update-on-the-research-practice-book), I shared some of my process, as well as my plans for development and publication of the book. A number of folks got in touch to tell me they enjoyed learning about my specific writing process, so I thought I’d post it here. To get updates like this in your inbox, [please subscribe to my newsletter](http://gregg.io/book/).*
+*I’m writing a book about product research, and I update folks about it via a newsletter. In [a recent issue](https://buttondown.com/greggcorp/archive/an-update-on-the-research-practice-book/), I shared some of my process, as well as my plans for development and publication of the book. A number of folks got in touch to tell me they enjoyed learning about my specific writing process, so I thought I’d post it here. To get updates like this in your inbox, [please subscribe to my newsletter](http://gregg.io/book/).*
 
 ## The process
 I’m an early riser. There’s nothing better than waking way before the sun—before the kids need to be packed up for school and before responsibilities take over—and starting the day with a text editor and a hot cup of coffee.

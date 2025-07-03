@@ -8,10 +8,9 @@ tags: [POV, Learners, Resources]
 
 For Learners, I answered the question, “As a journalist, how do I leverage my background to break into user research?”
 
-[You can watch the original video here](https://joinlearners.com/talk/as-a-journalist-how-do-i-leverage-on-my-background-to-break-into-user-research___).
-
 ![Talking about transitioning from journalism to user research](../images/learners_journalism.png "Learners screenshot")
-*Me talking about transitioning from journalism to user research (screenshot only—click [here](https://joinlearners.com/talk/as-a-journalist-how-do-i-leverage-on-my-background-to-break-into-user-research___) to watch!)*
+*Me talking about journalism (screenshot only)*
+
 
 I’ve worked in media with journalists pretty steadily since 2016, and there is a lot of overlap between journalism and user research. It’s a topic I’ve covered before on the [Vox Product blog](https://product.voxmedia.com/2019/3/25/18240501/the-journalism-user-research-relationship), but here I’ll answer it with an eye toward *getting a job*.
 

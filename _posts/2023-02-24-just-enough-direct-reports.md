@@ -8,10 +8,9 @@ tags: [POV, Learners, Management]
 
 I transitioned into my first UX research role in 2012, and became a UX research manager for the first time in 2014. I’ve scaled and managed a few teams of various sizes since then, and I created a short video for Learners about **the ideal number of direct reports a UX research manager should have**. Below I expand on what I shared in the video.
 
-[You can watch the original video here](https://joinlearners.com/thought/how-many-direct-reports-should-a-ux-research-manager-have).
-
 ![Talking about the ideal number of direct reports for a ux research manager](../images/learners_directs.png "Learners screenshot")
-*Me talking about the ideal number of direct reports for a ux research manager (screenshot only—click [here](https://joinlearners.com/thought/how-many-direct-reports-should-a-ux-research-manager-have) to watch!)*
+*Me talking about direct reports (screenshot only)*
+
 
 My short answer is that a manager who is also doing research projects should have no more than two to three direct reports. However, if your sole duty is to manage (meaning you’re not also conducting your own studies), then five to seven direct reports is sensible. Here’s how I landed on those numbers…
 

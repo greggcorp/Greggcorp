@@ -10,4 +10,4 @@ I contributed to Maze.design's "Ultimate guide to UX research:"
 
 >Because my approach to research is grounded in flexibility, I don’t necessarily adhere to a framework so much as a devotion to providing information that helps everyone make better decisions, using whatever user research methods of gathering and sharing information that support that mission.
 
-[Read the entire post at Maze.design](https://maze.design/guides/ux-research).
+[Read the entire post at Maze.design](https://maze.design/guides/ux-research) or on the [Wayback Machine](https://web.archive.org/web/20200929100025/https://maze.design/guides/ux-research).

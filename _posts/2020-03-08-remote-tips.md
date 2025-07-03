@@ -6,10 +6,7 @@ description: At the beginning of the Covid-19 outbreak, I shared tips that have 
 tags: [POV, UX, Remote]
 ---
 
-When the spread of Covid-19 introduced many folks to remote research, I quickly compiled and shared a few of the practices and tips that have worked for me as a remote researcher and research director.
-
-<blockquote class="twitter-tweet" data-partner="tweetdeck"><p lang="en" dir="ltr">I&#39;ve conducted research and managed research teams remotely for years. It takes discipline, intentionality, and  thoughtfulness. With recent events introducing many folks to remote research, I thought I&#39;d share the practices that work for me, my teams, and my orgs. YMMV.</p>&mdash; Gregg Bernstein (@greggcorp) <a href="https://twitter.com/greggcorp/status/1236754370273980419?ref_src=twsrc%5Etfw">March 8, 2020</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+When the spread of Covid-19 introduced many folks to remote research, I quickly compiled and shared on social media a few of the practices and tips that have worked for me as a remote researcher and research director.
 
 I've given that thread of practices that work for me, my teams, and my orgs a proper home here.
 * For your team, establish a place for updates, collaboration, and gut-checks. This could be Slack, a group SMS, a running Google Doc, Miro, etc.

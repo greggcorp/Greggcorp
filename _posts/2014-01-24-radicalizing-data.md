@@ -5,7 +5,7 @@ date:   2014-01-24 11:34:25
 description: We’ve radicalized our data, allowing it to dictate direction and scope
 tags: [POV, Mailchimp]
 ---
-_Originally published in the [Mailchimp UX Newsletter](https://us5.campaign-archive1.com/?awesome=no&u=7e093c5cf4&id=361d158320)._
+_Originally published in the [Mailchimp UX Newsletter](https://us5.campaign-archive1.com/?awesome=no&u=7e093c5cf4&id=361d158320):_
 
 A popular corollary in design and writing posits that by emphasizing everything, we end up emphasizing nothing. We’ve all seen overzealous designs featuring too many typefaces in myriad weights that compete for our attention, or apps with far too many buttons for any one in particular to stand out as our logical choice. To get our point or intended actions across, focus and simplicity are key.
 

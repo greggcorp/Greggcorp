@@ -10,4 +10,4 @@ For the Shopify Partners blog, I shared some of my favorite practical tips to ge
 
 >… a support team is, without fail, the best place to start any research project. Cultivate a relationship with support, and you’ll have easy access to the voice of the customer.
 
-[Read the entire post on the Shopify Partners blog](https://www.shopify.com/partners/blog/user-research-methods).
+[Read the entire post on the Shopify Partners blog](https://www.shopify.com/partners/blog/user-research-methods) or on the [Wayback Machine](https://web.archive.org/web/20200310100025/https://www.shopify.com/partners/blog/user-research-methods).
