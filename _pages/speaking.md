@@ -56,6 +56,7 @@ Check back later!
 <div class="table-container">
   <table>
     <tr><th>Venue</th><th>Date</th></tr>
+    <tr><td><a href="https://www.uxrplayground.com/blog/ux-soylesileri-gregg-bernstein">UXR Playground (Turkey)</a></td><td>6 October 2025</td></tr>
     <tr><td><a href="https://portigal.com/podcast/40-gregg-bernstein-returns/">The Dollars to Donuts podcast with Steve Portigal</a></td><td>18 March 2024</td></tr>
     <tr><td><a href="https://sprig.com/blog/solo-research-impact">Sprig blog: How to make an impact as a solo researcher</a></td><td>6 September 2022</td></tr>
     <tr><td><a href="https://www.looppanel.com/blog/how-to-democratize-research-with-gregg-bernstein">Looppanel blog: How to democratize research</a></td><td>28 July 2022</td></tr>
