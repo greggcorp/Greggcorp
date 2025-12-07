@@ -1,7 +1,8 @@
 /* Hero */
 .hero {
   margin-bottom: 40px;
-  background-image: linear-gradient(360deg, #533feb57, transparent);
+/* Update the hex code to your new Gold color (#FFB81C) with opacity */
+  background-image: linear-gradient(360deg, #FFB81C57, transparent);
   min-height: 50vh;
 
   @media only screen and (max-width: $tablet) {

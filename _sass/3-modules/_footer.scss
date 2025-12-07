@@ -158,7 +158,6 @@
     justify-content: space-between;
   }
 
-
   .subscribe__group {
     margin-bottom: 32px;
 
@@ -209,17 +208,25 @@
       display: inline-block;
       height: 44px;
       padding: 0 28px;
+      
+      /* MATCHING FONTS: Ensure it inherits the site font like the other button */
+      font-family: inherit; 
+      
       font-size: 14px;
       font-weight: 700;
       border: none;
       border-radius: 4px;
       outline: none;
-      color: var(--dark);
-      background: var(--light-gray);
+      
+      /* MATCHING COLORS: Swapped hardcoded 'dark/gray' for your global variables */
+      color: var(--button-color);
+      background: var(--button-background-color);
+      
       transition: all 0.3s;
       cursor: pointer;
 
       &:hover {
+        /* MATCHING HOVER: Ensure text remains visible on hover */
         color: var(--white);
         background: var(--button-background-hover);
       }

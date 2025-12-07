@@ -14,7 +14,7 @@ twitter:
 # Author Settings
 author:
   name: Gregg Bernstein
-#  bio: I'm a user experience research leader and author of <i>Research Practice</i>.
+#  bio: I'm a user experience researcher and author of <i>Research Practice</i>.
   avatar: '/images/gb_head_home.jpg'
 
 social:
@@ -30,24 +30,23 @@ social:
 # Hero Settings
 hero:
   hero__title: 👋 Hello! I’m Gregg.
-  hero__description: I'm a user experience research leader and author of <i>Research Practice</i>. This site is where I work through ideas and share what I’ve learned. Questions? Get in touch!
+  hero__description: I'm a user experience researcher and designer. This site is where I work through ideas and share what I’m thinking. Questions? Get in touch!
   hero__image: '/images/gb_head_home.jpg'
 
 
 #-------------------------------
 # Newsletter (_includes/footer-widgets/widget-subscribe.html)
-mailchimp: true # To enable the mailchimp form, use the value 'true'. To disable the form, use the value 'false' or leave the field blank.
-mailchimp__title: Get updates in your inbox # Add your Title
-mailchimp__text: Subscribe to my Research Practicing newsletter to get blog posts (and special announcements) delivered. # Add your description.
-# mailchimp__identifier: buttondown.email/api/emails/embed-subscribe/greggcorp # Add your Mailchimp form identifier. For example - blogenjoyfreedom.us16.list-manage.com/subscribe/post?u=cd56155d76ddeeb4c0bc4d080&amp;id=7a526cd13e
-mailchimp__button__text: Subscribe # Add your button text
+newsletter: true # To enable the mailchimp form, use the value 'true'. To disable the form, use the value 'false' or leave the field blank.
+newsletter__title: Get updates in your inbox # Add your Title
+newsletter__text: Subscribe to my newsletter to get my posts (and other randomness) delivered. # Add your description.
+newsletter__button__text: Subscribe # Add your button text
 
 
 #-------------------------------
 # Contact Settings
 contact:
   email: me@gregg.io # Add your email for contact form
-  description: Have a question for me? Want to book me for your conference, company event, or book club? Please get in touch! # Add a description of your form
+  description: Have a question for me? Please get in touch! # Add a description of your form
 
 # NOTE
 # Joseph comes with a built-in contact form, that you can use with Formspree service to handle up to 50 submissions per month for free. You could also easily switch to another contact form service if you want.

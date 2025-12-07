@@ -1,61 +1,68 @@
-/* Color Scheme */
+/* Color Scheme - Warm Rust & Orange Theme */
 
 :root {
-  --brand-color: #533feb;
+  /* 1. The Brand Colors */
+  --rust: #9A3324;   /* Primary Dark Color */
+  --orange: #FF6720; /* Action/Hover Color */
+  --gold: #FFB81C;   /* Accent/Gradient Color */
+
+  /* 2. Neutrals */
   --white: #fff;
   --light-gray: #f0f0f0;
   --gray: #6a6d76;
   --dark: #0c101a;
-  --dark-blue: #1e2740;
-
+  
+  /* 3. Base Settings */
+  --brand-color: var(--orange); /* Used for hovers and highlights */
   --background-color: var(--white);
   --background-alt-color: var(--dark);
 
-  --text-color: var(--dark-blue);
+  /* 4. Text & Headings */
+  --text-color: var(--dark); /* Keep body text neutral for readability */
   --text-alt-color: var(--gray);
+  --heading-font-color: var(--rust); /* HINT of color: Headings are now Rust */
 
-  --heading-font-color: var(--dark-blue);
+  /* 5. Links */
+  --link-color: var(--rust); /* Links are Rust (readable) */
+  --link-color-hover: var(--orange); /* Hover turns Bright Orange */
 
-  --link-color: var(--dark-blue);
-  --link-color-hover: var(--brand-color);
-
+  /* 6. Buttons */
   --button-color: var(--white);
-  --button-background-color: var(--dark-blue);
-  --button-background-hover: var(--brand-color);
+  --button-background-color: var(--rust); /* Buttons are Rust */
+  --button-background-hover: var(--orange); /* Hover turns Orange */
 
+  /* 7. Borders & Tables */
   --border-color: var(--light-gray);
   --border-color-alt: #212630;
-
   --tr-color: var(--light-gray);
-
   --syntax-highlighting-background: #f3f3f3;
 }
 
 :root[dark] {
-  --brand-color: #533feb;
-  --white: #fff;
-  --light-gray: #f0f0f0;
-  --dark: #0c101a;
-
+  /* In Dark Mode, we keep it simple but use Orange/Gold for visibility */
+  --brand-color: var(--orange);
+  
   --background-color: var(--dark);
   --background-alt-color: #080b12;
 
   --text-color: #9a9eab;
   --text-alt-color: #848690;
 
-  --heading-font-color: var(--light-gray);
+  --heading-font-color: var(--light-gray); /* Keep headings light for contrast */
 
+  /* Links need to be bright in dark mode, Rust is too dark. 
+     We use Light Gray, hovering to Orange. */
   --link-color: var(--light-gray);
-  --link-color-hover: var(--brand-color);
+  --link-color-hover: var(--orange);
 
+  /* Buttons: Dark background with White text */
   --button-color: var(--white);
-  --button-background-color: #080b12;
-  --button-background-hover: var(--brand-color);
+  --button-background-color: #1a1d26; /* Slightly lighter than black */
+  --button-background-hover: var(--orange);
 
   --border-color: #252629;
   --border-color-alt: #212630;
 
   --tr-color: #080b12;
-
   --syntax-highlighting-background: #080b12;
 }

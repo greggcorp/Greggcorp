@@ -18,12 +18,6 @@ Research Practice takes you inside the field of applied user research through th
 >
 > <cite>Aarron Walter, UX practice founder at Mailchimp</cite>
 
-**Learn more about the book at [researchpractice.co](http://researchpractice.co)**
-
-<a class="button" href="https://getbook.at/ResearchPractice/opt/1?iguid=Rrncom1QMUSIcYaYcFxhfg" target="blank">Buy now &nbsp; <i class="fas fa-external-link-alt"></i></a>
-
-<!--
-
 # What’s in the book?
 Each chapter explores a specific theme:
 1. **Finding a way in** presents the various pathways people take to this field. You’ll learn how practitioners navigated from schools, the social sciences, fine arts, and beyond to a career that satisfies and rewards a passion for understanding people.
@@ -34,11 +28,6 @@ Each chapter explores a specific theme:
 6. **Overcoming challenges** exposes the hard parts that no one tells you about user research, from the loneliness of being a team of one to battling imposter syndrome to advocating for change to taking an ethical stand.
 7. **Where to go next** charts the pathways of a research career through an examination of possible career ladders, perspectives on when it’s time to leave a role, and thoughts on where a research leader goes when there isn’t a clear next step.
 
-# Want to explore further?
-* [Read the introduction](../introduction)<br>
-* [Examine the table of contents](../toc)<br>
-* [View the list of contributors](../contributors)
-
 # Interested in a preview?
 * *[Why organizations hire user researchers](../why-hire)*<br>
 * *[The best place to get started](../best-place)*<br>
@@ -47,35 +36,4 @@ Each chapter explores a specific theme:
 # Why read this book?
 If you’re in school or considering a career switch, you'll know what a job in user research might look like. If you’re new to the field, you'll see where your career might go and know how to get there. If you’re expanding the size or reach of a practice, you'll understand how others have approached it.
 
-# Are you an educator?
-You can order Research Practice from most mainstream, independent, and academic bookstores. Ask for ISBN **9780578811178**.
-
-If you are a university or bootcamp instructor and wonder if Research Practice might make a nice addition to your curriculum (it would!), please get in touch for a *free digital review copy* (or free print edition within the United States).
-
-If your class adopts Research Practice, Gregg will happily join for a virtual discussion with your students. Interested? [Get in touch!](../contact)
-
-# Organizing a book club?
-If your organization, meetup, group, or book club is interested in a deeper dive into Research Practice, consider [booking Gregg for an event](../contact). Gregg can:
-* Detail the process of creating a field guide for research practitioners
-* Share the lessons that came out of the book
-* Facilitate a discussion with your group about UX research
-* Answer questions about both research practice and Research Practice
-* Offer a bulk discount on print editions of the book (minimum of 10)
-
-## Sign up for details
-Keep up to date for news about and excerpts from the book!
--->
-
-<!-- Begin Buttondown form -->
-<!-- <div id="formview">
-<form
-  action="https://buttondown.email/api/emails/embed-subscribe/greggcorp"
-  method="post"
-  target="popupwindow"
-  onsubmit="window.open('https://buttondown.email/greggcorp', 'popupwindow')"
-  class="embeddable-buttondown-form">
-  <input type="email" name="email" id="bd-email" placeholder="Your email" />
-  <input type="hidden" value="1" name="embed" />
-  <button type="submit">Subscribe</button>
-</form>
-<!--End Buttondown form-->
+<a class="button" href="https://getbook.at/ResearchPractice/opt/1?iguid=Rrncom1QMUSIcYaYcFxhfg" target="blank">Buy now &nbsp; <i class="fas fa-external-link-alt"></i></a>

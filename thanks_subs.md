@@ -4,4 +4,4 @@ title: Thank you!
 permalink: /thanks_subs/
 exclude: true
 ---
-Thank you for subscribing to the Research Practicing newsletter! If you have burning questions that I can answer in a future issue, or suggestions that would improve your newsletter experience, please [get in touch](../contact).
+Thank you for subscribing to the my newsletter! If you want to suggest a topic for a blog post or have any questions, please [get in touch](../contact).

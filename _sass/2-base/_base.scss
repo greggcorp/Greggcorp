@@ -247,24 +247,35 @@ table a {
   padding: 20px 40px;
   font-size: 14px;
   font-weight: 700;
+  
+  /* FIX 1: Force the button to use your site's font */
+  font-family: inherit; 
+  line-height: inherit;
+
   text-decoration: none;
   border-radius: 4px;
   border: none;
-  color: var(--white);
+  
+  /* FIX 2: Use the variable you created, not hardcoded white */
+  color: var(--button-color); 
+  
   background-color: var(--button-background-color);
   outline: none;
   cursor: pointer;
   transition: all .25s;
+  
+  /* Optional: Ensures mobile phones don't add rounded glossy styles */
+  -webkit-appearance: none; 
 
-  &:hover {
+&:hover {
     background: var(--button-background-hover);
+    color: var(--white); /* Forces text to white on hover in ALL modes */
   }
 
   &:active {
     transform: translateY(2px);
   }
 }
-
 .custom_head {
   margin-bottom: 40px;
   font-size: 72px;
@@ -284,4 +295,65 @@ table a {
     margin-bottom: 24px;
     font-size: 32px;
   }
+}
+/* Contact Form Button Override - High Specificity */
+/* Targeting .form-box AND .form__group guarantees we win the specificity war */
+.form-box .form__group .button {
+  color: var(--button-color);
+
+  &:hover {
+    color: var(--white); /* This will now forcefully apply in Dark Mode */
+    background: var(--button-background-hover);
+  }
+}
+/* =========================================
+   Font Awesome Fallbacks
+   These styles show ONLY when Font Awesome fails to load/exceeds limits.
+   ========================================= */
+
+/* 1. Reset the font for fallbacks */
+/* We target the specific icon classes you use */
+.nav__icon-menu::before,
+.nav__icon-close::before,
+.nav__icon-search::before,
+.social__link i::before {
+  /* Ensure we use a system font (Arial/Helvetica) instead of a missing icon font */
+  font-family: sans-serif, -apple-system, BlinkMacSystemFont !important;
+  font-style: normal;
+  font-weight: bold;
+}
+
+/* 2. Menu Hamburger Fallback */
+.nav__icon-menu::before {
+  content: "\2261"; /* The '≡' Symbol */
+  font-size: 28px;  /* Make it big and tap-friendly */
+}
+
+/* 3. Close Menu (X) Fallback - FIXED */
+/* We removed ".nav__icon-close::before" to prevent the double X */
+.nav__icon-close i::before {
+  content: "\00D7"; /* The '×' Symbol */
+  font-size: 28px;
+}
+
+/* 4. Search Icon Fallback */
+.nav__icon-search::before {
+  content: "\1F50D"; /* The '🔍' Emoji (universal) */
+  /* OR simple text if you prefer: content: "Search"; */
+  font-size: 20px;
+}
+
+/* 5. Social Media Icons Fallback */
+.social__link i::before {
+  /* You requested an arrow or bullet */
+  content: "\2192"; /* The '→' Symbol */
+  font-size: 18px;
+  margin-right: 5px;
+}
+
+/* Optional: Add text labels for Social Links if desired */
+/* This reveals the hidden label inside your config only if FA fails */
+/* (Requires no HTML changes, just a smart CSS trick) */
+.social__link i {
+  font-style: normal;
 }
