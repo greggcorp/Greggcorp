@@ -27,8 +27,10 @@ $mq: ( $mobile:$columns, $tablet:$columns, $desktop:$columns );
     max-width: 560px;
   }
 
-  @media only screen and (max-width: $mobile) {
+@media only screen and (max-width: $mobile) {
     max-width: 480px;
+    padding-left: 25px;  /* Forces more space on the left */
+    padding-right: 25px; /* Balances the right side */
   }
 }
 

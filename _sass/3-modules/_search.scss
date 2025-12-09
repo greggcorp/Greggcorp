@@ -49,6 +49,20 @@
     &:hover {
       color: var(--brand-color);
     }
+
+    /* ADD THIS BLOCK: */
+  &::before {
+    content: "\00d7"; /* This is the hex code for a multiplication sign (X) */
+    font-family: sans-serif; /* Ensures it uses a standard font, not a broken icon font */
+    font-weight: 300;
+  }
+
+  /* OPTIONAL: Hide the broken icon tag if it exists */
+  i {
+    display: none; 
+  }
+
+
   }
 
   .search__text {

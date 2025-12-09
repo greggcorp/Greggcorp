@@ -307,53 +307,101 @@ table a {
   }
 }
 /* =========================================
-   Font Awesome Fallbacks
+   Font Awesome Fallbacks (Updated)
    These styles show ONLY when Font Awesome fails to load/exceeds limits.
    ========================================= */
 
-/* 1. Reset the font for fallbacks */
-/* We target the specific icon classes you use */
+/* 1. Reset the font for ALL fallback icons */
 .nav__icon-menu::before,
-.nav__icon-close::before,
+.nav__icon-close i::before,
 .nav__icon-search::before,
-.social__link i::before {
-  /* Ensure we use a system font (Arial/Helvetica) instead of a missing icon font */
+.social__link i::before,
+/* NEW: Dark Mode, Blog Titles, Scroll Top */
+.toggle-moon i::before,
+.toggle-sun i::before,
+.article__title i::before,
+.top i::before {
+  /* Ensure we use a system font instead of the missing icon font */
   font-family: sans-serif, -apple-system, BlinkMacSystemFont !important;
   font-style: normal;
   font-weight: bold;
+  line-height: 1;
 }
 
-/* 2. Menu Hamburger Fallback */
+/* 2. Navigation & Header Icons */
 .nav__icon-menu::before {
-  content: "\2261"; /* The '≡' Symbol */
-  font-size: 28px;  /* Make it big and tap-friendly */
-}
-
-/* 3. Close Menu (X) Fallback - FIXED */
-/* We removed ".nav__icon-close::before" to prevent the double X */
-.nav__icon-close i::before {
-  content: "\00D7"; /* The '×' Symbol */
+  content: "\2261"; /* ≡ Menu */
   font-size: 28px;
 }
 
-/* 4. Search Icon Fallback */
+.nav__icon-close i::before {
+  content: "\00D7"; /* × Close */
+  font-size: 28px;
+}
+
 .nav__icon-search::before {
-  content: "\1F50D"; /* The '🔍' Emoji (universal) */
-  /* OR simple text if you prefer: content: "Search"; */
+  content: "\1F50D"; /* 🔍 Search */
   font-size: 20px;
 }
 
-/* 5. Social Media Icons Fallback */
 .social__link i::before {
-  /* You requested an arrow or bullet */
-  content: "\2192"; /* The '→' Symbol */
+  content: "\2192"; /* → Social Arrow */
   font-size: 18px;
   margin-right: 5px;
 }
 
-/* Optional: Add text labels for Social Links if desired */
-/* This reveals the hidden label inside your config only if FA fails */
-/* (Requires no HTML changes, just a smart CSS trick) */
-.social__link i {
-  font-style: normal;
+/* 3. Dark Mode Toggle (Footer) - UNIVERSAL POSITIONING (Fallback + FontAwesome) */
+
+/* PART A: Create "Safe Zones" */
+.toggle-theme {
+  margin-left: 35px !important;
+  margin-right: 35px !important;
+}
+
+/* PART B: Universal Positioning (Targets both <i> fallback and <svg> real icon) */
+.toggle-moon i, 
+.toggle-moon svg,
+.toggle-sun i,
+.toggle-sun svg {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 20px;
+  text-align: center;
+  z-index: 1;
+}
+
+/* MOON POSITIONING (Far Right) */
+/* We target the ::before pseudo-element for the fallback text... */
+.toggle-moon i::before {
+  content: "\263E"; 
+  font-size: 18px;
+}
+/* ...AND we apply the coordinates to the container so it works for SVG too */
+.toggle-moon i,
+.toggle-moon svg {
+  left: 55px; /* Push both Fallback and Real Icon to the right */
+}
+
+/* SUN POSITIONING (Far Left) */
+.toggle-sun i::before {
+  content: "\2600";
+  font-size: 20px;
+}
+.toggle-sun i,
+.toggle-sun svg {
+  left: -45px; /* Pull both Fallback and Real Icon to the left */
+}
+
+/* 4. Blog Post Title Arrow (Right) */
+.article__title i::before {
+  content: "\2192"; /* → Right Arrow */
+  /* Matches your design where the arrow is slightly smaller */
+  font-size: 0.8em; 
+}
+
+/* 5. Scroll to Top Button (Up) */
+.top i::before {
+  content: "\2191"; /* ↑ Up Arrow */
+  font-size: 20px;
 }
