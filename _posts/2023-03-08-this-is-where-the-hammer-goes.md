@@ -3,7 +3,7 @@ layout: post
 title: "This is where the hammer goes"
 date:   2023-03-08 01:00:25
 description: "Easy isn’t always effective. By being thoughtful and intentional, we design experiences that lead to better outcomes"
-tags: [POV, Process, Management, WIP]
+tags: [POV, Process, Management, WIP, Systems]
 ---
 *A note and a request: this post is part of a larger idea that is still taking shape. If this post makes you feel a certain way, or if you have feedback, [please let me know](../contact)!*
 
