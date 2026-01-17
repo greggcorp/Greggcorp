@@ -60,7 +60,7 @@ contact:
 
 #-------------------------------
 # Analytics
-# Using Tinylytics (configured in _includes/head.html)
+# Using Cloudflare Web Analytics (configured in _includes/head.html)
 
 
 #-------------------------------
