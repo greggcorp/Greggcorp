@@ -3,15 +3,8 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-Q1BJREMCX9"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-Q1BJREMCX9');
-</script>
+<!-- Tinylytics -->
+<script src="https://tinylytics.app/embed/iSkbd_cooRj-ozY5z7my.js" defer></script>
 
 <!-- Google Fonts) -->
   <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -39,6 +32,62 @@
   <!-- Font Awesome -->
   <script src="https://kit.fontawesome.com/c3760d02bd.js" crossorigin="anonymous"></script>
   <noscript><link rel="stylesheet" href="https://kit.fontawesome.com/c3760d02bd.css" crossorigin="anonymous"></noscript>
+
+  <!-- Font Awesome Fallback Detection -->
+  <script>
+    // Check if Font Awesome webfont/CSS loaded successfully
+    // Font Awesome Kit can use either SVG or Webfont mode - we need to detect both
+    (function() {
+      var checkCount = 0;
+      var maxChecks = 30; // Check for 3 seconds (30 * 100ms)
+      var checkInterval = 100; // Check every 100ms
+
+      function checkFontAwesome() {
+        checkCount++;
+
+        // Method 1: Check if Font Awesome stylesheet is loaded
+        var faStylesheets = document.querySelectorAll('link[href*="fontawesome"], link[href*="fa-"]');
+        var hasStylesheet = faStylesheets.length > 0;
+
+        // Method 2: Check if Font Awesome webfont is being applied to icons
+        // Look for <i> elements with Font Awesome classes
+        var faIcons = document.querySelectorAll('i[class*="fa-"]');
+        var hasFontApplied = false;
+
+        if (faIcons.length > 0) {
+          // Check if the computed font-family includes "Font Awesome"
+          var firstIcon = faIcons[0];
+          var computedStyle = window.getComputedStyle(firstIcon);
+          var fontFamily = computedStyle.getPropertyValue('font-family');
+          hasFontApplied = fontFamily && fontFamily.toLowerCase().indexOf('font awesome') !== -1;
+        }
+
+        console.log('Check #' + checkCount + ': Stylesheet=' + hasStylesheet + ', FontApplied=' + hasFontApplied + ', Icons=' + faIcons.length);
+
+        if (hasFontApplied) {
+          // Font Awesome loaded successfully!
+          console.log('Font Awesome loaded successfully!');
+          return; // Stop checking
+        }
+
+        if (checkCount < maxChecks) {
+          // Keep checking
+          setTimeout(checkFontAwesome, checkInterval);
+        } else {
+          // Timeout reached - Font Awesome didn't load, activate fallbacks
+          console.log('Font Awesome failed after ' + (maxChecks * checkInterval / 1000) + ' seconds - activating fallbacks');
+          document.documentElement.classList.add('fa-fallback');
+        }
+      }
+
+      // Start checking when DOM is ready
+      if (document.readyState === 'loading') {
+        document.addEventListener('DOMContentLoaded', checkFontAwesome);
+      } else {
+        checkFontAwesome();
+      }
+    })();
+  </script>
 
   <script>
     if (localStorage.getItem("theme") === "dark") {

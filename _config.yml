@@ -59,14 +59,15 @@ contact:
 
 
 #-------------------------------
-# Google Analytics
-# google-analytics: G-Q1BJREMCX9 # Add your identifier. For example UA-99631805-1.
+# Analytics
+# Using Tinylytics (configured in _includes/head.html)
 
 
 #-------------------------------
 # Build Settings
 markdown: kramdown
 permalink: /:title
+encoding: utf-8
 plugins:
   - jekyll-paginate
   - jekyll-sitemap

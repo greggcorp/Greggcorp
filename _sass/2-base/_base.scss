@@ -311,16 +311,16 @@ table a {
    These styles show ONLY when Font Awesome fails to load/exceeds limits.
    ========================================= */
 
-/* 1. Reset the font for ALL fallback icons */
-.nav__icon-menu::before,
-.nav__icon-close i::before,
-.nav__icon-search::before,
-.social__link i::before,
+/* 1. Reset the font for ALL fallback icons - ONLY when fa-fallback class is present */
+.fa-fallback .nav__icon-menu::before,
+.fa-fallback .nav__icon-close i::before,
+.fa-fallback .nav__icon-search::before,
+.fa-fallback .social__link i::before,
 /* NEW: Dark Mode, Blog Titles, Scroll Top */
-.toggle-moon i::before,
-.toggle-sun i::before,
-.article__title i::before,
-.top i::before {
+.fa-fallback .toggle-moon i::before,
+.fa-fallback .toggle-sun i::before,
+.fa-fallback .article__title i::before,
+.fa-fallback .top i::before {
   /* Ensure we use a system font instead of the missing icon font */
   font-family: sans-serif, -apple-system, BlinkMacSystemFont !important;
   font-style: normal;
@@ -329,22 +329,22 @@ table a {
 }
 
 /* 2. Navigation & Header Icons */
-.nav__icon-menu::before {
+.fa-fallback .nav__icon-menu::before {
   content: "\2261"; /* ≡ Menu */
   font-size: 28px;
 }
 
-.nav__icon-close i::before {
+.fa-fallback .nav__icon-close i::before {
   content: "\00D7"; /* × Close */
   font-size: 28px;
 }
 
-.nav__icon-search::before {
+.fa-fallback .nav__icon-search::before {
   content: "\1F50D"; /* 🔍 Search */
   font-size: 20px;
 }
 
-.social__link i::before {
+.fa-fallback .social__link i::before {
   content: "\2192"; /* → Social Arrow */
   font-size: 18px;
   margin-right: 5px;
@@ -373,8 +373,8 @@ table a {
 
 /* MOON POSITIONING (Far Right) */
 /* We target the ::before pseudo-element for the fallback text... */
-.toggle-moon i::before {
-  content: "\263E"; 
+.fa-fallback .toggle-moon i::before {
+  content: "\263E";
   font-size: 18px;
 }
 /* ...AND we apply the coordinates to the container so it works for SVG too */
@@ -384,7 +384,7 @@ table a {
 }
 
 /* SUN POSITIONING (Far Left) */
-.toggle-sun i::before {
+.fa-fallback .toggle-sun i::before {
   content: "\2600";
   font-size: 20px;
 }
@@ -394,14 +394,14 @@ table a {
 }
 
 /* 4. Blog Post Title Arrow (Right) */
-.article__title i::before {
+.fa-fallback .article__title i::before {
   content: "\2192"; /* → Right Arrow */
   /* Matches your design where the arrow is slightly smaller */
-  font-size: 0.8em; 
+  font-size: 0.8em;
 }
 
 /* 5. Scroll to Top Button (Up) */
-.top i::before {
+.fa-fallback .top i::before {
   content: "\2191"; /* ↑ Up Arrow */
   font-size: 20px;
 }
