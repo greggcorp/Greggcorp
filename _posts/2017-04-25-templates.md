@@ -18,7 +18,7 @@ When I share notes from a single interview or usability test in Slack, I keep th
 I want my colleagues to be aware of what I just learned, and who I learned it from. I try to anonymize participants in Slack by only referring to their role, not their name. Because I work with many internal users, I want to avoid bringing undue attention on any one person. (I also want to avoid interrupting their work by inadvertently summoning them to the Slack channel!)
 
 ## Google Doc
-When it comes to collecting findings into a more permanent document, I use [this Google Doc template](https://docs.google.com/document/d/1yuTzHv47qCRbqbcdzu8subZpbKXfCXNglsvkjCYIM-w/edit?usp=sharing) as a starting point.
+When it comes to collecting findings into a more permanent document, I use [this Google Doc template](https://docs.google.com/document/d/1KOwzmcALBJmgwHpCQdEj5kMYI_yazcy3xbBUqBmif_E/edit?usp=sharing) as a starting point.
 
 I keep reports as brief as possible, and open the doc with **recommendations and issues**. That’s what people want to see, so why make them work to find it? Placing the recommendations at the top also makes it possible to review the findings by previewing (rather than opening) the file in Google Drive.
 
