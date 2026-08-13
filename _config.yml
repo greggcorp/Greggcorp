@@ -18,7 +18,6 @@ author:
   avatar: '/images/gb_head_home.jpg'
 
 social:
-- {icon: "fa-brands fa-medium", label: Medium, link: "https://medium.com/@greggcorp"}
 - {icon: "fa-brands fa-linkedin", label: LinkedIn, link: "https://www.linkedin.com/in/greggbernstein"}
 - {icon: "fa-solid fa-circle-question", label: Should I talk to a human?, link: "https://shoulditalktoahuman.com/"}
 - {icon: "fa-solid fa-bookmark", label: My UXR bookmarks, link: "https://greggcorp.notion.site/Research-Practice-Bookmarks-6e6ffb6c8cc0484b8dc4b0485e584afd"}
