@@ -244,6 +244,40 @@
   }
 }
 
+/* Widget Links */
+.widget-links {
+  margin-top: 40px;
+
+  .footer-links {
+    li {
+      margin-bottom: 12px;
+
+      &:last-child {
+        margin-bottom: 0;
+      }
+    }
+
+    a {
+      display: flex;
+      align-items: center;
+      font-size: 14px;
+      color: var(--text-alt-color);
+      transition: $global-transition;
+
+      i {
+        width: 16px;
+        margin-right: 8px;
+        text-align: center;
+        font-size: 14px;
+      }
+
+      &:hover {
+        color: var(--light-gray);
+      }
+    }
+  }
+}
+
 /* Widget Tags */
 .tag__cloud {
   display: flex;

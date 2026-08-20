@@ -14,15 +14,15 @@ twitter:
 # Author Settings
 author:
   name: Gregg Bernstein
-#  bio: I'm a user experience researcher and author of <i>Research Practice</i>.
+#  bio: I'm a user experience researcher and writer.
   avatar: '/images/gb_head_home.jpg'
 
-social:
-- {icon: "fa-brands fa-linkedin", label: LinkedIn, link: "https://www.linkedin.com/in/greggbernstein"}
-- {icon: "fa-solid fa-circle-question", label: Should I talk to a human?, link: "https://shoulditalktoahuman.com/"}
-- {icon: "fa-solid fa-bookmark", label: My UXR bookmarks, link: "https://greggcorp.notion.site/Research-Practice-Bookmarks-6e6ffb6c8cc0484b8dc4b0485e584afd"}
-- {icon: "fa-brands fa-bluesky", label: My Bluesky UXR starter pack, link: "https://bsky.app/starter-pack/gregg.io/3lawj4judhq2z"}
-- {icon: "fa-solid fa-rss", label: Gregg.io RSS feed, link: "https://gregg.io/feed.xml"}
+# social:
+# - {icon: "fa-brands fa-linkedin", label: LinkedIn, link: "https://www.linkedin.com/in/greggbernstein"}
+# - {icon: "fa-solid fa-circle-question", label: Should I talk to a human?, link: "https://shoulditalktoahuman.com/"}
+# - {icon: "fa-solid fa-bookmark", label: My UXR bookmarks, link: "https://greggcorp.notion.site/Research-Practice-Bookmarks-6e6ffb6c8cc0484b8dc4b0485e584afd"}
+# - {icon: "fa-brands fa-bluesky", label: My Bluesky UXR starter pack, link: "https://bsky.app/starter-pack/gregg.io/3lawj4judhq2z"}
+# - {icon: "fa-solid fa-rss", label: Gregg.io RSS feed, link: "https://gregg.io/feed.xml"}
 # - {icon: "fa-brands fa-mastodon", label: Mastodon, link: "https://mastodon.social/@greggcorp"}
 # - {icon: "fa-twitter", label: Twitter, link: "https://twitter.com/greggcorp"}
 
@@ -30,7 +30,7 @@ social:
 # Hero Settings
 hero:
   hero__title: 👋 Hello! I’m Gregg.
-  hero__description: I'm a user experience researcher and designer. This site is where I work through ideas and share what I’m thinking. Questions? Get in touch!
+  hero__description: I'm a user experience researcher and writer. This site is where I work through ideas and share what I’m thinking. <a href="/contact/">Get in touch</a> with questions or suggestions!
   hero__image: '/images/gb_head_home.jpg'
 
 
@@ -40,6 +40,12 @@ newsletter: true # To enable the mailchimp form, use the value 'true'. To disabl
 newsletter__title: Get updates in your inbox # Add your Title
 newsletter__text: Subscribe to my newsletter to get my posts (and other randomness) delivered. # Add your description.
 newsletter__button__text: Subscribe # Add your button text
+
+
+#-------------------------------
+# Build exclusions
+exclude:
+  - speaking-archive.md
 
 
 #-------------------------------
