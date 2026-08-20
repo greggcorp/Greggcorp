@@ -10,7 +10,7 @@ permalink: /contact/
     <p class="page-description">{{site.contact.description}}</p>
     {% endif %}
   </div>
-  <form class="form" name="contact" action="../thanks" data-netlify="true" netlify-honeypot="bot-field" method="POST">
+  <form class="form" name="contact" action="../thanks" data-netlify="true" data-netlify-recaptcha="true" netlify-honeypot="bot-field" method="POST">
     <div class="form__group">
       <input type="hidden" name="subject" value="A message from gregg.io" />
       <p class="hidden">
@@ -28,6 +28,9 @@ permalink: /contact/
     <div class="form__group">
       <label class="form__label screen-reader-text" for="form-text">Your Message</label>
       <textarea class="form__input" id="form-text" name="text" rows="10" placeholder="What's on your mind?" required></textarea>
+    </div>
+    <div class="form__group">
+      <div data-netlify-recaptcha="true"></div>
     </div>
     <div class="form__group">
       <button class="button" type="submit">Send message</button>
