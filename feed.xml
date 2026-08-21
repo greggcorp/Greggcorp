@@ -66,8 +66,8 @@ collection: posts
       <byline:context>User experience researcher, writer, and designer. I write about UX, research leadership, and management.</byline:context>
       <byline:url>https://gregg.io/about/</byline:url>
       <byline:avatar>https://gregg.io/images/gb_head_home.jpg</byline:avatar>
-      <byline:profile>https://www.linkedin.com/in/greggbernstein</byline:profile>
-      <byline:profile>https://bsky.app/profile/gregg.io</byline:profile>
+      <byline:profile href="https://www.linkedin.com/in/greggbernstein" rel="linkedin"/>
+      <byline:profile href="https://bsky.app/profile/gregg.io" rel="bluesky"/>
     </byline:person>
   </byline:contributors>
 
