@@ -92,6 +92,7 @@ defaults:
 
 include:
   - _pages
+  - _headers
 
 # Tags
 tag_page_dir:         tag
