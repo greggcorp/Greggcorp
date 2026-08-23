@@ -50,22 +50,6 @@ layout: default
 -->
 
 
-    <div class="post-author">
-      <a href="{{site.baseurl}}/about/" class="post-author__image" aria-label="{{site.author.name}}">
-        <img src="{{site.baseurl}}{{site.author.avatar}}" alt="{{site.author.name}}">
-      </a>
-      <div class="post-author__info">
-        <h2 class="post-author__name"><a href="{{site.baseurl}}/about/">{{site.author.name}}</a></h2>
-        <p class="post-author__bio">{{ site.author.bio }}</p>
-        <div class="post-author__meta">
-          <a class="post-author__link" href="https://buttondown.email/greggcorp" target="_blank"><i class="fa-solid fa-envelope"></i>&nbsp; Subscribe to my newsletter</a>
-          {% for social in site.author-social %}
-          <a class="post-author__link" href="{{social.link}}" target="_blank"><i class="ion {{social.icon}}"></i></a>
-          {% endfor %}
-        </div>
-      </div>
-    </div>
-
     {% if site.disqus-identifier %} {% include disqus-comments.html %} {% endif %}
 
 {% if page.tags.size >= 1 %}

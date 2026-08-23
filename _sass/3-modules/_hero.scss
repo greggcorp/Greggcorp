@@ -1,16 +1,16 @@
 /* Hero */
 .hero {
-  margin-bottom: 40px;
+  margin-bottom: 32px;
 /* Update the hex code to your new Gold color (#FFB81C) with opacity */
   background-image: linear-gradient(360deg, transparent 0%, #FFB81C57 50%, transparent 100%);
   min-height: 32vh;
 
   @media only screen and (max-width: $tablet) {
-    margin-bottom: 60px;
+    margin-bottom: 48px;
   }
 
   @media only screen and (max-width: $mobile) {
-    margin-bottom: 48px;
+    margin-bottom: 38px;
   }
 
   .article__excerpt {

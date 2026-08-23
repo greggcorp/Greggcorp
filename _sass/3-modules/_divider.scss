@@ -1,0 +1,45 @@
+/* Content Divider */
+.content-divider {
+  display: flex;
+  align-items: center;
+  gap: 24px;
+  margin: 13px 0 48px;
+
+  @media only screen and (max-width: $mobile) {
+    gap: 14px;
+    margin: 6px 0 32px;
+  }
+}
+
+.content-divider__box {
+  flex: 0 0 60px;
+  height: 14px;
+  border-radius: 1px;
+
+  @media only screen and (max-width: $mobile) {
+    flex-basis: 32px;
+    height: 10px;
+  }
+}
+
+.content-divider__box--rust {
+  background: var(--rust);
+}
+
+.content-divider__box--orange {
+  background: var(--orange);
+}
+
+.content-divider__box--gold {
+  background: var(--gold);
+}
+
+.content-divider__squiggle {
+  flex: 1;
+  height: 28px;
+  color: var(--text-color);
+
+  @media only screen and (max-width: $mobile) {
+    height: 20px;
+  }
+}

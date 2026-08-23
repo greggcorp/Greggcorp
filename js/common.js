@@ -97,7 +97,7 @@ $(document).ready(function() {
   // Zoom Image
   ======================= */
   $(".page img, .post img").attr("data-action", "zoom");
-  $(".page a img, .post a img").removeAttr("data-action", "zoom");
+  $(".page a img, .post a img, .about-intro__photo img").removeAttr("data-action");
 
 
   /* =======================
