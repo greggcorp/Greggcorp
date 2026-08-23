@@ -3,16 +3,10 @@ layout: default
 ---
 
 <div class="container">
-  <div class="tag" {% for post in site.tags[page.tag] %}{% if forloop.index == 1 and post.image %} style="background-image: url({{site.baseurl}}{{post.image}});" {% endif %}{% endfor %}>
-    <div class="row">
-      <div class="col col-8 push-2 col-d-12 push-d-0"">
-        <div class="tag__inner">
-          <h1 class="tag__title">{{ page.tag }}</h1>
-          <div class="tag__counter">
-            <span>{{ site.tags[page.tag].size }}</span>
-            <small>{% if site.tags[page.tag].size < 2 %}Article{% else %}Articles{% endif %}</small>
-          </div>
-        </div>
+  <div class="row">
+    <div class="col col-12">
+      <div class="post__info">
+        <h1 class="post__title tag__title">Posts about {{ page.tag }}: <strong>{{ site.tags[page.tag].size }}</strong></h1>
       </div>
     </div>
   </div>
