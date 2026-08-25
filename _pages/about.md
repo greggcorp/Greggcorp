@@ -17,7 +17,7 @@ I studied journalism at the University of Georgia and earned my MFA in graphic d
   </div>
   <div class="about-intro__bio" markdown="1">
 
-I wrote [*Research Practice: Perspectives from UX researchers in a changing field*](http://researchpractice.co), a book that takes you inside the field of applied user research through the stories and experiences of the people doing the work.
+I wrote <a href="https://getbook.at/ResearchPractice/opt/1?iguid=Rrncom1QMUSIcYaYcFxhfg" target="blank">*Research Practice: Perspectives from UX researchers in a changing field*</a>, a book that takes you inside the field of applied user research through the stories and experiences of the people doing the work.
 
 > While other research books offer standard operating procedures, this book provides something more durable in the real world. It's a practical field guide that will give you the encouragement to get started, no matter what your background.
 >
