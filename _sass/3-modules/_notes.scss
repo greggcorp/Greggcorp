@@ -1,0 +1,82 @@
+/* Shared: clickable note timestamp */
+.note-time-link {
+  display: inline-block;
+  font-size: 13px;
+  font-weight: 700;
+  font-variant-numeric: tabular-nums;
+  color: var(--rust);
+  border-bottom: 1px solid var(--gold);
+  margin-bottom: 8px;
+  transition: $global-transition;
+
+  &:hover {
+    color: var(--brand-color);
+    border-color: var(--brand-color);
+  }
+}
+
+/* Shared: empty-state badge */
+.coming-soon-badge {
+  display: inline-block;
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 0.5px;
+  text-transform: uppercase;
+  color: var(--dark);
+  background: var(--gold);
+  padding: 6px 12px;
+  border-radius: 20px;
+}
+
+/* Notes index (/notes/) */
+.note-stream {
+  max-width: 680px;
+}
+
+.note-stream__item {
+  padding: 22px 0;
+  border-top: 1px solid var(--border-color);
+
+  &:first-child {
+    border-top: none;
+    padding-top: 0;
+  }
+
+  .note-time-link {
+    display: block;
+  }
+
+  p {
+    margin: 0;
+  }
+}
+
+/* Individual note permalink page */
+.note-single {
+  max-width: 680px;
+  padding: 12px 0 40px;
+}
+
+.note-single__time {
+  display: inline-block;
+}
+
+.note-single__content {
+  font-size: 18px;
+  line-height: 1.6;
+  margin-top: 4px;
+
+  p:last-child { margin-bottom: 0; }
+}
+
+.note-single__back {
+  display: inline-block;
+  margin-top: 32px;
+  font-size: 13px;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.3px;
+  color: var(--rust);
+
+  &:hover { color: var(--brand-color); }
+}

@@ -2,6 +2,7 @@
 layout: page
 title: About
 permalink: /about/
+nav_order: 3
 ---
 
 Hi, I'm Gregg! I am a user experience researcher and writer. This site is where I work through ideas and share what I’m thinking.

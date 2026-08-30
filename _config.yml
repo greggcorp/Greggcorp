@@ -74,14 +74,25 @@ markdown: kramdown
 permalink: /:title
 encoding: utf-8
 plugins:
-  - jekyll-paginate
   - jekyll-sitemap
   - jemoji
   - jekyll-feed
   - jekyll/tagging
+  - jekyll-paginate-v2
 
-paginate: 5
-paginate_path: "/page/:num"
+pagination:
+  enabled: true
+  per_page: 10
+  permalink: '/page/:num/'
+  title: ':title - page :num'
+  sort_field: 'date'
+  sort_reverse: true
+
+# Notes (short-form) collection
+collections:
+  notes:
+    output: true
+    permalink: /notes/:year:month:day:hour:minute
 
 # Pages Path
 defaults:
@@ -89,6 +100,11 @@ defaults:
       path: '_pages'
     values:
       permalink: /:basename:output_ext
+  - scope:
+      path: ''
+      type: notes
+    values:
+      layout: note
 
 include:
   - _pages

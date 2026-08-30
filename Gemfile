@@ -2,7 +2,7 @@ source 'https://rubygems.org'
 gem 'github-pages'
 gem "bundler"
 gem "jekyll"
-gem "jekyll-paginate"
+gem "jekyll-paginate-v2"
 gem 'jekyll-tagging'
 gem "jekyll-sitemap"
 gem 'jemoji'
