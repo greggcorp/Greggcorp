@@ -1,0 +1,45 @@
+---
+layout: null
+sitemap: false
+---
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:byline="https://bylinespec.org/1.0">
+  <generator uri="https://jekyllrb.com/" version="{{ jekyll.version }}">Jekyll</generator>
+  <link href="{{ page.url | absolute_url }}" rel="self" type="application/atom+xml" />
+  <link href="{{ '/notes/' | absolute_url }}" rel="alternate" type="text/html" />
+  <updated>{{ site.time | date_to_xmlschema }}</updated>
+  <id>{{ page.url | absolute_url | xml_escape }}</id>
+  <title type="html">{{ site.title | append: " | Notes" | xml_escape }}</title>
+  {%- if site.description %}
+  <subtitle>{{ site.description | xml_escape }}</subtitle>
+  {%- endif %}
+
+  <byline:contributors>
+    <byline:person id="gregg">
+      <byline:name>Gregg Bernstein</byline:name>
+      <byline:context>User experience researcher, writer, and designer. I write about UX, research leadership, and management.</byline:context>
+      <byline:url>https://gregg.io/about/</byline:url>
+      <byline:avatar>https://gregg.io/images/gb_head_home.jpg</byline:avatar>
+      <byline:profile href="https://www.linkedin.com/in/greggbernstein" rel="linkedin"/>
+      <byline:profile href="https://bsky.app/profile/gregg.io" rel="bluesky"/>
+    </byline:person>
+  </byline:contributors>
+
+  {%- assign notes = site.notes | sort: 'date' | reverse -%}
+  {%- for note in notes %}
+  <entry>
+    {%- assign note_title = note.content | strip_html | normalize_whitespace | truncate: 70 | xml_escape %}
+    <title type="html">{{ note_title }}</title>
+    <link href="{{ note.url | absolute_url }}" rel="alternate" type="text/html" title="{{ note_title }}" />
+    <published>{{ note.date | date_to_xmlschema }}</published>
+    <updated>{{ note.date | date_to_xmlschema }}</updated>
+    <id>{{ note.url | absolute_url | xml_escape }}</id>
+    <content type="html" xml:base="{{ note.url | absolute_url | xml_escape }}"><![CDATA[{{ note.content | strip }}]]></content>
+    <author>
+      <name>Gregg Bernstein</name>
+    </author>
+    <byline:author ref="gregg"/>
+    <byline:perspective>personal</byline:perspective>
+  </entry>
+  {%- endfor %}
+</feed>
