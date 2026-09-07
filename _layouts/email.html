@@ -16,6 +16,11 @@ layout: null
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>{{ page.post_title | xml_escape }}</title>
 <style>
+  body, table, td, a, p, div, span, li {
+    -webkit-text-size-adjust: 100%;
+    -ms-text-size-adjust: 100%;
+    text-size-adjust: 100%;
+  }
   @media only screen and (max-width: 600px) {
     .email-title { font-size:26px !important; }
     .email-meta { font-size:15px !important; }
@@ -29,7 +34,7 @@ layout: null
   }
 </style>
 </head>
-<body style="margin:0; padding:0; background-color:#F4EFE8;">
+<body style="margin:0; padding:0; background-color:#F4EFE8; -webkit-text-size-adjust:100%; -ms-text-size-adjust:100%; text-size-adjust:100%;">
 <div style="display: none; max-height: 0px; overflow: hidden;">{% raw %}{{PreviewText}}&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌{% endraw %}</div>
 <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="background-color:#F4EFE8;">
   <tr>

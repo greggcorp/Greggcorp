@@ -8,14 +8,14 @@ module GreggIo
   # email layout's own table shell).
   module EmailStyler
     HEADING_STYLE = "font-family:Georgia,'Times New Roman',serif;font-weight:bold;color:#9A3324;margin:28px 0 12px 0;"
-    P_STYLE = "margin:0 0 20px 0;font-family:Georgia,'Times New Roman',serif;font-size:21px;line-height:1.65;color:#2A241D;"
-    UL_STYLE = "margin:0 0 20px 0;padding-left:24px;font-family:Georgia,'Times New Roman',serif;font-size:21px;line-height:1.65;color:#2A241D;"
+    P_STYLE = "margin:0 0 20px 0;font-family:Georgia,'Times New Roman',serif;font-size:19px;line-height:1.65;color:#2A241D;"
+    UL_STYLE = "margin:0 0 20px 0;padding-left:24px;font-family:Georgia,'Times New Roman',serif;font-size:19px;line-height:1.65;color:#2A241D;"
     LI_STYLE = "margin-bottom:12px;"
     A_STYLE = "color:#9A3324;"
     BLOCKQUOTE_STYLE = "margin:0 0 20px 0;padding-left:16px;border-left:3px solid #EAE3D8;font-style:italic;color:#5A5248;"
     IMG_STYLE = "max-width:100%;height:auto;display:block;margin:0 0 20px 0;"
 
-    HEADING_SIZES = { "h1" => "28px", "h2" => "26px", "h3" => "24px", "h4" => "22px", "h5" => "21px", "h6" => "21px" }.freeze
+    HEADING_SIZES = { "h1" => "27px", "h2" => "25px", "h3" => "22px", "h4" => "19px", "h5" => "19px", "h6" => "19px" }.freeze
 
     # Returns [styled_html_string, block_count] for the first `limit` top-level
     # block elements when limit is given, or the full document when nil.
