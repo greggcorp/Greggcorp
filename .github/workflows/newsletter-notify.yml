@@ -70,7 +70,7 @@ jobs:
                   '',
                   '(Netlify takes a minute or two to deploy after a push — if the link 404s, give it a moment.)',
                   '',
-                  'Copy the page source into EmailOctopus’s "Code your own" campaign editor, review, and send.',
+                  'Open that link, then use View Page Source (Cmd+Option+U in Chrome/Safari) — not the rendered page itself — select all, and copy. Paste that into EmailOctopus’s "Code your own" campaign editor, review, and send.',
                   '',
                   'Close this issue once the campaign is sent.'
                 ].join('\n')
