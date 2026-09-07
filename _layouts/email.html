@@ -1,0 +1,83 @@
+---
+layout: null
+---
+{%- assign full_html = page.post_html | email_body -%}
+{%- assign full_bytes = full_html | byte_size -%}
+{%- if full_bytes <= 90000 -%}
+  {%- assign use_full = true -%}
+{%- else -%}
+  {%- assign use_full = false -%}
+  {%- assign excerpt_html = page.post_html | email_excerpt: 3 -%}
+{%- endif -%}
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{{ page.post_title | xml_escape }}</title>
+</head>
+<body style="margin:0; padding:0; background-color:#F4EFE8;">
+<table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="background-color:#F4EFE8;">
+  <tr>
+    <td align="center" style="padding:0;">
+      <table role="presentation" width="600" cellpadding="0" cellspacing="0" border="0" style="width:600px; max-width:600px; background-color:#FFFFFF;">
+
+        <tr>
+          <td style="padding:24px 40px; border-bottom:3px solid #FFB81C;">
+            <a href="{{ site.url }}" style="border:0; text-decoration:none;"><img src="{{ site.url }}/images/greggworld.png" width="200" height="44" alt="Gregg Bernstein" style="display:block; width:200px; max-width:200px; height:44px; border:0;"></a>
+          </td>
+        </tr>
+
+        <tr>
+          <td style="padding:32px 40px 8px 40px;">
+            <div style="font-family:Georgia, 'Times New Roman', serif; font-size:28px; line-height:1.25; font-weight:bold; color:#1C1712;">{{ page.post_title | xml_escape }}</div>
+          </td>
+        </tr>
+
+        <tr>
+          <td style="padding:0 40px 24px 40px;">
+            <div style="font-family:Arial, Helvetica, sans-serif; font-size:13px; color:#8A8378;">{{ page.post_date | date: "%B %-d, %Y" }} &nbsp;&middot;&nbsp; <a href="{{ page.post_url | absolute_url }}" style="color:#9A3324;">Read on gregg.io</a></div>
+          </td>
+        </tr>
+
+        <tr>
+          <td style="padding:0 40px 8px 40px;">
+            {%- if use_full -%}
+              {{ full_html }}
+            {%- else -%}
+              {{ excerpt_html }}
+            {%- endif -%}
+          </td>
+        </tr>
+
+        {%- unless use_full -%}
+        <tr>
+          <td style="padding:12px 40px 36px 40px;">
+            <table role="presentation" cellpadding="0" cellspacing="0" border="0">
+              <tr>
+                <td style="background-color:#9A3324; border-radius:2px;">
+                  <a href="{{ page.post_url | absolute_url }}" style="display:inline-block; padding:12px 26px; font-family:Arial, Helvetica, sans-serif; font-size:14px; font-weight:bold; color:#FFFFFF; text-decoration:none; letter-spacing:0.5px;">Continue reading &rarr;</a>
+                </td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+        {%- endunless -%}
+
+        <tr>
+          <td style="padding:0 40px;"><div style="border-top:1px solid #EAE3D8;"></div></td>
+        </tr>
+
+        <tr>
+          <td style="padding:24px 40px 32px 40px; font-family:Arial, Helvetica, sans-serif; font-size:12px; line-height:1.7; color:#8A8378;">
+            You&rsquo;re receiving this because you subscribed to Gregg Bernstein&rsquo;s newsletter at gregg.io.<br>
+            <a href="#" style="color:#8A8378;">Unsubscribe</a> &nbsp;&middot;&nbsp; <a href="{{ site.url }}" style="color:#8A8378;">gregg.io</a> &nbsp;&middot;&nbsp; <a href="{{ site.url }}/feed.xml" style="color:#8A8378;">RSS</a>
+          </td>
+        </tr>
+
+      </table>
+    </td>
+  </tr>
+</table>
+</body>
+</html>
