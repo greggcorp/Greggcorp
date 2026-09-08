@@ -28,9 +28,8 @@ sitemap: false
   {%- assign notes = site.notes | sort: 'date' | reverse -%}
   {%- for note in notes %}
   <entry>
-    {%- assign note_title = note.content | strip_html | normalize_whitespace | truncate: 70 | xml_escape %}
-    <title type="html">{{ note_title }}</title>
-    <link href="{{ note.url | absolute_url }}" rel="alternate" type="text/html" title="{{ note_title }}" />
+    {%- comment -%} No <title>: Micro.blog treats titled feed items as "title + link" and only cross-posts untitled items as full text. {%- endcomment %}
+    <link href="{{ note.url | absolute_url }}" rel="alternate" type="text/html" />
     <published>{{ note.date | date_to_xmlschema }}</published>
     <updated>{{ note.date | date_to_xmlschema }}</updated>
     <id>{{ note.url | absolute_url | xml_escape }}</id>

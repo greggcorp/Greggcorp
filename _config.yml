@@ -73,6 +73,7 @@ contact:
 markdown: kramdown
 permalink: /:title
 encoding: utf-8
+timezone: America/New_York # Netlify builds in UTC; without this, note URLs and times render in UTC
 plugins:
   - jekyll-sitemap
   - jemoji
