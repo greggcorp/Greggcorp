@@ -1,0 +1,64 @@
+name: Publish Note from Issue
+
+on:
+  issues:
+    types: [opened]
+
+jobs:
+  publish:
+    if: >
+      contains(github.event.issue.labels.*.name, 'note') &&
+      github.event.issue.user.login == github.repository_owner
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      issues: write
+    steps:
+      - name: Write note file and close issue
+        uses: actions/github-script@v8
+        with:
+          script: |
+            const rawBody = context.payload.issue.body || '';
+
+            // Issue forms render a single field as "### <label>\n\n<value>" —
+            // strip that heading so the file holds just the note text.
+            const match = rawBody.match(/^#{1,6}\s*.*?\n\n([\s\S]*)$/);
+            const noteText = (match ? match[1] : rawBody).trim();
+
+            if (!noteText) {
+              await github.rest.issues.createComment({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                issue_number: context.issue.number,
+                body: "Couldn't find any note text in this issue, so I left it open — edit the body and reopen, or open a new one."
+              });
+              return;
+            }
+
+            const createdAt = new Date(context.payload.issue.created_at);
+            const iso = createdAt.toISOString().replace(/\.\d{3}Z$/, 'Z');
+            const datePrefix = iso.slice(0, 10);
+            const path = `_notes/${datePrefix}-note-${context.issue.number}.md`;
+            const content = `---\ndate: ${iso}\n---\n${noteText}\n`;
+
+            await github.rest.repos.createOrUpdateFileContents({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              path,
+              message: `Add note (#${context.issue.number})`,
+              content: Buffer.from(content).toString('base64'),
+            });
+
+            await github.rest.issues.createComment({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: context.issue.number,
+              body: `Published to \`${path}\`. It'll show up on [gregg.io/notes/](https://gregg.io/notes/) once the site rebuilds, and Micro.blog will crosspost it on its next poll.`
+            });
+
+            await github.rest.issues.update({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: context.issue.number,
+              state: 'closed'
+            });

@@ -1,0 +1,13 @@
+name: Note
+description: Post a short note to gregg.io/notes — submitting this auto-publishes it.
+title: "Note"
+labels: ["note"]
+body:
+  - type: textarea
+    id: note-body
+    attributes:
+      label: Note
+      description: Markdown is fine (e.g. a link). No title needed — just the text you want posted.
+      placeholder: What's on your mind?
+    validations:
+      required: true
