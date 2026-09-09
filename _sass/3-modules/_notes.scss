@@ -42,8 +42,16 @@
     padding-top: 0;
   }
 
-  .note-time-link {
+  .note-stream__time {
     display: block;
+    font-size: 12px;
+    line-height: 14px;
+    font-weight: 700;
+    letter-spacing: 2px;
+    color: var(--heading-font-color);
+    margin-bottom: 12px;
+
+    &:hover { color: var(--link-color-hover); }
   }
 
   p {
@@ -59,6 +67,11 @@
 
 .note-single__time {
   display: inline-block;
+  font-size: 12px;
+  line-height: 14px;
+  font-weight: 700;
+  letter-spacing: 2px;
+  color: var(--heading-font-color);
 }
 
 .note-single__content {
